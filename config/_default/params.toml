@@ -14,6 +14,10 @@ font = "minimal"
 # Font color.
 font_color = "#000000"
 
+# Choose a font size.
+# Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
+font_size = "L"
+
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = "Learn about Latin Mass weddings!"
 
