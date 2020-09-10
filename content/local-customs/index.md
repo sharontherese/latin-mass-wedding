@@ -20,7 +20,7 @@ I have arranged the customs thematically, and will add examples of each custom a
 
 If you are interested in researching more about local customs, try historical archives and online newspaper collections.
 
-If you know of a Catholic wedding custom, [let me know] (https://www.latinmasswedding.com/#contact)!
+If you know of a Catholic wedding custom, [let me know](https://www.latinmasswedding.com/#contact)!
 
 # Crowns/wreaths
 
@@ -51,7 +51,7 @@ DiPippo, Gregory. “**The Velatio Nuptialis: An Ancient (and Forgotten) Part of
 Slovenia's national flower is a carnation, and one of their wedding customs involves carnations, and an unveiling at midnight. 
 Guillen, Jacquelyn. "*Parishes and couples embrace cultural wedding traditions*."_Chicago Catholic_, May 14, 2017. https://www.chicagocatholic.com/chicagoland/-/article/2017/05/14/parishes-and-couples-embrace-cultural-wedding-traditions
 
-For more information, visit the [Flowers](https://www.latinmasswedding.com/resources/flowers/)page;
+For more information, visit the [Flowers](/flowers/)page;
 
 # Other
 
