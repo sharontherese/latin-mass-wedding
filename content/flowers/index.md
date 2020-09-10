@@ -11,7 +11,7 @@ aliases = [
 
 # About
 
-In addition to having their own rubrics, flowers have rich traditions in Catholicism, history, art, culture, and music! Below are relevant resources, rubrics (also on the [Rubrics](https://www.latinmasswedding.com/resources/rubrics-for-the-wedding-mass/) page), and some notes from my own floral research. 
+In addition to having their own rubrics, flowers have rich traditions in Catholicism, history, art, culture, and music! Below are relevant resources, rubrics (also on the [Rubrics](/rubrics/) page), and some notes from my own floral research. 
 
 # Choosing flowers 
 
