@@ -14,15 +14,17 @@ My husband, William, and I were married in a Latin Mass wedding on September 22,
 
 As a librarian who is chronically unable to be relaxed about anything, I spent much of my wedding planning time accruing piles of research on Catholic wedding masses. This website is everything I have found, to date, about Latin Mass weddings, plus a lot of extra (but related) content on traditional aspects of Catholicism.
 
-The critical stuff is in the [Rite of Marriage](https://www.latinmasswedding.com/rite-of-marriage/) and the [Wedding Mass](https://www.latinmasswedding.com/the-wedding-mass/).
+The critical stuff is in the [Rite of Marriage](/rite-of-marriage/) and the [Wedding Mass](/the-wedding-mass/).
 
-More information, from [rubrics ](https://www.latinmasswedding.com/resources/rubrics-for-the-wedding-mass/)to [roses](https://www.latinmasswedding.com/resources/flowers/), can be found under [Resources](https://www.latinmasswedding.com/resources/).
+Everything else, from [rubrics ](/rubrics-for-the-wedding-mass/)to [roses](/flowers/), can be found under the Planning section.
 
 Most pages have an "About" section at the top, to provide context.
 
-Any word in _italics_ can be found in the [Glossary](https://www.latinmasswedding.com/resources/glossary/).
+Any word in _italics_ can be found in the [Glossary](/glossary/).
 
-I have an [FAQ ](https://www.latinmasswedding.com/start-here/faqs/)page to get you started.
+I have an [FAQ ](/faqs/)page to get you started.
+
+Also see [Latin Mass Baptism](https://latinmassbaptism.com/), the sister site to this one.
 
 I also have a [personal site](https://sharonkabel.com) full of fun and exciting research.
 
