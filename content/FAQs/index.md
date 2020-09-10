@@ -23,7 +23,7 @@ In Catholic weddings in the _Novus Ordo_ Mass, the actual wedding - the _Rite of
 
 The blog TraditionalCatholicPriest offers a comparison of the Latin Mass wedding with the Novus Ordo wedding. [^4]
 
-For more information on details about what makes the Latin Mass distinct, visit the [Latin Mass](https://www.latinmasswedding.com/resources/the-mass/) page.
+For more information on details about what makes the Latin Mass distinct, visit the [Latin Mass](/the-mass/) page.
 
 # What can I customize with the wedding Mass?
 
@@ -37,27 +37,27 @@ Be aware of the liturgical season when choosing your Mass. Traditionally peniten
 
 You will not choose lectors, as the priest(s) will recite or chant the readings. You will likely not choose altar servers, as they will have to be familiar with the Latin Mass.
 
-You can, of course, customize non-liturgical elements of the day, like flowers. Read more about floral traditions on the [Flowers](https://www.latinmasswedding.com/resources/flowers/) page.
+You can, of course, customize non-liturgical elements of the day, like flowers. Read more about floral traditions on the [Flowers](/flowers/) page.
 
 # What about music?
 
-Visit the [Mass Music](https://www.latinmasswedding.com/resources/mass-music) page for more information! Generally speaking, the best music setting for the mass is _Gregorian chant_, and the best texts are the _propers_ (because they are directly from Scripture). Strictly speaking, hymns are private meditations and belong to the Divine Office or other private prayer time. Hymns are usually allowed for the procession in, and procession out, but otherwise they should either not be used at all in the Mass, or chosen very carefully for their beauty, timelessness, and faithfulness to the Word of God. What you are encouraged to choose are the _settings_ for the mass texts; for example, you can have the ordinaries (Kyrie, Gloria, etc.) sung to Gregorian chant, or to a psalm tone, or to a polyphonic (multi-voice - soprano, alto, etc.) setting.
+Visit the [Mass Music](/mass-music) page for more information! Generally speaking, the best music setting for the mass is _Gregorian chant_, and the best texts are the _propers_ (because they are directly from Scripture). Strictly speaking, hymns are private meditations and belong to the Divine Office or other private prayer time. Hymns are usually allowed for the procession in, and procession out, but otherwise they should either not be used at all in the Mass, or chosen very carefully for their beauty, timelessness, and faithfulness to the Word of God. What you are encouraged to choose are the _settings_ for the mass texts; for example, you can have the ordinaries (Kyrie, Gloria, etc.) sung to Gregorian chant, or to a psalm tone, or to a polyphonic (multi-voice - soprano, alto, etc.) setting.
 
 Realistically, though, this will depend on the resources available to you. Be in touch with your church’s music director to see what is feasible and encouraged.
 
 # You’re using words that I don’t know.
 
-Visit the [Glossary](https://www.latinmasswedding.com/resources/glossary/) page!
+Visit the [Glossary](/glossary/) page!
 
 # How can I help my wedding guests understand what's happening?
 
-Explore the pages under the Resources menu. There is introductory information on the [Latin Mass](https://www.latinmasswedding.com/resources/the-mass), things to include in your [wedding program](https://www.latinmasswedding.com/resources/mass-programs), and more. You are free to reuse my wedding program content or template!
+Explore the pages under the Resources menu. There is introductory information on the [Latin Mass](/the-mass), things to include in your [wedding program](/mass-programs), and more. You are free to reuse my wedding program content or template!
 
 Biretta Books offers a Latin-English booklet for Latin Mass weddings [^7]. For those familiar with the red Latin Mass booklets - it is the exact same book, but with additional texts for the Rite of Marriage.
 
 # What if I want to learn more about the history of all of this?
 
-Try the [History](https://www.latinmasswedding.com/resources/history/) page. Below is my "starter pack" on the history of Catholic marriage - both the Rite and the Mass.
+Try the [History](/history/) page. Below is my "starter pack" on the history of Catholic marriage - both the Rite and the Mass.
 
 Fish Eaters. “**Holy Matrimony**.” Accessed June 3, 2019. https://www.fisheaters.com/holymatrimony.html.
 
