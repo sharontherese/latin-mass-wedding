@@ -23,7 +23,7 @@ In Catholic weddings in the _Novus Ordo_ Mass, the actual wedding - the _Rite of
 
 The blog TraditionalCatholicPriest offers a comparison of the Latin Mass wedding with the Novus Ordo wedding. [^4]
 
-For more information on details about what makes the Latin Mass distinct, visit the [Latin Mass](/the-mass/) page.
+For more information on details about what makes the Latin Mass distinct, visit the [Latin Mass](/about-the-latin-mass/) page.
 
 # What can I customize with the wedding Mass?
 
