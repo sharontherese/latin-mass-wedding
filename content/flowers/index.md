@@ -27,6 +27,8 @@ For those more interested in flower histories and symbolism, see Gemminger's boo
 
 For a short, helpful overview on both choosing flowers and navigating rubrics, see _Flower Arrangement in the Church_ by Katharine M. McClinton.[^7]
 
+* {{% staticref "files/flowerarrangement_mcclinton.pdf" %}}Here is a PDF with excerpts from McClinton's book{{% /staticref %}}
+
 Flowers on the altar should be either fresh and cut, or if they are artificial, of the highest quality. Potted/rooted plants should not be placed on the altar, as the cut plants symbolize a sacrificed life. [^8]
 
 Flowers around the church may be fresh and cut, artificial, or potted. The flowers should be beautiful, and harmonious with the church when possible. [^7] 
