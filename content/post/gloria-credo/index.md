@@ -17,15 +17,15 @@ One of the most common questions regarding Latin Mass weddings is, "Do you inclu
 
 (Note: This post is not intended to tell you what to do for your wedding Mass. I am neither priest nor (thank goodness) liturgist. While I think there is an answer to this question, those planning a TLM wedding should bring this up with their priest. This post instead is a collection of sources that answer but more importantly illustrate why there is confusion on this point.) 
 
-My findings were, inadvertently, a microcosm of mid/late 20th century liturgical reforms. 
+While the Creed has consistently not been included in the wedding Mass, the Gloria has a different history.
 
 Before 1960, the rubrics as per the Roman Missal and every commentary I have found was to omit the Gloria and the Credo from the _Missa pro sponso_. This was in keeping with the nature of both parts of the Mass, which were historically reserved for important feasts. The rubrical revisions in 1960 and the subsequent 1962 Roman Missal allowed for the Gloria to be said for the _Missa pro sponso_. 
 
-What complicates this ostensibly simple history is that commentaries and hand missals did not always note this 1960/1962 change, and continually published material that said the Missa pro sponso omits the Gloria. In fact, the _only_ contemporary (1960s) source that I have found that has the updated (includes Gloria) rubrics is from Father Frederick mcManus, one of the most "plugged in" priests regarding liturgical reforms and discussions. 
+What complicates this ostensibly simple history is that commentaries and hand missals did not always immediately note this 1960/1962 change. Further complicating this is the occasional Catholic newspaper article reporting on wedding Masses that include the Gloria, such as [the wedding Mass of the daughter of General William Tecumseh Sherman](https://thecatholicnewsarchive.org/?a=d&d=TCT18741008-01.1.5&srpos=12). 
 
-Further complicating this is a number of Catholic newspaper articles reporting on wedding Masses that include the Gloria. 
+The more relevant complicating factor, I argue, is The Catholic Encyclopedia - fully available online, and on this rubrical point, out of date.
 
-Below is a sample of sources, arranged chronologically. They can be considered in three tiers: of primary importance (the Roman Missal and its supplements), of secondary importance (rubrical commentaries), and of tertiary importance (hand missals). I include less weighty sources like hand missals as they are what the average Catholic may have referenced to answer this question, and are therefore important at least regarding the contradictory answers. 
+Below is a sample of sources, arranged chronologically. They can be considered in three tiers: of primary importance (the Roman Missal and its supplements), of secondary importance (rubrical commentaries), and of tertiary importance (hand missals). I include less weighty sources like hand missals as they are what the average Catholic may have referenced to answer this question, and are therefore important for my purposes. 
 
 # 1907 
 
@@ -95,22 +95,90 @@ Saint Joseph Daily Missal. 1957. https://archive.org/details/saintjosephdaily00c
 
 # 1960
 
+The New Rubrics of the Roman Breviary and Missal: Translation and Commentary. Edited by Rev. Patrick L. Murphy. Australia: The Catholic Press Newspaper, 1960. https://maternalheart.org/library/1962rubrics.pdf.
+
+![](/uploads/gloriacredo/1960.png)
+
+> 325. Votive Masses are of the 1st, 2nd, 3rd or 4th class. The classes are considered individually in the following sections. (...)
+
+> 341. By a votive Mass of the 2nd class is meant a votive Mass which may be celebrated on all liturgical days of the 2nd , 3rd and 4th class. The Mass for bride and bridegroom and the Mass of thanksgiving on the 25th or 50th wedding anniversary are prohibited, however, on all Sundays.
+
+> 342. Votive Masses of the 2nd class, provided for by the general rubrics, are: [...] j) The votive Mass "for Bride and Bridegroom" and the Mass of thanksgiving on the 25th and 50th wedding anniversary (nos. 378-382).
+
+> 343. The privileges of votive Masses of the 2nd class are: a) they are said Gloria, unless violet vestments are used; but without creed, unless it is said by 
+reason of an occurring Sunday or octave…
+
+(This is when the rubrics were changed from no Gloria to yes Gloria.) 
+
+# 1960 
+
+Dziadosz J.C.D., Rev. Henry J. "New Rubrics Code No Radical Changes Made in Structure or Texts of Mass." 1960. https://thecatholicnewsarchive.org/?a=d&d=CTR19601215-01.2.86&srpos=1.
+
+![](/uploads/gloriacredo/1960b.png)
+
+> Please note that during the votive Mass "pro sponsis” the Gloria is to be said according to the present law. There is no Creed. however. 
+
 # 1961
 
-# 1962
+McManus, F.R. Handbook for the New Rubrics. Geoffrey Chapman, 1961.
+
+> (T)he chief votive Masses may be listed according to class: (...) (Class) 2. (...) certain votive Masses in shrines, nuptial Mass and Mass on jubilee wedding anniversaries. 
+
+> It may be convenient to list the occasions on which the _Gloria in excelsis Deo_ is sung or said: (...) 4. votive Masses of I, II, and III class...
 
 # 1962
 
-# 1964
+Catholic Church. Missale Romanum. 1962. https://d03fe30f-fff9-424f-b66f-01063bd12972.filesusr.com/ugd/c6f7dd_4d3ffd46eaba4ae8b544916512634089.pdf.
 
-# Newspapers
+![](/uploads/gloriacredo/1962.png)
 
-https://thecatholicnewsarchive.org/?a=d&d=cns19360928-01.1.11&srpos=6&e=-------en-20--1--txt-txIN-%22gloria+wedding%22~15------
+> Si solemnis benedictio nuptiarum, intra Missam, facienda sit die dominico vel die I classis, dicitur Missa de Officio occurrente, cum commemoratione sequentis Missae pro sponsis, sub unica conclusione, etiam diebus in quibus commemoratio Missae votivae impeditae prohibetur; et in ea datur benedictio nuptialis more solito. Si autem solemnis benedictio nuptiarum, intra Missam, facienda sit aliis diebus, dicitur sequens Missa votiva pro sponsis. In Commemoratione omnium Fidelium defunctorum et Triduo sacro prohibetur sive Missa votiva, sive eius commemoratio in Missa diei, sive benedictio nuptialis. infra Missam. Cum vero tam Missa pro sponsis quam benedictio nuptialis prohibetur, Missa una cum benedictione transferri potest in opportuniorem diem non impeditum, post celebratum matrimonium.
 
-https://thecatholicnewsarchive.org/?a=d&d=TCT18741008-01.1.5&srpos=12&e=-------en-20--1--txt-txIN-%22gloria+wedding%22~15------
+These nuptial rubrics are largely the same as the 1942 Roman Missal.
 
-https://thecatholicnewsarchive.org/?a=d&d=cst19620525-01.2.180&srpos=2&e=-------en-20--1--txt-txIN-%22gloria+nuptial%22~15------
+# 1962
 
-https://thecatholicnewsarchive.org/?a=d&d=CTR19601215-01.2.86&srpos=1&e=-------en-20--1--txt-txIN-%22gloria+sponsis%22~15------
-This explains it 
+Saint Andrew's Daily Missal. 1962.
+
+![](/uploads/gloriacredo/1962b.png)
+
+> The Gloria is said. 
+
+This hand missal is a helpful historical example. For one, it does include the updated rubrics. For another, it translates the Latin text from the Roman Missal, and we can see clearly that the "cum Gloria et Credo" is not referring to the _Missa pro sponso_. 
+
+# Sources 
+
+"The Sherman-Fitch Wedding." The Catholic Telegraph, October 8 1874. https://thecatholicnewsarchive.org/?a=d&d=TCT18741008-01.1.5&srpos=12.
+
+Mueller, Johann Baptist, W. H. W Fanning, and Andrew P. Gans. Handbook of Ceremonies for Priests and Seminarians. St. Louis: Herder, 1907. https://archive.org/details/handbookofceremo00muel/page/234/mode/2up?q=nuptial.
+
+Gihr, Fr. Nicholas. The Holy Sacrifice of the Mass. St. Louis: Herder, 1908. https://archive.org/details/holysacrificeofm00gihr/.
+
+Fortescue, Adrian. "Nuptial Mass." In The Catholic Encyclopedia. New York: Robert Appleton Company, 1911. https://www.newadvent.org/cathen/10005a.htm 
+
+———. The Ceremonies of the Roman Rite Described. London: Burns, Oates and Washbourne, 1920. https://archive.org/details/ceremoniesofrom00fort/page/408/mode/2up.
+
+Catholic Church. Missale Romanum. Benziger Brothers, 1942.
+
+O'Connell, Laurence John. The Book of Ceremonies. Milwaukee,: Bruce Publishing Company, 1956. https://archive.org/details/bookofceremonies0000ocon_1956/.
+
+Saint Joseph Daily Missal. 1957. https://archive.org/details/saintjosephdaily00cath/.
+
+The New Rubrics of the Roman Breviary and Missal: Translation and Commentary. Edited by Rev. Patrick L. Murphy. Australia: The Catholic Press Newspaper, 1960. https://maternalheart.org/library/1962rubrics.pdf.
+
+"General Rubrics of the Roman Missal." 1960, http://divinumofficium.com/www/horas/Help/Rubrics/Missal1960%20rubrics.html.
+
+Dziadosz J.C.D., Rev. Henry J. "New Rubrics Code No Radical Changes Made in Structure or Texts of Mass." The Catholic Transcript, December 15 1960. https://thecatholicnewsarchive.org/?a=d&d=CTR19601215-01.2.86&srpos=1.
+
+McManus, F.R. Handbook for the New Rubrics. Geoffrey Chapman, 1961.
+
+Saint Andrew's Daily Missal. 1962.
+
+"Nuptial Mass, Vows Recorded; the True Sound of S. Richter." The Catholic Standard and Times, May 25 1962. https://thecatholicnewsarchive.org/?a=d&d=cst19620525-01.2.180&srpos=2.
+
+Catholic Church. Missale Romanum. 1962. https://d03fe30f-fff9-424f-b66f-01063bd12972.filesusr.com/ugd/c6f7dd_4d3ffd46eaba4ae8b544916512634089.pdf.
+
+Pope Paul VI. "Sacram Liturgiam."  (1964). https://adoremus.org/2007/12/sacram-liturgiam/.
+
+Benofy, Susan. "The Day the Mass Changed, How It Happened and Why - Part Ii." Adoremus Bulletin, March, 2010. https://www.catholicculture.org/culture/library/view.cfm?recnum=9378.
 
