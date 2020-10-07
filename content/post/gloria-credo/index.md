@@ -11,6 +11,7 @@ view: 2
 header:
   caption: ""
   image: "headergloriacredo.png"
+draft: true 
 ---
 
 One of the most common questions regarding Latin Mass weddings is, "Do you include the Gloria and/or the Creed?" 
