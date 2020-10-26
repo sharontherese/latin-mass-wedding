@@ -36,4 +36,6 @@ See an error or a broken link?
 Spot some liturgical heresy?   
 Contact your local inquisition tribunal, or, for the more forgiving, contact me using the form below.
 
+A sister site to [Latin Mass Funeral](https://www.latinmassfuneral.com/) and [Latin Mass Baptism](https://www.latinmassbaptism.com/).
+
 \-Sharon
