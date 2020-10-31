@@ -21,8 +21,10 @@ While diamond engagement rings as the norm are a completely manufactured custom 
 
 # Sources 
 
-Fielding, William J. **Strange Customs Of Courtship And Marriage**, 1942. http://archive.org/details/in.ernet.dli.2015.84585.
+Fielding, William J. Strange Customs Of Courtship And Marriage, 1942. http://archive.org/details/in.ernet.dli.2015.84585.
 
-Jones, William. **Finger-Ring Lore; Historical, Legendary, Anecdotal**. London, Chatto and Windus, 1877. http://archive.org/details/fingerringlorehi00jonerich.
+Jones, William. Finger-Ring Lore; Historical, Legendary, Anecdotal. London, Chatto and Windus, 1877. http://archive.org/details/fingerringlorehi00jonerich.
 
-Maskell, Joseph. **The Wedding-Ring: Its History, Literature, and the Superstitions Respecting It**, 1868.
+Maskell, Joseph. The Wedding-Ring: Its History, Literature, and the Superstitions Respecting It, 1868.
+
+"The Curiosities of Antiquity. Hand Rings." The Illustrated Magazine of Art 1, no. 1 (1853): 10-12. http://www.jstor.org/stable/20537876.
