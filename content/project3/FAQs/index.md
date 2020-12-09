@@ -6,7 +6,7 @@ tags:
 date: ""
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.latinmasswedding.com/FAQs/"
+external_link: "/FAQs/"
 
 # image:
  # caption: Photo by rawpixel on Unsplash
