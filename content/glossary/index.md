@@ -27,10 +27,10 @@ Low Mass
 : A Latin Mass that is spoken, not sung. [^3]
 
 Missa pro sponso et sponsa
-: The Mass for the Groom and Bride. One of many _votive Masses_.
+: The Mass for the Groom and Bride. One of many _votive Masses_. Also called the Missa pro sponsis.
 
 Missale Romanum
-: The books of texts for the Catholic Mass.
+: The book of texts for the Catholic Mass.
 
 Music of the Mass
 : Texts of the Mass that can be sung. [^4]
@@ -66,22 +66,22 @@ Tempus clausum
 : Latin for _forbidden time_. In this context, it refers to the (usually penitential) times of the liturgical year when marriages are forbidden or strongly discouraged; namely, Lent, Advent, and the vigil of Pentecost. [^7]
 
 Votive Mass
-: A Mass offered for a special intention, such as a Mass for kings, bishops, martyrs, a new church, the sick, or marriages. The votive Mass for marriages is called _Missa pro sponso et sponsa_ (Mass for the groom and the bride). [^8]
+: A Mass offered for a special intention, such as a Mass for kings, bishops, martyrs, a new church, the sick, or marriages. The votive Mass for marriages is called _Missa pro sponso et sponsa_ (Mass for the groom and the bride), or Missa pro sponsis. [^8]
 
 # Sources
 
-[^1]: Smet, Alöis de. Betrothment and Marriage; a Canonical and Theological Treatise with Notices on History and Civil Law. St. Louis : B. Herder, 1912. [http://archive.org/details/betrothmentmarri01smetiala.](http://archive.org/details/betrothmentmarri01smetiala. "http://archive.org/details/betrothmentmarri01smetiala.")
+[^1]: Smet, Alöis de. Betrothment and Marriage; a Canonical and Theological Treatise with Notices on History and Civil Law. St. Louis : B. Herder, 1912. http://archive.org/details/betrothmentmarri01smetiala.
 
-[^2]: “**What Is Gregorian Chant?**” _GIA Publications_, [https://www.giamusic.com/sacred_music/chant_what_is.cfm](https://www.giamusic.com/sacred_music/chant_what_is.cfm "https://www.giamusic.com/sacred_music/chant_what_is.cfm"). Accessed 3 June 2019.
+[^2]: “What Is Gregorian Chant?” _GIA Publications_, https://www.giamusic.com/sacred_music/chant_what_is.cfm. Accessed 3 June 2019.
 
-[^3]: Regina Caeli Parish. **_Low Mass, Sung Mass, High Mass, Solemn Mass_.** 12 June 2013, [https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf](https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf "https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf").
+[^3]: Regina Caeli Parish. _Low Mass, Sung Mass, High Mass, Solemn Mass_. 12 June 2013, https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf.
 
-[^4]: Henry, Hugh. “**Music of the Mass.**” _The Catholic Encyclopedia_, vol. 10, New York: Robert Appleton Company, 1911, [http://www.newadvent.org/cathen/10001a.htm](http://www.newadvent.org/cathen/10001a.htm "http://www.newadvent.org/cathen/10001a.htm").
+[^4]: Henry, Hugh. “Music of the Mass.” _The Catholic Encyclopedia_, vol. 10, New York: Robert Appleton Company, 1911, http://www.newadvent.org/cathen/10001a.htm.
 
-[^5]:“**Catholic Rites and Churches.**” _EWTN_, 2007, [https://www.ewtn.com/expert/answers/catholic_rites_and_churches.htm](https://www.ewtn.com/expert/answers/catholic_rites_and_churches.htm "https://www.ewtn.com/expert/answers/catholic_rites_and_churches.htm").
+[^5]:“**Catholic Rites and Churches.” _EWTN_, 2007, https://www.ewtn.com/expert/answers/catholic_rites_and_churches.htm.
 
-[^6]: Thurston, Herbert. “**Ritual of Marriage.**” _The Catholic Encyclopedia_, vol. 9, New York: Robert Appleton Company, 1910, [http://www.newadvent.org/cathen/09703b.htm](http://www.newadvent.org/cathen/09703b.htm "http://www.newadvent.org/cathen/09703b.htm").
+[^6]: Thurston, Herbert. “Ritual of Marriage.**” _The Catholic Encyclopedia_, vol. 9, New York: Robert Appleton Company, 1910, http://www.newadvent.org/cathen/09703b.htm.
 
-[^7]: Friel, David. “**Steering Wedding Dates Away from Advent & Lent**.” _Corpus Christi Watershed_, 9 Mar. 2014, [http://www.ccwatershed.org/blog/2014/mar/9/steering-wedding-dates-away-advent-lent/](http://www.ccwatershed.org/blog/2014/mar/9/steering-wedding-dates-away-advent-lent/ "http://www.ccwatershed.org/blog/2014/mar/9/steering-wedding-dates-away-advent-lent/").
+[^7]: Friel, David. “**Steering Wedding Dates Away from Advent & Lent**.” _Corpus Christi Watershed_, 9 Mar. 2014, http://www.ccwatershed.org/blog/2014/mar/9/steering-wedding-dates-away-advent-lent/.
 
-[^8]: Fortescue, Adrian. “**Votive Mass.**” _The Catholic Encyclopedia_, vol. 15, New York: Robert Appleton Company, 1912, [http://www.newadvent.org/cathen/15508b.htm](http://www.newadvent.org/cathen/15508b.htm "http://www.newadvent.org/cathen/15508b.htm").
+[^8]: Fortescue, Adrian. “**Votive Mass.**” _The Catholic Encyclopedia_, vol. 15, New York: Robert Appleton Company, 1912, http://www.newadvent.org/cathen/15508b.htm.
