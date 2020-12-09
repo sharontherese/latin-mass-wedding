@@ -78,10 +78,10 @@ Votive Mass
 
 [^4]: Henry, Hugh. “Music of the Mass.” _The Catholic Encyclopedia_, vol. 10, New York: Robert Appleton Company, 1911, http://www.newadvent.org/cathen/10001a.htm.
 
-[^5]:“**Catholic Rites and Churches.” _EWTN_, 2007, https://www.ewtn.com/expert/answers/catholic_rites_and_churches.htm.
+[^5]:“Catholic Rites and Churches.” _EWTN_, 2007, https://www.ewtn.com/expert/answers/catholic_rites_and_churches.htm.
 
-[^6]: Thurston, Herbert. “Ritual of Marriage.**” _The Catholic Encyclopedia_, vol. 9, New York: Robert Appleton Company, 1910, http://www.newadvent.org/cathen/09703b.htm.
+[^6]: Thurston, Herbert. “Ritual of Marriage.” _The Catholic Encyclopedia_, vol. 9, New York: Robert Appleton Company, 1910, http://www.newadvent.org/cathen/09703b.htm.
 
-[^7]: Friel, David. “**Steering Wedding Dates Away from Advent & Lent**.” _Corpus Christi Watershed_, 9 Mar. 2014, http://www.ccwatershed.org/blog/2014/mar/9/steering-wedding-dates-away-advent-lent/.
+[^7]: Friel, David. “Steering Wedding Dates Away from Advent & Lent.” _Corpus Christi Watershed_, 9 Mar. 2014, http://www.ccwatershed.org/blog/2014/mar/9/steering-wedding-dates-away-advent-lent/.
 
-[^8]: Fortescue, Adrian. “**Votive Mass.**” _The Catholic Encyclopedia_, vol. 15, New York: Robert Appleton Company, 1912, http://www.newadvent.org/cathen/15508b.htm.
+[^8]: Fortescue, Adrian. “Votive Mass.” _The Catholic Encyclopedia_, vol. 15, New York: Robert Appleton Company, 1912, http://www.newadvent.org/cathen/15508b.htm.
