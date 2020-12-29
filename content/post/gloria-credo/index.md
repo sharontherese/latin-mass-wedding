@@ -16,9 +16,11 @@ draft: true
 
 One of the most common questions regarding Latin Mass weddings is, "Do you include the Gloria and/or the Creed?" 
 
-Those planning a TLM wedding should bring this up with their priest. This post is a collection of sources that attempt to answer the question, and explain why there is confusion on this point.
+The short answer is that yes, you include the Gloria, and no, you do not include the Creed. 
 
-While the Creed has consistently not been included in the wedding Mass, the Gloria has a different history.
+The longer answer is that those planning a TLM wedding should bring this up with their priest, and there's a reason why this question continues to be asked.
+
+While rubrics have always said no Creed for the wedding Mass, the Gloria has a different history.
 
 Before 1960, the rubrics as per the Roman Missal, and every commentary I have found, was to omit the Gloria and the Credo from the _Missa pro sponso_. This was in keeping with the nature of both parts of the Mass, which were historically reserved for important feasts. 
 
@@ -28,7 +30,7 @@ Complicating this ostensibly simple history is that the entry for wedding Masses
 
 Occasionally, Catholic newspaper articles reported wedding Masses that included the Gloria, such as [the wedding Mass of the daughter of General William Tecumseh Sherman](https://thecatholicnewsarchive.org/?a=d&d=TCT18741008-01.1.5&srpos=12). This is not terribly surprising, given for better or for worse the long-standing divergences between wedding rules and practice.
 
-Below is a sample of sources, arranged chronologically. They can be considered in three tiers: of primary importance (the Roman Missal and its supplements), of secondary importance (rubrical commentaries), and of tertiary importance (hand missals). I include less weighty sources like hand missals as they are what the average Catholic may have referenced to answer this question, and are therefore important for my purposes. 
+Below is a sample of sources, arranged chronologically. They can be considered in two tiers: of primary importance (the Roman Missal and its supplements), and of secondary importance (rubrical commentaries). 
 
 # 1907 
 
@@ -86,16 +88,6 @@ O'Connell, Laurence John. The Book of Ceremonies. Milwaukee,: Bruce Publishing C
 
 > The Mass _pro sponsis_, though specially privileged with regard to the days on which it may be celebrated, has the rank of a private votive Mass (p. 141). Hence, the _Gloria_ and Creed are omitted...
 
-# 1957
-
-Saint Joseph Daily Missal. 1957. https://archive.org/details/saintjosephdaily00cath/page/n1377/mode/2up.
-
-![](/uploads/gloriacredo/1957.png)
-
-> Omit Gloria.
-
-(The Creed is not mentioned.) 
-
 # 1960
 
 The New Rubrics of the Roman Breviary and Missal: Translation and Commentary. Edited by Rev. Patrick L. Murphy. Australia: The Catholic Press Newspaper, 1960. https://maternalheart.org/library/1962rubrics.pdf.
@@ -138,16 +130,6 @@ Catholic Church. Missale Romanum. 1962. https://d03fe30f-fff9-424f-b66f-01063bd1
 > Si solemnis benedictio nuptiarum, intra Missam, facienda sit die dominico vel die I classis, dicitur Missa de Officio occurrente, cum commemoratione sequentis Missae pro sponsis, sub unica conclusione, etiam diebus in quibus commemoratio Missae votivae impeditae prohibetur; et in ea datur benedictio nuptialis more solito. Si autem solemnis benedictio nuptiarum, intra Missam, facienda sit aliis diebus, dicitur sequens Missa votiva pro sponsis. In Commemoratione omnium Fidelium defunctorum et Triduo sacro prohibetur sive Missa votiva, sive eius commemoratio in Missa diei, sive benedictio nuptialis. infra Missam. Cum vero tam Missa pro sponsis quam benedictio nuptialis prohibetur, Missa una cum benedictione transferri potest in opportuniorem diem non impeditum, post celebratum matrimonium.
 
 These nuptial rubrics are largely the same as the 1942 Roman Missal.
-
-# 1962
-
-Saint Andrew's Daily Missal. 1962.
-
-![](/uploads/gloriacredo/1962b.png)
-
-> The Gloria is said. 
-
-This hand missal is a helpful historical example. For one, it does include the updated rubrics. For another, it translates the Latin text from the Roman Missal, and we can see clearly that the "cum Gloria et Credo" is not referring to the _Missa pro sponso_. 
 
 # Sources 
 
