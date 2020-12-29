@@ -1,5 +1,5 @@
 ---
-title: Do you include the Gloria and the Credo in the wedding Mass? 
+title: Do you include the Gloria and the Credo in the Traditional Latin wedding Mass? 
 
 # View.
 #   1 = List
@@ -16,15 +16,17 @@ draft: true
 
 One of the most common questions regarding Latin Mass weddings is, "Do you include the Gloria and/or the Creed?" 
 
-(Note: This post is not intended to tell you what to do for your wedding Mass. I am neither priest nor (thank goodness) liturgist. While I think there is an answer to this question, those planning a TLM wedding should bring this up with their priest. This post instead is a collection of sources that answer but more importantly illustrate why there is confusion on this point.) 
+Those planning a TLM wedding should bring this up with their priest. This post is a collection of sources that attempt to answer the question, and explain why there is confusion on this point.
 
 While the Creed has consistently not been included in the wedding Mass, the Gloria has a different history.
 
-Before 1960, the rubrics as per the Roman Missal and every commentary I have found was to omit the Gloria and the Credo from the _Missa pro sponso_. This was in keeping with the nature of both parts of the Mass, which were historically reserved for important feasts. The rubrical revisions in 1960 and the subsequent 1962 Roman Missal allowed for the Gloria to be said for the _Missa pro sponso_. 
+Before 1960, the rubrics as per the Roman Missal, and every commentary I have found, was to omit the Gloria and the Credo from the _Missa pro sponso_. This was in keeping with the nature of both parts of the Mass, which were historically reserved for important feasts. 
 
-What complicates this ostensibly simple history is that commentaries and hand missals did not always immediately note this 1960/1962 change. Further complicating this is the occasional Catholic newspaper article reporting on wedding Masses that include the Gloria, such as [the wedding Mass of the daughter of General William Tecumseh Sherman](https://thecatholicnewsarchive.org/?a=d&d=TCT18741008-01.1.5&srpos=12). 
+The rubrical revisions in 1960 and the subsequent 1962 Roman Missal allowed for the Gloria to be said for the _Missa pro sponso_. 
 
-The more relevant complicating factor, I argue, is The Catholic Encyclopedia - fully available online, and on this rubrical point, out of date.
+Complicating this ostensibly simple history is that the entry for wedding Masses in The Catholic Encyclopedia - fully available online and easily accessible - is on this rubrical point out of date. 
+
+Occasionally, Catholic newspaper articles reported wedding Masses that included the Gloria, such as [the wedding Mass of the daughter of General William Tecumseh Sherman](https://thecatholicnewsarchive.org/?a=d&d=TCT18741008-01.1.5&srpos=12). This is not terribly surprising, given for better or for worse the long-standing divergences between wedding rules and practice.
 
 Below is a sample of sources, arranged chronologically. They can be considered in three tiers: of primary importance (the Roman Missal and its supplements), of secondary importance (rubrical commentaries), and of tertiary importance (hand missals). I include less weighty sources like hand missals as they are what the average Catholic may have referenced to answer this question, and are therefore important for my purposes. 
 
@@ -34,7 +36,7 @@ Mueller, Johann Baptist, W. H. W Fanning, and Andrew P. Gans. Handbook of Ceremo
 
 ![](/uploads/gloriacredo/1907.png)
 
-> f} the Mass _pro sponso et sponsa is considered a _Missa votiva privata_, even if a simple _Missa cantata_ or solemn High Mass; hence there is no _Gloria_ nor _Credo_...
+> f) the Mass _pro sponso et sponsa is considered a _Missa votiva privata_, even if a simple _Missa cantata_ or solemn High Mass; hence there is no _Gloria_ nor _Credo_...
 
 # 1908
 
