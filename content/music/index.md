@@ -74,7 +74,7 @@ Polyphonic settings of the nuptial propers are one of the most difficult types o
 
 ![](/uploads/kyrie.png)
 
-The _ordinaries_ are the Kyrie, Sanctus, and Agnus Dei (the Gloria and Credo are not included in the wedding Mass). 
+The _ordinaries_ are the Kyrie, Gloria, Sanctus, and Agnus Dei (the Credo is not included in the wedding Mass). There is an optional Preface for the wedding Mass as well.
 
 ## Gregorian chant settings
 
@@ -91,6 +91,13 @@ Haller, Michael. “Messe Secunda, Op. 5, No. 2.” IMSLP Petrucci Music Library
 Victoria, Tomas Luis de. “Missa Dominicalis.” ChoralWiki. Accessed August 6, 2019. http://www2.cpdl.org/wiki/index.php/Missa_Dominicalis_(Tom%C3%A1s_Luis_de_Victoria).
 
 Dalitz, Christoph. “Missa Tribus Vocibus.” ChoralWiki. Accessed August 6, 2019. http://www1.cpdl.org/wiki/index.php/Missa_tribus_vocibus_(Christoph_Dalitz). 12 pages.
+
+## Praefatio de Nuptiis 
+
+The Praefatio de Nuptiis is a new preface option (but a very old preface) for the wedding Mass. I wrote about it [here](https://www.latinmasswedding.com/post/preface/). 
+
+The excellent site Gregobase has provided square notation sheet music for the chanted version of this preface: https://gregobase.selapa.net/chant.php?id=10469
+
 <br>
 <br>
 # Other Sacred Music
