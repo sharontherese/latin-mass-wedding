@@ -32,7 +32,7 @@ Occasionally, Catholic newspaper articles reported wedding Masses that included 
 
 The bigger complicating factor for this ostensibly simple history is that the entry for wedding Masses in _The Catholic Encyclopedia_ - fully available online and easily accessible - is rubrically out of date on this point. That entry is from 1911, and the rubrics in force for the Traditional Latin Mass are the _General Rubrics of the Roman Missal_, 1960. 
 
-Below is a sample of sources, arranged chronologically. They can be considered in two tiers: of primary importance (the Roman Missal and its supplements), and of secondary importance (rubrical commentaries). 
+Below is a sample of sources, arranged chronologically. They can be considered in two tiers: of primary importance (the Roman Missal and its supplements), secondary importance (rubrical commentaries), and tertiary importance (one newspaper article). 
 
 # 1907 
 
@@ -90,7 +90,7 @@ O'Connell, Laurence John. The Book of Ceremonies. Milwaukee,: Bruce Publishing C
 
 > The Mass _pro sponsis_, though specially privileged with regard to the days on which it may be celebrated, has the rank of a private votive Mass (p. 141). Hence, the _Gloria_ and Creed are omitted...
 
-# 1960
+# 1960 - what is currently in effect 
 
 The New Rubrics of the Roman Breviary and Missal: Translation and Commentary. Edited by Rev. Patrick L. Murphy. Australia: The Catholic Press Newspaper, 1960. https://maternalheart.org/library/1962rubrics.pdf.
 
@@ -107,7 +107,7 @@ reason of an occurring Sunday or octave…
 
 (This is when the rubrics were changed from no Gloria to yes Gloria.) 
 
-# 1960 - what is currently in effect 
+# 1960
 
 Dziadosz J.C.D., Rev. Henry J. "New Rubrics Code No Radical Changes Made in Structure or Texts of Mass." 1960. https://thecatholicnewsarchive.org/?a=d&d=CTR19601215-01.2.86&srpos=1.
 
