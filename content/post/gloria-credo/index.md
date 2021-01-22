@@ -11,24 +11,26 @@ view: 2
 header:
   caption: ""
   image: "headergloriacredo.png"
-draft: true 
+
 ---
 
 One of the most common questions regarding Latin Mass weddings is, "Do you include the Gloria and/or the Creed?" 
 
-The short answer is that yes, you include the Gloria, and no, you do not include the Creed. 
+# The short answer 
 
-The longer answer is that those planning a TLM wedding should bring this up with their priest, and there's a reason why this question continues to be asked.
+For the votive mass _Missa pro Sponso et Sponsa_, the Gloria is included and the Creed is not included.
 
-While rubrics have always said no Creed for the wedding Mass, the Gloria has a different history.
+# The long answer
 
-Before 1960, the rubrics as per the Roman Missal, and every commentary I have found, was to omit the Gloria and the Credo from the _Missa pro sponso_. This was in keeping with the nature of both parts of the Mass, which were historically reserved for important feasts. 
+Rubrics in recent memory have been consistent that the Creed is not said for the votive wedding Mass. The Creed has traditionally been understood as a part of the Mass exclusive to Sundays, and important feasts. 
+
+As for the Gloria, before 1960, the rubrics as per the Roman Missal, and every commentary I have found, was to omit the Gloria from the _Missa pro sponso_. 
 
 The rubrical revisions in 1960 and the subsequent 1962 Roman Missal allowed for the Gloria to be said for the _Missa pro sponso_. 
 
-Complicating this ostensibly simple history is that the entry for wedding Masses in The Catholic Encyclopedia - fully available online and easily accessible - is on this rubrical point out of date. 
+Occasionally, Catholic newspaper articles reported wedding Masses that included the Gloria, such as [the wedding Mass of the daughter of General William Tecumseh Sherman](https://thecatholicnewsarchive.org/?a=d&d=TCT18741008-01.1.5&srpos=12). This is not terribly surprising, given (for better or for worse) long-standing divergences between wedding rules and practice.
 
-Occasionally, Catholic newspaper articles reported wedding Masses that included the Gloria, such as [the wedding Mass of the daughter of General William Tecumseh Sherman](https://thecatholicnewsarchive.org/?a=d&d=TCT18741008-01.1.5&srpos=12). This is not terribly surprising, given for better or for worse the long-standing divergences between wedding rules and practice.
+The bigger complicating factor for this ostensibly simple history is that the entry for wedding Masses in _The Catholic Encyclopedia_ - fully available online and easily accessible - is rubrically out of date on this point. That entry is from 1911, and the rubrics in force for the Traditional Latin Mass are the _General Rubrics of the Roman Missal_, 1960. 
 
 Below is a sample of sources, arranged chronologically. They can be considered in two tiers: of primary importance (the Roman Missal and its supplements), and of secondary importance (rubrical commentaries). 
 
@@ -105,7 +107,7 @@ reason of an occurring Sunday or octave…
 
 (This is when the rubrics were changed from no Gloria to yes Gloria.) 
 
-# 1960 
+# 1960 - what is currently in effect 
 
 Dziadosz J.C.D., Rev. Henry J. "New Rubrics Code No Radical Changes Made in Structure or Texts of Mass." 1960. https://thecatholicnewsarchive.org/?a=d&d=CTR19601215-01.2.86&srpos=1.
 
