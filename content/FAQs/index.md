@@ -52,7 +52,7 @@ Visit the [Glossary](/glossary/) page!
 
 # How can I help my wedding guests understand what's happening?
 
-Explore the pages under the Resources menu. There is introductory information on the [Latin Mass](/about-the-latin-mass), things to include in your [wedding program](/mass-programs), and more. You are free to reuse my wedding program content or template!
+There is introductory information on the [Latin Mass](/about-the-latin-mass), things to include in your [wedding program](/programs), and more. You are free to reuse my wedding program content or template!
 
 Biretta Books offers a Latin-English booklet for Latin Mass weddings[^8]. For those familiar with the red Latin Mass booklets - it is the exact same book, but with additional texts for the Rite of Marriage.
 
