@@ -7,8 +7,6 @@ aliases = [
 ]
 +++
 
-![](/uploads/reading.JPG)
-
 # About
 
 First and foremost: Contact your parish and your diocese to determine the required marriage preparation procedures (sometimes called Pre-Cana). Typically, Catholic dioceses and parishes require some or all of the following:
