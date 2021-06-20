@@ -11,7 +11,7 @@ view: 2
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: "Lajos Deak-Ebner, Marriage Procession"
-  image: "header4.jpg"
+  image: "Marriage_Procession_Ebner.jpg"
 
 ---
 
