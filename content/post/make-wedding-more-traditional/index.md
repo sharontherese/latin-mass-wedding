@@ -15,21 +15,21 @@ header:
 
 ---
 
-For couples who will have a Novus Ordo wedding but Want to make the ceremonies as traditional as possible, here are several suggestions. 
+For couples who will have a Novus Ordo wedding but want to make the ceremonies as traditional as possible, here are several suggestions. 
 
-Note: These are suggestions. The final decision may rest with the priest celebrating the Mass, and parish staff supporting weddings, such as the coordinator and the choir director.
+Note: These are suggestions. The final decision may rest with the priest celebrating the Mass, and parish staff supporting weddings, such as the wedding coordinator and the choir director.
 
 # Mass Readings 
 
-You may be given a list or a booklet of reading options for the wedding Mass. The following readings options are the same as the votive Mass Missa pro sponso et sponsa: 
+You may be given a list or a booklet of reading options for the wedding Mass. The following readings options are the same as the votive Mass _Missa pro sponso et sponsa_: 
 
-## Responsorial Psalm (NO) / Tract (TLM): Psalm 127:4-6 (RSV-CE 128) 
+## Responsorial Psalm (Novus Ordo) / Tract (Traditional Latin Mass): Psalm 127:4-6 (RSV-CE 128) 
 
 Behold thus shall the man be blessed that feareth the Lord. May the Lord bless thee out of Sion; and mayest thou see the good things of Jerusalem all the days of thy life. And mayest thou see thy children’s children: peace upon Israel.
 
 ## Second Readings (NO) / Epistle (TLM): Ephesians 5:25-32
 
-_Note: In the NO reading option, the first three lines starting, "Wives, be submissive to your husbands," are omitted.
+_Note: In the NO reading option, the first three lines starting, "Wives, be submissive to your husbands," are omitted._
 
 Husbands, love your wives, as Christ loved the church and gave himself up for her, that he might sanctify her, having cleansed her by the washing of water with the word, that he might present the church to himself in splendor, without spot or wrinkle or any such thing, that she might be holy and without blemish. Even so husbands should love their wives as their own bodies. He who loves his wife loves himself. For no man ever hates his own flesh, but nourishes and cherishes it, as Christ does the church, because we are members of his body. “For this reason a man shall leave his father and mother and be joined to his wife, and the two shall become one flesh.” This mystery is a profound one, and I am saying that it refers to Christ and the church; however, let each one of you love his wife as himself, and let the wife see that she respects her husband.
 
@@ -53,7 +53,7 @@ That said, there are plenty of ways to make your Mass music more traditional.
 * Organ is the ideal instrument for the Mass. 
 * Choose classic, simple hymns, such as Adoro Te Devote. 
 * If you do choose chant, unaccompanied voices are the most dignified. 
-* If there is a Mass text from the Missa pro sponso that you were not able to use, see if you can incorporate a sung version (chant, polyphony, or other) of the Mass text elsewhere. The best places for extra music are during the Offertory, and as a prelude. 
+* If there is a Mass text from the _Missa pro sponso_ that you were not able to use, see if you can incorporate a sung version (chant, polyphony, or other) of the Mass text elsewhere. The best places for extra music are during the Offertory, and as a prelude. 
 
 # Outside the Mass 
 
@@ -63,12 +63,17 @@ All of the above categories have to do with the wedding Mass itself. There are s
 
 Follow the parish’s guidelines on attire for the day regarding modesty. In addition, consider checking traditional etiquette that factors in your wedding date and time of day. Tuxedos, for example, technically should only be worn for evening events. Winter events usually call for jewel tones. 
 
+For men: https://www.gentlemansgazette.com/morning-wear-guide.
+
+For men and women: https://emilypost.com/advice/image-and-attire
 
 ## Flowers 
 
-There are some (perhaps no longer applicable) flower rubrics – i.e., where one can place flowers in the church, and whether the flowers should be cut or alive. Consult with your priest or wedding coordinator.
+There are some (perhaps no longer applicable) – i.e., where one can place flowers in the church, and whether the flowers should be cut or alive. Consult with your priest or wedding coordinator.
 
 Flowers have rich histories, and many flowers have connections to Mary and the saints. Consider your wedding colors, the colors in the church, budget, season, and your cultural backgrounds and spiritual devotions. 
+
+Read more: https://www.latinmasswedding.com/flowers/
 
 ## Customs 
 
@@ -81,3 +86,5 @@ Some popular traditional customs include:
 * the Arras
 * Velatio Nuptialis (this is cheating; it is not popular. But it should be.) 
 * Crowning (not common in the Roman Rite, but common in many Eastern Rites) 
+
+Read more: https://www.latinmasswedding.com/local-customs/
