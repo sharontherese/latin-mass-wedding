@@ -24,6 +24,41 @@ This wedding is remarkable for a number of reasons.
 
 Firstly, the weddings we tend to know about are royal weddings, and this is the American equivalent. Secondly, America has has a turbulent relationship with Catholicism. In the wake of JFK's assassination and his widely televised funeral Mass, a stately Catholic wedding Mass garnered high interest. Thirdly, while liturgical reforms were ongoing for many preceding decades, 1966 is a particularly interesting year. The details of the Mass will interest scholars and students of this topic. And lastly, sadly, is the fact that John and Nugent's marriage (4 children later) was annulled 13 years later. 
 
+# Debates over baptism and conversion
+
+https://thecatholicnewsarchive.org/?a=d&d=fcat19650709-01.1.5&srpos=20&e=------196-en-20--1-byDA-txt-txIN-%22luci+baines%22-------
+
+https://thecatholicnewsarchive.org/?a=d&d=ncr19650714-01.2.50&srpos=24&e=------196-en-20--21-byDA-txt-txIN-%22luci+baines%22-------
+
+https://thecatholicnewsarchive.org/?a=d&d=ncr19650707-01.2.6&srpos=16&e=------196-en-20--1-byDA-txt-txIN-%22luci+baines%22-------
+
+https://thecatholicnewsarchive.org/?a=d&d=CTR19660805-01.2.77&srpos=66&e=------196-en-20--61-byDA-txt-txIN-%22luci+baines%22-------
+
+# NBC film 
+
+https://thecatholicnewsarchive.org/?a=d&d=fcat19660603-01.1.27&srpos=49&e=------196-en-20--41-byDA-txt-txIN-%22luci+baines%22-------
+
+https://thecatholicnewsarchive.org/?a=d&d=cst19660812-01.1.15&srpos=72&e=------196-en-20--61-byDA-txt-txIN-%22luci+baines%22-------
+mass not filmed
+
+# could be the arkansas article 
+
+https://thecatholicnewsarchive.org/?a=d&d=cher19660811-01.1.6&srpos=70&e=------196-en-20--61-byDA-txt-txIN-%22luci+baines%22-------
+
+# Original music for the nuptial mass 
+
+https://thecatholicnewsarchive.org/?a=d&d=cns19660707-01.1.3&srpos=50&e=------196-en-20--41-byDA-txt-txIN-%22luci+baines%22-------
+
+# something old something new 
+
+https://thecatholicnewsarchive.org/?a=d&d=cst19660812-01.1.1&srpos=71&e=------196-en-20--61-byDA-txt-txIN-%22luci+baines%22-------
+
+# picketed by anti-Vietnamers 
+
+https://thecatholicnewsarchive.org/?a=d&d=CTR19660729-01.2.47&srpos=59&e=------196-en-20--41-byDA-txt-txIN-%22luci+baines%22-------
+
+# CNS full report 
+
 https://thecatholicnewsarchive.org/?a=d&d=cns19660809-01.1.14&srpos=6&e=-------en-20--1-byDA-txt-txIN-%22Mass+on+the+Day+of+Marriage%22-------
 
 # Arkansas Catholic 
