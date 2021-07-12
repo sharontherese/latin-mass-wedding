@@ -251,3 +251,4 @@ lifemagazine2.png
 ebaylisting1966.jpg
 arkansas2.png
 arkansas1.png
+ncr19650707.jpg
