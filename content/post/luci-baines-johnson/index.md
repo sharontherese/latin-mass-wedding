@@ -41,6 +41,10 @@ https://thecatholicnewsarchive.org/?a=d&d=fcat19660603-01.1.27&srpos=49&e=------
 https://thecatholicnewsarchive.org/?a=d&d=cst19660812-01.1.15&srpos=72&e=------196-en-20--61-byDA-txt-txIN-%22luci+baines%22-------
 mass not filmed
 
+http://catalog.lib.msu.edu/record=b8535592~S39a
+
+https://cinema.library.ucla.edu/vwebv/holdingsInfo?searchId=32&recCount=50&recPointer=3&bibId=78914
+
 # could be the arkansas article 
 
 https://thecatholicnewsarchive.org/?a=d&d=cher19660811-01.1.6&srpos=70&e=------196-en-20--61-byDA-txt-txIN-%22luci+baines%22-------
