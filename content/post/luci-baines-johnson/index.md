@@ -80,15 +80,37 @@ It is difficult to label any particular detail as "unusual," as 'royal' weddings
 
 * Luci participated in the traditional custom of leaving her bouquet at a statue of Mary - but with a twist. The altar with Mary also had a picture of St. Agatha, in an homage to Luci's degree in nursing. 
 
-# could be the arkansas article 
+## The wedding program 
 
-https://thecatholicnewsarchive.org/?a=d&d=cher19660811-01.1.6&srpos=70&e=------196-en-20--61-byDA-txt-txIN-%22luci+baines%22-------
+Of particular interest to me - and the reason I found this story in the first place - is that the couple had a custom wedding program for the ceremonies, called "The Mass on the Day of Marriage." 
 
-# something old something new 
+This is the same name as one of the most popular wedding booklets at the time, published by the Leaflet Missal. Confusingly, the booklet is called a "leaflet missal" (lowercase), and was "arranged by Father Walter J. Schmitz, S.S." (Catholic News Service). The cover of the booklet also looks very different from wedding Leaflet Missals: 
 
-https://thecatholicnewsarchive.org/?a=d&d=cst19660812-01.1.1&srpos=71&e=------196-en-20--61-byDA-txt-txIN-%22luci+baines%22-------
+https://www.ebay.com/itm/373463204439
+https://i.ebayimg.com/images/g/B2YAAOSwbahgLDB6/s-l500.jpg
+1966 Press Photo President's Daughter Luci Johnson's Wedding Mass Booklet
+historicimages04
+Ended:Apr 17, 2021 
 
-# Clipping: Catholic News Service, 9 August 1966
+I have been unable to track down a copy of the booklet to confirm for sure. My best guess is that it was a highly customized Leaflet Missal, and not a publication from scratch. 
+
+# Clippings
+
+## The Catholic Standard and Times, 12 August 1966
+
+CST1966.png
+
+Link: https://thecatholicnewsarchive.org/?a=d&d=cst19660812-01.1.8&srpos=1
+
+Full text: 
+
+> Understood Mass Better Than Ever, Sen. Dirksen Says 
+> 
+> A non Catholic guest who followed the Nugent-Johnson Nuptial Mass in the leaflet missal for guests. Sen. Everett M. Dirksen of Illinois, told the TV audience later that it was the most complete participation In the Catholic .Mass he had ever experienced, and he appreciated the opportunity. 
+> 
+> The senator made his remarks as he was Interviewed on the steps of the shrine of the Immaculate Conception after the ceremony. His comment about appreciating the Mass led the Interviewer to ask whether the senator had attended wedding Masses previously. He responded that he had been to many of them, but this was the first at which he felt he understood the Mass from beginning lo end.
+
+## Catholic News Service, 9 August 1966
 
 Link: https://thecatholicnewsarchive.org/?a=d&d=cns19660809-01.1.14&srpos=6
 
@@ -190,9 +212,11 @@ Full text:
 > 
 > After two false passes Luci threw the bouquet, and, in a just right ending, her maid of honor Lynda caught it. Luci thanked all for the most magnificent day of her life, the couple said their goodbyes and Courtney Valenti cried because she wanted to stay on the balcony. On the White House lawn, pieces of pink net which held the rice, blew about and made little rosettes on the lawn.
 
-# Clipping: Arkansas Catholic, August 12, 1966
+## Arkansas Catholic, August 12, 1966
 
 Link: http://arc.stparchive.com/Archive/ARC/ARC08121966p01.php
+
+Supplemented with: https://thecatholicnewsarchive.org/?a=d&d=cst19660812-01.1.1&srpos=71
 
 Full text: 
 
@@ -228,22 +252,23 @@ Full text:
 > 
 > Following the ceremony, Luci placed her bridal bouquet before a color reproduction of the shrine's St. Agatha altar. The reproduction was placed at the altar of Our Lady to the left of the main altar, since a trip to the crypt altar where the St. Agatha Shrine is was impractical. St. Agatha [is the pa]tron saint of nursing, th[e pro]fession Luci studied las[t year] at Georgetown University. 
 > 
-> The "something bor[rowed"] carried by Luci Baines J[ohnson] at her wedding was a m[other-]of-pearl and gold rosary [???] -ing to her sister, Lynda. The rosary was present[ed to] the older Johnson girl [by the] late Pope John XXIII du[ring a] 1962 audience. 
+> The "something bor[rowed"] carried by Luci Baines J[ohnson] at her wedding was a m[other-]of-pearl and gold rosary [from] her sister, Lynda. The rosary was present[ed to] the older Johnson girl [by the] late Pope John XXIII du[ring a] 1962 audience. 
 > 
-> For "something old" [she] chose a 58-uear old ivor[y] handkerchief made by [her] great-grandmother, Mrs. [???] Ament Huffman Baines, [???] daughter, Mrs. Josefa Saunders, to carry at he[r wed]ding in 1908. 
+> For "something old" [Luci] chose a 58-uear old ivor[y lace] handkerchief made by [her] great-grandmother, Mrs. [Ruth] Ament Huffman Baines, [for her] daughter, Mrs. Josefa Saunders, to carry at he[r wed]ding in 1908. 
 > 
-> A gold locket tied with [???] ribbon and belonging to Gerard P. Nugent, mot[her of] the bridegroom, was carr[ied by] Luci for a touch of "som[ething] blue." 
+> A gold locket tied with [a blue] ribbon and belonging to Gerard P. Nugent, mot[her of] the bridegroom, was carr[ied by] Luci for a touch of "som[ething] blue." 
 > 
-> The "sixpence in her [???"] was the first of Adele Ros[???] Perth Amboy, N.J., the f[???] many people around the [coun]try who thought to sen[???] along. 
+> The "sixpence in her [shoe"] was the first of Adele Ros[coe in] Perth Amboy, N.J., the f[irst of] many people around the [coun]try who thought to sen[d one] along. 
 > 
-> The "something new" [???] really new. Her trad[???[ wedding gown by Prisci[???] Boston provided about th[???] detail of the ceremony su[???]fully kept from the public [???] big day.
+> The "something new" [was] really new. Her trad[itional] wedding gown by Prisci[lla] Boston provided about th[e only] detail of the ceremony su[ccess]fully kept from the public [until the] big day.
 
-# eBay listing 
-https://www.ebay.com/itm/373463204439
-https://i.ebayimg.com/images/g/B2YAAOSwbahgLDB6/s-l500.jpg
-1966 Press Photo President's Daughter Luci Johnson's Wedding Mass Booklet
-historicimages04
-Ended:Apr 17, 2021 
+## LIFE, August 19, 1966, Vol. 61, No. 8
+
+Link: https://books.google.com/books?id=qlUEAAAAMBAJ&dq=life+magazine&source=gbs_all_issues_r&cad=1
+
+Full text: 
+
+# Images 
 
 lifemagazine1.png
 lifemagazine3.png
