@@ -40,6 +40,8 @@ Some film footage from the day does exist, and may contain short clips of the ce
 
 # Not without drama 
 
+![](/uploads/ncr19650707.jpg)
+
 In addition to being picketed day-of by anti-Vietnam protestors ([The Catholic Transcript, 29 July 1966])(https://thecatholicnewsarchive.org/?a=d&d=CTR19660729-01.2.47&srpos=59), Luci and Patrick had faced months of public debate regarding her conversion. 
 
 Daughter of a Baptist (POTUS) and a Methodist (FLOTUS) and raised an Episcopalian, Luci had wanted to convert well before adulthood. ([National Catholic Reporter, 7 July 1965])(https://thecatholicnewsarchive.org/?a=d&d=ncr19650707-01.2.6&srpos=16)
@@ -85,6 +87,8 @@ It is difficult to label any particular detail as "unusual," as 'royal' weddings
 Of particular interest to me - and the reason I found this story in the first place - is that the couple had a custom wedding program for the ceremonies, called "The Mass on the Day of Marriage." 
 
 This is the same name as one of the most popular wedding booklets at the time, published by the Leaflet Missal. Confusingly, the booklet is called a "leaflet missal" (lowercase), and was "arranged by Father Walter J. Schmitz, S.S." (Catholic News Service). The cover of the booklet also looks very different from wedding Leaflet Missals: 
+
+![](/uploads/ebaylisting1966.jpg)
 
 https://www.ebay.com/itm/373463204439
 https://i.ebayimg.com/images/g/B2YAAOSwbahgLDB6/s-l500.jpg
@@ -214,6 +218,9 @@ Full text:
 
 ## Arkansas Catholic, August 12, 1966
 
+![](/uploads/arkansas1.png)
+![](/uploads/arkansas2.png)
+
 Link: http://arc.stparchive.com/Archive/ARC/ARC08121966p01.php
 
 Supplemented with: https://thecatholicnewsarchive.org/?a=d&d=cst19660812-01.1.1&srpos=71
@@ -266,14 +273,7 @@ Full text:
 
 Link: https://books.google.com/books?id=qlUEAAAAMBAJ&dq=life+magazine&source=gbs_all_issues_r&cad=1
 
-Full text: 
+![](/uploads/lifemagazine1.png)
+![](/uploads/lifemagazine2.png)
+![](/uploads/lifemagazine3.png)
 
-# Images 
-
-lifemagazine1.png
-lifemagazine3.png
-lifemagazine2.png
-ebaylisting1966.jpg
-arkansas2.png
-arkansas1.png
-ncr19650707.jpg
