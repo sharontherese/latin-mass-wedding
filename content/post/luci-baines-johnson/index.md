@@ -24,9 +24,6 @@ This wedding is remarkable for a number of reasons.
 
 Firstly, the weddings we tend to know about are royal weddings, and this is the American equivalent. Secondly, America has has a turbulent relationship with Catholicism. In the wake of JFK's assassination and his widely televised funeral Mass, a stately Catholic wedding Mass garnered high interest. Thirdly, while liturgical reforms were ongoing for many preceding decades, 1966 is a particularly interesting year. The details of the Mass will interest scholars and students of this topic. And lastly, sadly, is the fact that John and Nugent's marriage (4 children later) was annulled 13 years later. 
 
-https://www.ebay.com/itm/373463204439
-https://i.ebayimg.com/images/g/B2YAAOSwbahgLDB6/s-l500.jpg
-
 https://thecatholicnewsarchive.org/?a=d&d=cns19660809-01.1.14&srpos=6&e=-------en-20--1-byDA-txt-txIN-%22Mass+on+the+Day+of+Marriage%22-------
 
 # Arkansas Catholic 
@@ -74,6 +71,13 @@ A gold locket tied with [???] ribbon and belonging to Gerard P. Nugent, mot[her 
 The "sixpence in her [???"] was the first of Adele Ros[???] Perth Amboy, N.J., the f[???] many people around the [coun]try who thought to sen[???] along. 
 
 The "something new" [???] really new. Her trad[???[ wedding gown by Prisci[???] Boston provided about th[???] detail of the ceremony su[???]fully kept from the public [???] big day.
+
+# eBay listing 
+https://www.ebay.com/itm/373463204439
+https://i.ebayimg.com/images/g/B2YAAOSwbahgLDB6/s-l500.jpg
+1966 Press Photo President's Daughter Luci Johnson's Wedding Mass Booklet
+historicimages04
+Ended:Apr 17, 2021 
 
 images
 1962missale.jpeg
