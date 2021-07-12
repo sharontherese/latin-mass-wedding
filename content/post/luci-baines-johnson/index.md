@@ -1,6 +1,7 @@
 ---
-title: Laitn Mass Weddings in History: Luci Baines Johnson and Patrick Nugent
+title: Latin Mass Weddings in History: Luci Baines Johnson and Patrick Nugent
 draft: true 
+date: 2021-07-12
 
 # View.
 #   1 = List
@@ -16,9 +17,9 @@ header:
 
 ---
 
-On August 6, 1966, the daughter of the sitting U.S. President married in a Catholic wedding Mass in the Basilica of the National Shrine of the Immaculate Conception in Washington, D.C.
+On August 6, 1966, for the first time in the nation's history, the daughter of a sitting U.S. President married in a Catholic church.
 
-Luci Baines Johnson, baptized an Episcopalian, had converted to Catholicism upon her engagement to the Catholic Pat Nugent. 
+Convert Luci Baines Johnson married cradle Catholic Patrick Nugent at the National Shrine of the Immaculate Conception in Washington, D.C. 
 
 This wedding is remarkable for a number of reasons. 
 
