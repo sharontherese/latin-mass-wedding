@@ -11,7 +11,7 @@ view: 2
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: "LIFE, August 19, 1966, Vol. 61, No. 8"
-  image: "lifemagazine1.png"
+  image: "bainesheader.png"
   
 
 ---
