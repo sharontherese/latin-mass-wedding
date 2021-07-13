@@ -1,6 +1,5 @@
 ---
 title: Latin Mass Weddings in History: Luci Baines Johnson and Patrick Nugent
-draft: true 
 date: 2021-07-12
 
 # View.
@@ -11,8 +10,8 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: ""
-  image: ""
+  caption: "LIFE, August 19, 1966, Vol. 61, No. 8"
+  image: "lifemagazine1.png"
   
 
 ---
@@ -21,15 +20,29 @@ On August 6, 1966, for the first time in the nation's history, the daughter of a
 
 Convert Luci Baines Johnson married cradle Catholic Patrick Nugent at the National Shrine of the Immaculate Conception in Washington, D.C. 
 
-This wedding is remarkable for a number of reasons. 
+Because this wedding is the American equivalent of a royal wedding, we have access to a great level of detail about the ceremonies. This is interesting not only for students of American history and Catholicism, but especially for liturgical history. 
 
-Firstly, the weddings we tend to know about are royal weddings, and this is the American equivalent. Secondly, America has has a turbulent relationship with Catholicism. In the wake of JFK's assassination and his widely televised funeral Mass, a stately Catholic wedding Mass garnered high interest. Thirdly, while liturgical reforms were ongoing for many preceding decades, 1966 is a particularly interesting year. The details of the Mass will interest scholars and students of this topic. And lastly, sadly, is the fact that John and Nugent's marriage (4 children later) was annulled 13 years later. 
+While modern liturgical reforms started well before the 1960's, the mid-1960's in America was a time of particularly intense experimentation. To have detailed descriptions of Catholic ceremonies at such a time is invaluable.
 
-# Video recordings
+Sadly, 4 children and 13 years later, Luci and Patrick's marriage was annulled. 
+
+# Before the big day 
+
+![](/uploads/ncr19650707.jpg)
+
+In addition to being picketed day-of by anti-Vietnam protestors ([The Catholic Transcript, 29 July 1966])(https://thecatholicnewsarchive.org/?a=d&d=CTR19660729-01.2.47&srpos=59), Luci and Patrick had faced months of public debate regarding her conversion. 
+
+Luci had wanted to convert well before adulthood. ([National Catholic Reporter, 7 July 1965])(https://thecatholicnewsarchive.org/?a=d&d=ncr19650707-01.2.6&srpos=16). The point of contention, however, was that she requested and was granted a conditional Baptism - the implications of which did not thrill Episcopalian leaders. Archbishop James Pike of the Episcopal Church, no stranger to controversy himself, called the baptism a "sacrilege":
+
+> According to Episcopalian Bishop Pike, the re-baptism of Luci Johnson when she became a Roman Catholic was a sacrilege. Despite the phrasing of his nationally reported sermon, which no doubt offended many Roman Catholics, we ought to thank him for calling attention to an ecumenical problem of real importance. Perhaps we have here just the prodding necessary finally to put an end to our custom of indiscriminately re-baptizing converts from the Protestant Churches...The custom of re-baptizing such candidates is well entrenched. It’s just plain "always been done." That custom in itself is the real culprit in the Johnson affair, and in a hundred thousand or so less publicized others every year in this country. Outside of lassitude, the custom has little enough to commend it. It’s disrespectful to baptism itself; it s against the long-standing and quite explicit law of the Church; and it stands in open opposition to the growing ecumenical spirit of our own day. Why then does it so extensively endure? ([National Catholic Reporter, 14 July 1965])(https://thecatholicnewsarchive.org/?a=d&d=ncr19650714-01.2.50&srpos=24)
+
+# Highlights of the wedding ceremonies 
+
+## Video recordings
 
 While the weekend received widespread media attention, most, if not all, of the wedding and Mass was not filmed. The couple had insisted on a private ceremony, to the degree that they were able. 
 
-> NBC has already begun production of a one-hour color film on the wedding, ol Luci Baines Johnson to Patrick J. Nugent, at the National Shrine of the Immaculate Conception, Washington, D. C., August 6. This picture will play the same evening, when other TV shots of the whole ceremony (or such parts as are permissible) will be added. The NBC film will include an explanation of the nuptial Mass. ([The Voice, 3 June 1966])(https://thecatholicnewsarchive.org/?a=d&d=fcat19660603-01.1.27&srpos=49)
+> NBC has already begun production of a one-hour color film on the wedding, of Luci Baines Johnson to Patrick J. Nugent, at the National Shrine of the Immaculate Conception, Washington, D. C., August 6. This picture will play the same evening, when other TV shots of the whole ceremony (or such parts as are permissible) will be added. The NBC film will include an explanation of the nuptial Mass. ([The Voice, 3 June 1966])(https://thecatholicnewsarchive.org/?a=d&d=fcat19660603-01.1.27&srpos=49)
 
 > Millions of Americans, young and old alike, sat transfixed In front of their home screens as the three major networks in a combined pool coverage telecast all the wedding day activities—except for the Nuptial Mass at the Shrine. ([The Catholic Standard and Times, 12 August 1966])(https://thecatholicnewsarchive.org/?a=d&d=cst19660812-01.1.15&srpos=72)
 
@@ -39,27 +52,13 @@ Some film footage from the day does exist, and may contain short clips of the ce
 
 * "Luci Johnson and Pat Nugent wedding-color. Hearst color cans, HCCc48 and HCCc48A, 230846," [UCLA Library](https://cinema.library.ucla.edu/vwebv/holdingsInfo?searchId=32&recCount=50&recPointer=3&bibId=78914)
 
-# Not without drama 
-
-![](/uploads/ncr19650707.jpg)
-
-In addition to being picketed day-of by anti-Vietnam protestors ([The Catholic Transcript, 29 July 1966])(https://thecatholicnewsarchive.org/?a=d&d=CTR19660729-01.2.47&srpos=59), Luci and Patrick had faced months of public debate regarding her conversion. 
-
-Daughter of a Baptist (POTUS) and a Methodist (FLOTUS) and raised an Episcopalian, Luci had wanted to convert well before adulthood. ([National Catholic Reporter, 7 July 1965])(https://thecatholicnewsarchive.org/?a=d&d=ncr19650707-01.2.6&srpos=16)
-
-The point of contention, however, was that she requested and was granted a conditional Baptism - the implications of which did not thrill Episcopalian leaders. Archbishop James Pike of the Episcopal Church, no stranger to controversy himself, called the baptism a "sacrilege":
-
-> According to Episcopalian Bishop Pike, the re-baptism of Luci Johnson when she became a Roman Catholic was a sacrilege. Despite the phrasing of his nationally reported sermon, which no doubt offended many Roman Catholics, we ought to thank him for calling attention to an ecumenical problem of real importance. Perhaps we have here just the prodding necessary finally to put an end to our custom of indiscriminately re-baptizing converts from the Protestant Churches...The custom of re-baptizing such candidates is well entrenched. It’s just plain "always been done." That custom in itself is the real culprit in the Johnson affair, and in a hundred thousand or so less publicized others every year in this country. Outside of lassitude, the custom has little enough to commend it. It’s disrespectful to baptism itself; it s against the long-standing and quite explicit law of the Church; and it stands in open opposition to the growing ecumenical spirit of our own day. Why then does it so extensively endure? ([National Catholic Reporter, 14 July 1965])(https://thecatholicnewsarchive.org/?a=d&d=ncr19650714-01.2.50&srpos=24)
-
-# Highlights of the wedding ceremonies 
-
 ## The Rite of Marriage 
 
-1966 is an interesting year in liturgical history. The Second Vatican Council had ended only the year before, and reforms and experimentations had been happening thick and fast for decades. Liturgical changes were unevenly and inconsistently applied, so highly detailed events like the Johnson-Nugent wedding are invaluable. 
+Before the Second Vatican Council, the two ceremonies - the Rite of Marriage and the wedding Mass - were distinct. The marriage was followed by the Mass. One of the changes brought about by the Council was that the marriage was moved to the middle of Mass, directly after the homily. 
 
-Traditionally, the marriage happens before the Mass, keeping the two ceremonies distinct. That was not the case here: The Rite of Marriage took place in the middle of the wedding Mass, reflecting the changes recommended by Vatican II. 
+The Johnson-Nugent wedding was one of the first high-profile weddings to show this new order of events. 
 
-The rubrics allow for different priests to witness the rite of Marriage and to celebrate the Mass, which the couple took advantage of. The marriage itself was witnessed by Monsignor John A. Kuzinskas of Chicago, Illinois, home diocese of the groom. Msgr. Kuzinskas was a family friend of the Nugents. 
+The marriage itself was witnessed by Monsignor John A. Kuzinskas of Chicago, Illinois, family friend of the Nugents. 
 
 One newspaper noted that the marriage took about 7 minutes, which is typical. 
 
@@ -67,37 +66,41 @@ One newspaper noted that the marriage took about 7 minutes, which is typical.
 
 As nearly as I can tell, based on the readings mentioned, the couple used the nuptial votive Mass, the _Missa pro sponso et sponsa_. 
 
-It is difficult to label any particular detail as "unusual," as 'royal' weddings like this are inherent exceptions to 'normal' weddings. However, approaching this from the perspective of liturgical history, there are numerous interesting details we can distill from the clippings (all provided below). 
+It is difficult to label any particular detail as "unusual," as 'royal' weddings like this are by their nature exceptions to 'normal' weddings. However, approaching this from the perspective of liturgical history, there are numerous interesting details we can distill from the clippings (all provided below). 
 
 * The Mass was concelebrated by 3 priests, with about 10 more in the sanctuary. The concelebrants were Archbishop Patrick A. O'Boyle of Washington, Father Kuzinskas, and Father William J. Kaifer, S.J.
+
+* The pictures in LIFE Magazine (below) show the priests facing the people. 
 
 * The prayers at the foot of the altar were chanted by the choir. (It is possible that this was a journalistic error, as I have never heard of this practice and know of no chant tone for this part of the Mass. I wonder if they confused it for the Introit.)
 
 * Music director Robert F. Twynham composed an original setting for the Mass parts. ([Catholic News Service, 7 July 1966](https://thecatholicnewsarchive.org/?a=d&d=cns19660707-01.1.3&srpos=50)
 
-* Although the couple likely used the traditional wedding Mass, it also seems like that the Mass - at least the readings - were in the vernacular. The Epistle was read by Representative Hale Boggs, D-La., who was POTUS's House Majority Whip at the time. 
+* Although the couple likely used the traditional wedding Mass, the readings were in the vernacular. The Epistle was read by Representative Hale Boggs, the then-House Majority Whip. 
 
 * Deserving of its own bullet point is this snippet: "Rep. Hale Boggs of Louisiana, who read the epistle of the Mass, gave a brief and inspiring explanation before the reading." ([Catholic News Service, 9 August 1966])(https://thecatholicnewsarchive.org/?a=d&d=cns19660809-01.1.14&srpos=6). This is tantalizing, and is reminiscent of experimentations with the Dialogue Mass and liturgical commentators. 
 
 * The recessional hymn was from the Episcopal hymnal. 
 
-* Luci participated in the traditional custom of leaving her bouquet at a statue of Mary - but with a twist. The altar with Mary also had a picture of St. Agatha, in an homage to Luci's degree in nursing. 
+* Luci participated in the traditional custom of leaving her bouquet at a statue of Mary - but with a twist. The altar with Mary also had a picture of St. Agatha, patron saint of nursing. (Luci had studied nursing at Georgetown University.)
 
 ## The wedding program 
 
-Of particular interest to me - and the reason I found this story in the first place - is that the couple had a custom wedding program for the ceremonies, called "The Mass on the Day of Marriage." 
+Of particular interest to me - and the reason I found this story in the first place - is that the couple had a wedding booklet for the ceremonies, called "The Mass on the Day of Marriage." 
 
-This is the same name as one of the most popular wedding booklets at the time, published by the Leaflet Missal. Confusingly, the booklet is called a "leaflet missal" (lowercase), and was "arranged by Father Walter J. Schmitz, S.S." (Catholic News Service). The cover of the booklet also looks very different from wedding Leaflet Missals: 
+This is the same name as one of the most popular wedding booklets at the time, published by the Leaflet Missal. 
+
+Sed contra, the booklet is called a "leaflet missal" (lowercase), and was "arranged by Father Walter J. Schmitz, S.S." (Catholic News Service). The cover of the booklet also looks very different from wedding Leaflet Missals: 
 
 ![](/uploads/ebaylisting1966.jpg)
 
-https://www.ebay.com/itm/373463204439
-https://i.ebayimg.com/images/g/B2YAAOSwbahgLDB6/s-l500.jpg
-1966 Press Photo President's Daughter Luci Johnson's Wedding Mass Booklet
-historicimages04
-Ended:Apr 17, 2021 
+_eBay listing, "1966 Press Photo President's Daughter Luci Johnson's Wedding Mass Booklet." Sold by historicimages04. Listing ended April 17, 2021. https://www.ebay.com/itm/373463204439_
 
-I have been unable to track down a copy of the booklet to confirm for sure. My best guess is that it was a highly customized Leaflet Missal, and not a publication from scratch. 
+![](/uploads/leafletmissal.png)
+
+_1941 edition of "The Mass on the Day of Marriage," published by the Leaflet Missal._ 
+
+I have been unable to track down a copy of the booklet to confirm if Luci and Patrick's version was totally custom, or modified from the Leaflet Missal. My best guess is that it was a highly modified Leaflet Missal. 
 
 # Clippings
 
