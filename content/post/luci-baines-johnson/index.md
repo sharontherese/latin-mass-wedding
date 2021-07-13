@@ -1,5 +1,5 @@
 ---
-title: Latin Mass Weddings in History: Luci Baines Johnson and Patrick Nugent
+title: Latin Mass Weddings in History - Luci Baines Johnson and Patrick Nugent
 date: 2021-07-12
 
 # View.
