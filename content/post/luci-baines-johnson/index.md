@@ -30,7 +30,7 @@ Sadly, 4 children and 13 years later, Luci and Patrick's marriage was annulled.
 
 ![](/uploads/ncr19650707.jpg)
 
-In addition to being picketed day-of by anti-Vietnam protestors ([The Catholic Transcript, 29 July 1966])(https://thecatholicnewsarchive.org/?a=d&d=CTR19660729-01.2.47&srpos=59), Luci and Patrick had faced months of public debate regarding her conversion. 
+In addition to being picketed day-of by anti-Vietnam protestors [(The Catholic Transcript, 29 July 1966)](https://thecatholicnewsarchive.org/?a=d&d=CTR19660729-01.2.47&srpos=59), Luci and Patrick had faced months of public debate regarding her conversion. 
 
 Luci had wanted to convert well before adulthood. [(National Catholic Reporter, 7 July 1965)](https://thecatholicnewsarchive.org/?a=d&d=ncr19650707-01.2.6&srpos=16). The point of contention, however, was that she requested and was granted a conditional Baptism - the implications of which did not thrill Episcopalian leaders. Archbishop James Pike of the Episcopal Church, no stranger to controversy himself, called the baptism a "sacrilege":
 
