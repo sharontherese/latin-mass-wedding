@@ -36,9 +36,7 @@ Luci had wanted to convert well before adulthood. [(National Catholic Reporter, 
 
 > According to Episcopalian Bishop Pike, the re-baptism of Luci Johnson when she became a Roman Catholic was a sacrilege. Despite the phrasing of his nationally reported sermon, which no doubt offended many Roman Catholics, we ought to thank him for calling attention to an ecumenical problem of real importance. Perhaps we have here just the prodding necessary finally to put an end to our custom of indiscriminately re-baptizing converts from the Protestant Churches...The custom of re-baptizing such candidates is well entrenched. It’s just plain "always been done." That custom in itself is the real culprit in the Johnson affair, and in a hundred thousand or so less publicized others every year in this country. Outside of lassitude, the custom has little enough to commend it. It’s disrespectful to baptism itself; it s against the long-standing and quite explicit law of the Church; and it stands in open opposition to the growing ecumenical spirit of our own day. Why then does it so extensively endure? [(National Catholic Reporter, 14 July 1965)](https://thecatholicnewsarchive.org/?a=d&d=ncr19650714-01.2.50&srpos=24)
 
-# Highlights of the wedding ceremonies 
-
-## Video recordings
+# Video recordings 
 
 While the weekend received widespread media attention, most, if not all, of the wedding and Mass was not filmed. The couple had insisted on a private ceremony, to the degree that they were able. 
 
@@ -52,23 +50,19 @@ Some film footage from the day does exist, and may contain short clips of the ce
 
 * "Luci Johnson and Pat Nugent wedding-color. Hearst color cans, HCCc48 and HCCc48A, 230846," [UCLA Library](https://cinema.library.ucla.edu/vwebv/holdingsInfo?searchId=32&recCount=50&recPointer=3&bibId=78914)
 
-## The Rite of Marriage 
+## Highlights of the ceremonies 
 
-Before the Second Vatican Council, the two ceremonies - the Rite of Marriage and the wedding Mass - were distinct. The marriage was followed by the Mass. One of the changes brought about by the Council was that the marriage was moved to the middle of Mass, directly after the homily. 
+It is difficult to label any particular detail as unusual, as "royal" weddings like this are by their nature exceptional. However, approaching this from the perspective of liturgical history, there are numerous interesting details we can distill from the clippings (all provided below). 
 
-The Johnson-Nugent wedding was one of the first high-profile weddings to show this new order of events. 
+* As nearly as I can tell, based on the readings mentioned, the couple used the nuptial votive Mass, the _Missa pro sponso et sponsa_. 
 
-The marriage itself was witnessed by Monsignor John A. Kuzinskas of Chicago, Illinois, family friend of the Nugents. 
-
-## The wedding Mass 
-
-As nearly as I can tell, based on the readings mentioned, the couple used the nuptial votive Mass, the _Missa pro sponso et sponsa_. 
-
-It is difficult to label any particular detail as "unusual," as 'royal' weddings like this are by their nature exceptions to 'normal' weddings. However, approaching this from the perspective of liturgical history, there are numerous interesting details we can distill from the clippings (all provided below). 
+* Before the Second Vatican Council, the two ceremonies - the Rite of Marriage and the wedding Mass - were distinct. The marriage was followed by the Mass. One of the changes brought about by the Council was that the marriage was moved to the middle of Mass, directly after the homily. The Johnson-Nugent wedding was one of the first high-profile weddings to show this new order of events. 
 
 * The Mass was concelebrated by 3 priests, with about 10 more in the sanctuary. The concelebrants were Archbishop Patrick A. O'Boyle of Washington, Father Kuzinskas, and Father William J. Kaifer, S.J.
 
 * The pictures in LIFE Magazine (below) show the priests facing the people. 
+
+* Father Kuzinskas - not the main celebrant of the Mass - read the traditional wedding exhortation and witnessed the marriage. 
 
 * The prayers at the foot of the altar were chanted by the choir. (It is possible that this was a journalistic error, as I have never heard of this practice and know of no chant tone for this part of the Mass. I wonder if they confused it for the Introit.)
 
@@ -78,7 +72,7 @@ It is difficult to label any particular detail as "unusual," as 'royal' weddings
 
 * Deserving of its own bullet point is this snippet: "Rep. Hale Boggs of Louisiana, who read the epistle of the Mass, gave a brief and inspiring explanation before the reading." [(Catholic News Service, 9 August 1966)](https://thecatholicnewsarchive.org/?a=d&d=cns19660809-01.1.14&srpos=6). This is tantalizing, and is reminiscent of experimentations with the Dialogue Mass and liturgical commentators. 
 
-* The recessional hymn was from the Episcopal hymnal. 
+* The recessional hymn was from the Episcopal hymnal: "At the Name of Jesus, every knee shall bow," by Ralph Vaughn Williams.
 
 * Luci participated in the traditional custom of leaving her bouquet at a statue of Mary - but with a twist. The altar with Mary also had a picture of St. Agatha, patron saint of nursing. (Luci had studied nursing at Georgetown University.)
 
@@ -156,7 +150,7 @@ Full text:
 > 
 > The bridal party arrived and proceeded into the Shrine where, people on the outside would know, when the bells stopped pealing, the processional had begun. 
 > 
-> The processional, to a "Paraphrase on a Trumpet Tune by Henry Purcell," by Robert F. Twynham, organist, took exactly 11 minutes to the point when Archbishop Patrick A. O'Boyle of Washington, Fathers John A* Zuzinskas, and Father William J. Kaifer, S.J., began the Mass at 12:18 p.m. 
+> The processional, to a "Paraphrase on a Trumpet Tune by Henry Purcell," by Robert F. Twynham, organist, took exactly 11 minutes to the point when Archbishop Patrick A. O'Boyle of Washington, Fathers John A. Zuzinskas, and Father William J. Kaifer, S.J., began the Mass at 12:18 p.m. 
 > 
 > The 150 voice men and boys choir from the Cathedral of Mary Our Queen and the Church of the Immaculate Heart of Mary, Baltimore, filled this inner Shrine with the «welling Mass music. Not a note of music could be hoard on the outside. 
 > 
@@ -176,7 +170,7 @@ Full text:
 > 
 > Rep. Hale Boggs of Louisiana, who read the epistle of the Mass, gave a brief and inspiring explanation before the reading. 
 > 
-> Following the reading of the Gospel by Father Kaifer, Father John A. Kuzinskas of Chicago, long-time friend of the groom, talked quietly to the oouple before beginning the marriage exhortation, substituting a more personal "Dear Pat and Luci," for the familiar "Dear Friends in Christ." 
+> Following the reading of the Gospel by Father Kaifer, Father John A. Kuzinskas of Chicago, long-time friend of the groom, talked quietly to the couple before beginning the marriage exhortation, substituting a more personal "Dear Pat and Luci," for the familiar "Dear Friends in Christ." 
 > 
 > The couple, who had been visibly moved, even to tears, during the entire Mass, turned to each other as Father Kuzinskas reached the words "That future, with its hopes and disappointments..." and again when he said "And so, not knowing what is before you, you take each other for better or worse...until death." 
 > 
