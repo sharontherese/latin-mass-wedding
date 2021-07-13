@@ -1,5 +1,5 @@
 ---
-title: Latin Mass Weddings in History - Luci Baines Johnson and Patrick Nugent
+title: A Presidential Latin Mass Wedding
 date: 2021-07-12
 
 # View.
