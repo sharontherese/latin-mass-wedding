@@ -1,5 +1,6 @@
 ---
 title: A masterpost of resources on the traditional Catholic rite of betrothal
+date: 2021-10-13
 view: "2"
 header:
   caption: ''
