@@ -21,7 +21,7 @@ Promised in Christ : Solemn Engagement : Crowning of a Bride : Notes on Preparat
 
 Fenner, Kay Toy. American Catholic Etiquette. Westminster, Md.: Newman Press, 1965. {{% staticref "files/Fenner_AmericanCatholicEtiquette.pdf" %}}PDF excerpt{{% /staticref %}}
 
-> Mrs. Fenner incldues a "description of the suggested form of a canonical engagement, as prepared by the Rt. Rev. Martin Hellreigel." 
+> Mrs. Fenner includes a "description of the suggested form of a canonical engagement, as prepared by the Rt. Rev. Martin Hellreigel." 
 
 Foley, Michael P. Lessard Alexander E. Lessard Angela Foley Alexandra. Wedding Rites: The Complete Guide to a Traditional Wedding. Grand Rapids, Mich.: William B. Eerdmans Pub., 2008.
 
@@ -79,11 +79,23 @@ Balatonyi, Judit. "From Deviancy to Norm: An Alternative Betrothal Rite in Gyime
 
 "Priests Here to Disregard New Betrothal Law." St. Louis Post - Dispatch, February 18 1908.
 
+> The new Catholic marriage laws, issued by Pope Pius, which are to become effective after Easter, and which were published for the first time here in the Sunday Post-Dispatch, Feb.2, will be disregarded in so far as they apply to engagements in the United States. 
+>
+> “Catholic priests here do not regard engagements seriously,“ the Rev. Father D. S.  Phelan of Our Lady of Mount Carmel Catholic Church told a Post-Dispatch reporter Tuesday. “In Europe they are binding and almost equivalent to marriage, but here – why hear a girl gets engaged one day and breaks at the next. The passing of the ring isn’t regarded is really binding – the girl just send it back. You see, in Europe the girls don’t choose their husbands. The men do the choosing, and when the betrothal is entered into it is final. No person can be married they are well engaged to another person – but here, we never ask anything about previous or present engagements…
+> 
+> The new laws are issued for the whole world, and are to be interpreted according to conditions in various places. They are extremely radical, particularly in the provision that no Catholic can be married except by a priest. Heretofore, we have been lenient about civil marriages, but the new laws for bid that.”
+
 "Catholics' New Law." The Washington Post, April 19 1908.
 
-"Rt. Reverend Bishop O’dea Expounds Laws of Church on Pre-Nuptial Engagements." The Catholic Northwest Progress (Seattle, WA), April 10 1908. https://washingtondigitalnewspapers.org/?a=d&d=CATHNWP19080410.2.2&srpos=54.
+> “The new legislation does not impose on people about to marry,” the Archbishop declares, “an obligation to make formal prenuptial engagements in writing and before witnesses as a prerequisite for marriage. They may be married, as heretofore, after a simple verbal promise of marriage given to each other.“
+>
+> This is a liberal interpretation of the clause “sponsalia” of the papal decree, which directs that, to be valid and canonical, engagements should be “drawn up in writing duly signed by the parties contracting sponsalia, and attested by proper witnesses.”
 
-"Non-Catholic Opinion." The Catholic Northwest Progress (Seattle, WA), May 29 1908. https://washingtondigitalnewspapers.org/?a=d&d=CATHNWP19080529.2.7&srpos=55.
+"Rt. Reverend Bishop O’Dea Expounds Laws of Church on Pre-Nuptial Engagements." The Catholic Northwest Progress (Seattle, WA), April 10 1908. https://washingtondigitalnewspapers.org/?a=d&d=CATHNWP19080410.2.2&srpos=54.
+
+![](/uploads/betrothal/CATHNWP19080410.jpg)
+
+> Whoever contemplates marriage should be there in mind that it is above all things a serious and important obligation. Betrothal or engagement has always been regarded by the churches binding. For the future, after next Easter Sunday, no engagement will be considered of any authority by the Church unless made in writing and signed by both parties with the witness either of a priest or of two other persons.
 
 "The Marriage of Catholics---Laws Take Effect Easter Sunday." The Monitor, April 4 1908. https://thecatholicnewsarchive.org/?a=d&d=tmon19080404-01.2.2.
 
