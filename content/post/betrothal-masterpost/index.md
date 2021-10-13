@@ -47,9 +47,13 @@ Balatonyi, Judit. "From Deviancy to Norm: An Alternative Betrothal Rite in Gyime
 
 # Newspaper clippings 
 
+## 19th century
+
 "Betrothal and Bridal Customs." Once a week, April 1 1879.
 
 "An Italian Betrothal." The Catholic Telegraph, August 29 1895. https://thecatholicnewsarchive.org/?a=d&d=TCT18950829-01.2.58.
+
+## 1900s
 
 "Wedding Rings." The Catholic Telegraph, August 1 1901. https://thecatholicnewsarchive.org/?a=d&d=TCT19010801-01.2.16.
 
@@ -67,9 +71,13 @@ Balatonyi, Judit. "From Deviancy to Norm: An Alternative Betrothal Rite in Gyime
 
 Esopo, Father. "The Catholic Betrothal Rule." St. Louis Post - Dispatch, February 25 1908.
 
+## 1910s
+
 "Thoughts on Marriage." The Catholic Northwest Progress (Seattle, WA), August 3 1917. https://washingtondigitalnewspapers.org/?a=d&d=CATHNWP19170803.2.46&srpos=94.
 
 "After Dinner Story "in the Path of the Conquerors": A Romance of Spain's Great Day." Our Sunday Visitor, April 29 1917. https://thecatholicnewsarchive.org/?a=d&d=OSV19170429-01.2.17.
+
+## 1920s
 
 "Question Box." The Catholic Northwest Progress (Seattle, WA), August 20 1920. https://washingtondigitalnewspapers.org/?a=d&d=CATHNWP19200820.2.44&srpos=106.
 
@@ -77,9 +85,13 @@ Esopo, Father. "The Catholic Betrothal Rule." St. Louis Post - Dispatch, Februar
 
 Smith, Reverend Matthew. "Church Has Special Way for Betrothing of Couples." The Register (Denver, CO), June 3 1928. https://archives.archden.org/islandora/object/archden%3A5440.
 
+## 1930s
+
 "Further World Fair Exhibits of Catholic Interest Announced." Catholic News Service, May 29 1933. https://thecatholicnewsarchive.org/?a=d&d=cns19330529-01.1.36.
 
 Cavanagh, Reverend John. "Betrothal of Couples Is Favored by Church." The Register (Denver, CO), December 13 1936. https://archives.archden.org/islandora/object/archden%3A6294.
+
+## 1940s
 
 "Old Catholic Ceremony of Betrothal Revived at Montreal Oratory." Catholic News Service, February 3 1941. https://thecatholicnewsarchive.org/?a=d&d=cns19410203-01.1.20.
 
@@ -96,6 +108,8 @@ Schmiedeler OSB, Reverend Edgar "The Engagement or Betrothal." The Catholic Nort
 "236 Take Part in Traditional Ceremony on Espousal Feast." Catholic News Service, February 2 1948. https://thecatholicnewsarchive.org/?a=d&d=cns19480202-01.1.100.
 
 "Engagements." The St. Louis Register, March 18 1949. https://thecatholicnewsarchive.org/?a=d&d=SLR19490318-01.2.74.
+
+## 1950s
 
 "Betrothal Rite." The St. Louis Register, March 2 1951. https://thecatholicnewsarchive.org/?a=d&d=SLR19510302-01.2.72.
 
@@ -129,6 +143,8 @@ Thomas SJ, Father John L. "Is There an Ideal Length for the Engagement Period?" 
 
 "Ask and Learn." The Register (Denver, CO), May 14 1959. https://archives.archden.org/islandora/object/archden%3A6228.
 
+## 1960s
+
 "Pre-Cana Meet at St. Mary's." The Monitor, April 1 1960. https://thecatholicnewsarchive.org/?a=d&d=tmon19600401-01.2.121.
 
 "Mary's Betrothal Matter of Custom." The Register (Denver, CO), June 1 1961. https://archives.archden.org/islandora/object/archden%3A8357.
@@ -141,10 +157,14 @@ Thomas SJ, Father John L. "Is There an Ideal Length for the Engagement Period?" 
 
 "A Preliminary." The Catholic Advocate, March 24 1966. https://thecatholicnewsarchive.org/?a=d&d=ca19660324-01.2.175.11.
 
+# 1970s
+
 "Vatican Daily Rebuffs Betrothal Proposal." Catholic News Service, March 15 1971. https://thecatholicnewsarchive.org/?a=d&d=cns19710316-01.1.21.
 
 "Pre-Marriage Lectures Set for Mondays." Pittsburgh Catholic, May 24 1974. https://thecatholicnewsarchive.org/?a=d&d=TPC19740524-01.2.27.
 
 Franklin, James. "Catholics Reviving Betrothal Custom." Boston Globe, December 5 1977.
+
+## 1980s
 
 Loschlavo, Linda "Engaged Encounter Preparation Tor a Lasting Marriage by Linda Ann " Catholic News Service, January 2 1984. https://thecatholicnewsarchive.org/?a=d&d=cns19840102-01.1.16.
