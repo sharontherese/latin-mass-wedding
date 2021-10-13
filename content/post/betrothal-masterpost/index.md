@@ -1,5 +1,5 @@
 ---
-title: A masterpost of resources on the traditional Catholic rite of betrothal
+title: A Masterpost of Resources on the Traditional Catholic Rite of Betrothal
 date: 2021-10-13
 view: "2"
 header:
@@ -57,7 +57,11 @@ Balatonyi, Judit. "From Deviancy to Norm: An Alternative Betrothal Rite in Gyime
 
 "Wedding Rings." The Catholic Telegraph, August 1 1901. https://thecatholicnewsarchive.org/?a=d&d=TCT19010801-01.2.16.
 
+> In ancient times the ceremony of betrothal was really more solemn than marriage, and the betrothal ring was considered the more important of the two. The marriage ceremony was looked upon as a mere ratification of the betrothal contract. The Church very rightly then punished by excommunication any violation of the betrothal contract. It is interesting to know that the first part of our marriage service down to the “I will” is a remnant of the old betrothal service. 
+
 "Sacredness of Betrothel." The Catholic Telegraph, December 4 1902. https://thecatholicnewsarchive.org/?a=d&d=TCT19021204-01.2.37.
+
+> So sacred does the Catholic Church regard marriage that it does not allow either party to a betrothal to disregard the promise of marriage without a good and sufficient reason. Non-Catholics throughout the east were greatly surprised last week at the following dispatch which appeared in a number of local papers: Fall River, Mass., Nov. 24. —Miss Mary McDonald, plaintiff in the breach-of-promise-of-marriage suit against Patrick Kieran, the wealthy superintendent of the Fall River Water Works, in which she got $15,000, has released Mr. Kieran from his promise to marry her and he is at liberty now to enter into the marriage contract with another woman. Miss McDonald had blocked his effort to get married by filing a protest with Bishop Harkins, of Providence. This became public when Mr. Rieran applied to the ehurch for a dispensation to marry Miss McDonald’s rival. This request was denied. He insisted upon the dispensation and an ecclesiastical court was to have been convened this week to determine the issue. But Miss McDonald changed her mind to-day and filed with Bishop Harkins her written withdrawal of her objection to Mr. Kieran’s marriage to another.
 
 "Priests Here to Disregard New Betrothal Law." St. Louis Post - Dispatch, February 18 1908.
 
