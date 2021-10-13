@@ -49,9 +49,9 @@ Balatonyi, Judit. "From Deviancy to Norm: An Alternative Betrothal Rite in Gyime
 
 ## 19th century
 
-"Betrothal and Bridal Customs." Once a week, April 1 1879.
-
 "An Italian Betrothal." The Catholic Telegraph, August 29 1895. https://thecatholicnewsarchive.org/?a=d&d=TCT18950829-01.2.58.
+
+> In Italy a formal betrothal is considered almost as binding and sacred as marriage itself, and a breach of promise, especially on .the girl’s side, is regarded with intense indignation. A girl who breaks her engagement is called a civetta — an owlet — possibly because owlets are used in Italy as decoys for ensnaring other birds. The epithet sticks to the girl for life and often proves fatal to her matrimonial chances.
 
 ## 1900s
 
