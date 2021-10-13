@@ -11,31 +11,45 @@ This post includes information about the history of the celebration of Catholic 
 
 # Rites of betrothal
 
+[Rite of Betrothal](https://www.latinmasswedding.com/rite-of-betrothal/)
+
+> Full text of the Rite of Betrothal as found in Father Philip Weller's English translation of the Roman Ritual. This is the most commonly used version of the rite. 
+
 Promised in Christ : Solemn Engagement : Crowning of a Bride : Notes on Preparation for Marriage. Loveland, Ohio: Grailville Publications, 1955.
+
+> This booklet includes the Weller Rite of Betrothal, as well as a ceremony called the Crowning of a Bride. 
+
+Fenner, Kay Toy. American Catholic Etiquette. Westminster, Md.: Newman Press, 1965. {{% staticref "files/Fenner_AmericanCatholicEtiquette.pdf" %}}PDF excerpt{{% /staticref %}}
+
+> Mrs. Fenner incldues a "description of the suggested form of a canonical engagement, as prepared by the Rt. Rev. Martin Hellreigel." 
 
 Foley, Michael P. Lessard Alexander E. Lessard Angela Foley Alexandra. Wedding Rites: The Complete Guide to a Traditional Wedding. Grand Rapids, Mich.: William B. Eerdmans Pub., 2008.
 
+> Dr. Foley includes a translation of a medieval French betrothal. 
+
 # Books 
 
-Broderick, Robert C. The Catholic Layman's Book of Etiquette. 1959.
+Broderick, Robert C. The Catholic Layman's Book of Etiquette. 1959. {{% staticref "files/broderick_betrothals.pdf" %}}PDF excerpt{{% /staticref %}}
 
-> {{% staticref "files/broderick_betrothals.pdf" %}}PDF excerpt{{% /staticref %}}
+> Engagements may be made formal espousals by putting the promise to marry in writing, signed by the parties and the parish priest of the bride or of the place where the contract was made (or before the local ordinary), and before two witnesses. This is not binding in law. It is not generally a practice in the United States. 
 
-Kelly, George Anthony. The Catholic Youth's Guide to Life and Love. Robert Hale: London, 1962.
+Kelly, George Anthony. The Catholic Youth's Guide to Life and Love. Robert Hale: London, 1962. {{% staticref "files/Kelly_CatholicYouthGuide.pdf" %}}PDF excerpt{{% /staticref %}}
 
-> {{% staticref "files/Kelly_CatholicYouthGuide.pdf" %}}PDF excerpt{{% /staticref %}}
+> **The betrothal rite.** In earlier times, when a man and woman became engaged, they solemnized their agreement in the church by plighting their troth. This ceremony is enjoying a remarkable revival in the United States. 
+> 
+> The ceremony is simple and short. You and your spouse-to-be promise before a priest that you will prepare yourselves in the best way possible for the sacred state of matrimony. You assert solemnly that you sincerely intend to wed unless you discover defects that would make marriage undesirable. 
+> 
+> This ceremony symbolizes your desire to spend your days before your wedding in trying to make sure that you're doing the right thing. It doesn't bind you to marry. Rather, it emphasizes the importance of thorough preparation for marriage and it imbues bride and bridegroom with a sense of the important spiritual nature of the marriage contract. 
+> 
+> The betrothal rite will give you a greater sense of the dignity and idealism of married life. It will dispose you to treat it with the reverence it deserves. 
 
-Fenner, Kay Toy. American Catholic Etiquette. Westminster, Md.: Newman Press, 1965.
+Witte, John Westminster John Knox Press. From Sacrament to Contract : Marriage, Religion, and Law in the Western Tradition. Louisville, KY: Westminster John Knox Press, 2012. {{% staticref "files/Witte_FromSacramenttoContract.pdf" %}}PDF excerpt{{% /staticref %}}
 
-> {{% staticref "files/Fenner_AmericanCatholicEtiquette.pdf" %}}PDF excerpt{{% /staticref %}}
-
-Witte, John Westminster John Knox Press. From Sacrament to Contract : Marriage, Religion, and Law in the Western Tradition. Louisville, KY: Westminster John Knox Press, 2012.
-
-> {{% staticref "files/Witte_FromSacramenttoContract.pdf" %}}PDF excerpt{{% /staticref %}}
+> pg. 327: Second, the Western tradition has learned to distinguish between betrothals and espousals, engagements and weddings. Betrothals were defined as a future promise to rnarry, to be announced publicly in the local community and to be fulfilled after a suitable waiting period. Espousals were defined as the present promise to marry, to be celebrated- in a public ceremony before civil and/or religious officials. The point of a public betrothal and waiting period was to allow couples to weigh the depth and durability of their mutual love. It was also to invite others to weigh in on the maturity and compatibility of the couple, to offer them counsel and commodities, and to prepare for the celebration of their union and their life together thereafter. Too long an engagement would encourage the couple to fornication. But too short an engagement would discourage them from introspection. Too secret and private a marriage would deprive couples of the essential counsel and gifts of their families and friends. But too public and routinized a marriage would deprive couples of the indispensable privacy and intimacy needed to tailor their nuptiais to their own preferences. Hence the traditional balance of engagement and wedding, of publicity and privacy, of waiting and consummating.
 
 # Articles
 
-"Decree Concerning Sponsalia and Matrimony." The American Catholic Quarterly Review  (October 1907).
+"Decree Concerning Sponsalia and Matrimony." The American Catholic Quarterly Review  (October 1907). {{% staticref "files/1907Decree.pdf" %}}PDF excerpt{{% /staticref %}}
 
 Foley, Michael P. . "Betrothals: Their Past, Present, and Future." Studia Liturgica 33 (2003): 37-61.
 
