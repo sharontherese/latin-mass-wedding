@@ -99,7 +99,13 @@ Balatonyi, Judit. "From Deviancy to Norm: An Alternative Betrothal Rite in Gyime
 
 "The Marriage of Catholics---Laws Take Effect Easter Sunday." The Monitor, April 4 1908. https://thecatholicnewsarchive.org/?a=d&d=tmon19080404-01.2.2.
 
+![](/uploads/betrothal/tmon19080404.jpg)
+
+> Only those matrimonial engagements are considered to be valid and to beget canonical effects which have been made in writing, signed by both parties, and by either the parish priest or the Ordinary of the place, or at least by two witnesses.
+
 Esopo, Father. "The Catholic Betrothal Rule." St. Louis Post - Dispatch, February 25 1908.
+
+> As the Post-Dispatch printed on the 18th…Father Phelan told: “Catholic priests here do not regard engagements seriously.” Well, if you believe so now, after Easter he must change his idea regarding engagements seriously according to the new betrothal law. The new law is of the world and the Catholic American girls have now a good chance to bind fellows if their engagements are written and signed in presence of pastor or two witnesses. In the past the poor fellows were annoyed by girls, but now they can complain to the pastor against their sweethearts, showing written and signed engagements and pastor must inquire about them because the girl fell in so called impedimentum impediente. It means the girl must receive permission from the bishop if she wishes to be married to another fellow. For all above reasons the priest here must regarding new betrothal law and girls in America may bind fellows and vice versa.
 
 ## 1910s
 
