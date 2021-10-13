@@ -43,7 +43,7 @@ Lawler, Michael G. , and Gail S.  Risch. "A Betrothal." U.S. Catholic  (June 200
 
 Szabó, András Péter, and Matthew Caples. "Betrothal and Wedding, Church Wedding and Nuptials: Reflections on the System of Marriages in Sixteenth- and Seventeenth-Century Hungary." The Hungarian Historical Review 3, no. 1 (2014): 3-31. http://www.jstor.org/stable/43265189.
 
-Balatonyi, Judit. "From Deviancy to Norm: An Alternative Betrothal Rite in Gyimes." [In English]. Acta Ethnographica Hungarica Acta Ethnographica Hungarica 63, no. 1 (01 Jun. 2018 2018): 33-48. https://doi.org/10.1556/022.2018.63.1.3. https://akjournals.com/view/journals/022/63/1/article-p33.xml.
+Balatonyi, Judit. "From Deviancy to Norm: An Alternative Betrothal Rite in Gyimes." Acta Ethnographica Hungarica Acta Ethnographica Hungarica 63, no. 1 (01 Jun. 2018 2018): 33-48. https://doi.org/10.1556/022.2018.63.1.3. 
 
 # Newspaper clippings 
 
@@ -59,20 +59,19 @@ Balatonyi, Judit. "From Deviancy to Norm: An Alternative Betrothal Rite in Gyime
 
 "Catholics' New Law." The Washington Post, April 19 1908.
 
-"Rt. Reverend Bishop O’dea Expounds Laws of Church on Pre-Nuptial Engagements." The Catholic Northwest Progress (Seattle, WA), April 10 1908. https://washingtondigitalnewspapers.org/?a=d&d=CATHNWP19080410.2.2&srpos=54&e=-------en-20--41-byDA-txt-txIN-betrothal+NOT+announced+NOT+revealed+NOT+known------.
+"Rt. Reverend Bishop O’dea Expounds Laws of Church on Pre-Nuptial Engagements." The Catholic Northwest Progress (Seattle, WA), April 10 1908. https://washingtondigitalnewspapers.org/?a=d&d=CATHNWP19080410.2.2&srpos=54.
 
-"Non-Catholic Opinion." The Catholic Northwest Progress (Seattle, WA), May 29 1908. https://washingtondigitalnewspapers.org/?a=d&d=CATHNWP19080529.2.7&srpos=55&e=-------en-20--41-byDA-txt-txIN-betrothal+NOT+announced+NOT+revealed+NOT+known------.
+"Non-Catholic Opinion." The Catholic Northwest Progress (Seattle, WA), May 29 1908. https://washingtondigitalnewspapers.org/?a=d&d=CATHNWP19080529.2.7&srpos=55.
 
 "The Marriage of Catholics---Laws Take Effect Easter Sunday." The Monitor, April 4 1908. https://thecatholicnewsarchive.org/?a=d&d=tmon19080404-01.2.2.
 
 Esopo, Father. "The Catholic Betrothal Rule." St. Louis Post - Dispatch, February 25 1908.
 
-"Thoughts on Marriage." The Catholic Northwest Progress (Seattle, WA), August 3 1917. https://washingtondigitalnewspapers.org/?a=d&d=CATHNWP19170803.2.46&srpos=94&e=-------en-20--81-byDA-txt-txIN-betrothal+NOT+announced+NOT+revealed+NOT+known------.
+"Thoughts on Marriage." The Catholic Northwest Progress (Seattle, WA), August 3 1917. https://washingtondigitalnewspapers.org/?a=d&d=CATHNWP19170803.2.46&srpos=94.
 
-"After Dinner Story "in the Path of the Conquerors": A Romance of Spain's Great Day.
-Text." Our Sunday Visitor, April 29 1917. https://thecatholicnewsarchive.org/?a=d&d=OSV19170429-01.2.17.
+"After Dinner Story "in the Path of the Conquerors": A Romance of Spain's Great Day." Our Sunday Visitor, April 29 1917. https://thecatholicnewsarchive.org/?a=d&d=OSV19170429-01.2.17.
 
-"Question Box." The Catholic Northwest Progress (Seattle, WA), August 20 1920. https://washingtondigitalnewspapers.org/?a=d&d=CATHNWP19200820.2.44&srpos=106&e=-------en-20--101-byDA-txt-txIN-betrothal+NOT+announced+NOT+revealed+NOT+known------.
+"Question Box." The Catholic Northwest Progress (Seattle, WA), August 20 1920. https://washingtondigitalnewspapers.org/?a=d&d=CATHNWP19200820.2.44&srpos=106.
 
 "Catholic Marriage Laws According to New Code." Our Sunday Visitor, May 20 1923. https://thecatholicnewsarchive.org/?a=d&d=OSV19230520-01.2.3.
 
@@ -92,7 +91,7 @@ Cavanagh, Reverend John. "Betrothal of Couples Is Favored by Church." The Regist
 
 "Weddings." The St. Louis Register, September 3 1943. https://thecatholicnewsarchive.org/?a=d&d=SLR19430903-01.2.63.65.
 
-Schmiedeler OSB, Reverend Edgar "The Engagement or Betrothal." The Catholic Northwest Progress (Seattle, WA), March 14 1947. https://washingtondigitalnewspapers.org/?a=d&d=CATHNWP19470314.2.73&srpos=163&e=-------en-20--161-byDA-txt-txIN-betrothal+NOT+announced+NOT+revealed+NOT+known------.
+Schmiedeler OSB, Reverend Edgar "The Engagement or Betrothal." The Catholic Northwest Progress (Seattle, WA), March 14 1947. https://washingtondigitalnewspapers.org/?a=d&d=CATHNWP19470314.2.73&srpos=163.
 
 "236 Take Part in Traditional Ceremony on Espousal Feast." Catholic News Service, February 2 1948. https://thecatholicnewsarchive.org/?a=d&d=cns19480202-01.1.100.
 
@@ -120,9 +119,9 @@ Kekrisen, Reverend Robert E. . "Ask and Learn." The Register (Denver, CO), 1953.
 
 "Solemn Engagement." The St. Louis Register, March 16 1956. https://thecatholicnewsarchive.org/?a=d&d=SLR19560316-01.2.141.75.
 
-Reckinger, Reverend Arthur G. "Certainly You Can Marry: Age Old Customs Prevail." The Catholic Northwest Progress (Seattle, WA), September 7 1956. https://washingtondigitalnewspapers.org/?a=d&d=CATHNWP19560907.2.94&srpos=177&e=-------en-20--161-byDA-txt-txIN-betrothal+NOT+announced+NOT+revealed+NOT+known------.
+Reckinger, Reverend Arthur G. "Certainly You Can Marry: Age Old Customs Prevail." The Catholic Northwest Progress (Seattle, WA), September 7 1956. https://washingtondigitalnewspapers.org/?a=d&d=CATHNWP19560907.2.94&srpos=177.
 
-Thomas SJ, Father John L. "Is There an Ideal Length for the Engagement Period?" The Catholic Northwest Progress (Seattle, WA), September 13 1957. https://washingtondigitalnewspapers.org/?a=d&d=CATHNWP19570913.2.170&srpos=180&e=-------en-20--161-byDA-txt-txIN-betrothal+NOT+announced+NOT+revealed+NOT+known------.
+Thomas SJ, Father John L. "Is There an Ideal Length for the Engagement Period?" The Catholic Northwest Progress (Seattle, WA), September 13 1957. https://washingtondigitalnewspapers.org/?a=d&d=CATHNWP19570913.2.170&srpos=180.
 
 "Betrothal." The Clarion Herald, Ju;y 6 1958. https://thecatholicnewsarchive.org/?a=d&d=cher19580706-01.1.6.
 
