@@ -111,15 +111,27 @@ Esopo, Father. "The Catholic Betrothal Rule." St. Louis Post - Dispatch, Februar
 
 "Thoughts on Marriage." The Catholic Northwest Progress (Seattle, WA), August 3 1917. https://washingtondigitalnewspapers.org/?a=d&d=CATHNWP19170803.2.46&srpos=94.
 
+> The work of the Council of Trent in the matter of marriage was confined more particularly to defending and defining the sacramental character of marriage… The matter of betrothal, or promise of marriage, was passed over rather lightly by the council. The consequence was that many difficulties arose. Engagements to marry were entered into lately and they are binding contractual character was held in slight regard. The Council recognized betrothals but prescribed no formality for their validity. Whether it was a solemn betrothal and public or a secret engagement to marry it was equally invalid and an impediment. This frequently worked grave injustice, especially in those countries where the canon law on marriage was recognized and enforced by the civil courts. The history of betrothal brings us back to the practices that were common amongst the Jews and Romans whose laws and customs influenced the early church...
+
 "After Dinner Story "in the Path of the Conquerors": A Romance of Spain's Great Day." Our Sunday Visitor, April 29 1917. https://thecatholicnewsarchive.org/?a=d&d=OSV19170429-01.2.17.
+
+> "Know ye all who are present, that Dona Ysabel is not free to contract marriage with this scoundrel Inigo de Oliavarez: she is betrothed! to me." "Indeed," said Fonseca, "and was this contract in writing? And was the betrothal before two witnesses? And with the consent of the lady's guardian? No? Ah! then, my young friend, your betrothal is null and void."
 
 ## 1920s
 
 "Question Box." The Catholic Northwest Progress (Seattle, WA), August 20 1920. https://washingtondigitalnewspapers.org/?a=d&d=CATHNWP19200820.2.44&srpos=106.
 
+> There is no law of the Church compelling a young couple contemplating marriage to enter a solemn betrothal. The Church blesses such a betrothal and the young couple entering into it with the proper dispositions will undoubtedly receive special graces to preserve them from any sin.
+
 "Catholic Marriage Laws According to New Code." Our Sunday Visitor, May 20 1923. https://thecatholicnewsarchive.org/?a=d&d=OSV19230520-01.2.3.
 
+> Among Catholics a binding marriage engagement arises only from a written contract signed by both parties and witnessed by the pastor, or in lieu of the pastor, by two witnesses, (Canon 1017).
+
 Smith, Reverend Matthew. "Church Has Special Way for Betrothing of Couples." The Register (Denver, CO), June 3 1928. https://archives.archden.org/islandora/object/archden%3A5440.
+
+![](/uploads/betrothal/denver1928.png)
+
+> The Catholic Church has a formal method of betrothing couples, although it is rarely used in this country. Her children are free to use it or not as they wish. Only when this formal method is used does the Church law officially recognise a betrothal.
 
 ## 1930s
 
