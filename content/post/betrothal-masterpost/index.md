@@ -149,19 +149,33 @@ Cavanagh, Reverend John. "Betrothal of Couples Is Favored by Church." The Regist
 
 "Old Catholic Ceremony of Betrothal Revived at Montreal Oratory." Catholic News Service, February 3 1941. https://thecatholicnewsarchive.org/?a=d&d=cns19410203-01.1.20.
 
+> **An ancient rite, the Catholic ceremony of betrothal, was revived** yesterday at the Oratory of Bt. Joseph with the Most Rev. Joseph Charbonneaui Archbishop of Montreal, presiding. (epmhasis added)
+
 "Ask and Learn." The St. Louis Register, April 4 1941. https://thecatholicnewsarchive.org/?a=d&d=SLR19410404-01.2.64.29.
+
+> The Church declares that betrothals which do not comply with certain formalities have no binding force in either the civil or ecclesiastical forums.
 
 "Formal Betrothals Urged as Check on Hasty Marriages." The St. Louis Register, September 4 1942. https://thecatholicnewsarchive.org/?a=d&d=SLR19420904-01.2.64.
 
+![](/uploads/betrothal/denver1936/SLR19420904.jpg)
+
+> In its October number, shortly to be released, the sodality mouthpiece explains **the seldom used formal and solemn engagement,** in which a couple pledge their troth before the altar, in the presence of two witnesses and a priest, and deposit a copy of the contract with the pastor of the girl’s parish. (emphasis added)
+
 "‘Forget It,’ Is Priest’s Advice on War Romance." The St. Louis Register, June 4 1943. https://thecatholicnewsarchive.org/?a=d&d=SLR19430604-01.2.60.16.
+
+> To those who have met since tha outbreak of the war and the consequent threat of conscription, Monsignor Begin said: "If you know each other well enough and have considered all the consequences of marriage, enter a solemn public form of engagement, mutually binding each other to marriage when the war is over.” 
 
 "Weddings." The St. Louis Register, September 3 1943. https://thecatholicnewsarchive.org/?a=d&d=SLR19430903-01.2.63.65.
 
+> An ecclesiastical engagement has been made by Dolores Bryne...The ceremony of engagement, which was held at the high altar in Holy Cross church...consisted of a promise before two witnesses to lead humble, holy, and pure lives, and to attend the sacraments. The pledge was later signed in the sacristy. 
+
 Schmiedeler OSB, Reverend Edgar "The Engagement or Betrothal." The Catholic Northwest Progress (Seattle, WA), March 14 1947. https://washingtondigitalnewspapers.org/?a=d&d=CATHNWP19470314.2.73&srpos=163.
+
+> It should be clear that engagements involve no'marital responsibilities and grant no marital rights or privileges.
 
 "236 Take Part in Traditional Ceremony on Espousal Feast." Catholic News Service, February 2 1948. https://thecatholicnewsarchive.org/?a=d&d=cns19480202-01.1.100.
 
-"Engagements." The St. Louis Register, March 18 1949. https://thecatholicnewsarchive.org/?a=d&d=SLR19490318-01.2.74.
+> In the presence of Archbishop Joseph Charbonneau of Montreal, 118 young couples took part in a canonical engagement ceremony at St. Joseph's Oratory on the feast of the Espousal of Mary and Joseph. A large congregation witnessed the **now traditional ceremony** in which the 2j6 young people took part. (emphasis added)
 
 ## 1950s
 
