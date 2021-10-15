@@ -157,7 +157,7 @@ Cavanagh, Reverend John. "Betrothal of Couples Is Favored by Church." The Regist
 
 "Formal Betrothals Urged as Check on Hasty Marriages." The St. Louis Register, September 4 1942. https://thecatholicnewsarchive.org/?a=d&d=SLR19420904-01.2.64.
 
-![](/uploads/betrothal/denver1936/SLR19420904.jpg)
+![](/uploads/betrothal/SLR19420904.jpg)
 
 > In its October number, shortly to be released, the sodality mouthpiece explains **the seldom used formal and solemn engagement,** in which a couple pledge their troth before the altar, in the presence of two witnesses and a priest, and deposit a copy of the contract with the pastor of the girl’s parish. (emphasis added)
 
