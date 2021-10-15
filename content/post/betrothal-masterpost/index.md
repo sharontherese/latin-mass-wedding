@@ -135,9 +135,15 @@ Smith, Reverend Matthew. "Church Has Special Way for Betrothing of Couples." The
 
 ## 1930s
 
-"Further World Fair Exhibits of Catholic Interest Announced." Catholic News Service, May 29 1933. https://thecatholicnewsarchive.org/?a=d&d=cns19330529-01.1.36.
+"Christian Betrothal Studied At Congress." Catholic News Service, May 29 1933. https://thecatholicnewsarchive.org/?a=d&d=cns19330529-01.1.36.
+
+> About 800 delegates, from different sections of France, have been engaged in studying "Christian betrothing" at the eleventh national congress of the Association of Christian Marriage held at Rouen. 
 
 Cavanagh, Reverend John. "Betrothal of Couples Is Favored by Church." The Register (Denver, CO), December 13 1936. https://archives.archden.org/islandora/object/archden%3A6294.
+
+![](/uploads/betrothal/denver1936.png)
+
+> The engagement of people to marry has, in recent years, lost its identity as a hallowed institution. Breach of promise suits have become a regular filler for the columns of the daily press. That the actions of an adventuress should be favored by the metropolitan dailies does not speak well for the moral ideals of the public...Alter centuries of experience in handling pre-nuptial problems of the faithful, it is not surprising that the Church has compressed witin her canons the wisdom of a Divinely-founded oracle. Before the promise of marriage is considered valid in the eyes of the Church, the betrothal must be made in writing, signed by the parties and by either the pastor or the local Ordinary or at least two witnesses (Canon 1017).
 
 ## 1940s
 
