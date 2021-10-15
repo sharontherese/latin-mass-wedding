@@ -181,9 +181,17 @@ Schmiedeler OSB, Reverend Edgar "The Engagement or Betrothal." The Catholic Nort
 
 "Betrothal Rite." The St. Louis Register, March 2 1951. https://thecatholicnewsarchive.org/?a=d&d=SLR19510302-01.2.72.
 
+> Miss Margaret Ann Muehlenkamp (above)...became betrothed to Charles R. Godar in a ceremony...before the shrine of Our Blessed Mother in Perpetual Help church, Kansas City.
+
 Kekrisen, Reverend Robert E. . "Ask and Learn." The Register (Denver, CO), 1953. https://archives.archden.org/islandora/object/archden%3A7368.
 
+> When the betrothal of two Catholics fulfills all the requirements demanded by canon law for validity, it produces an obligation that binds in conscience (Ayrinhac-Lydon, Marriage Legielation tn the New Code of Canon Law, p. 20). It is true, however, that most modern engagements cannot be construed as “formal betrothals" according to ecclesiastical usage.
+
 "The Camera Reports." The St. Louis Register, March 26 1954. https://thecatholicnewsarchive.org/?a=d&d=SLR19540326-01.2.51.
+
+![](/uploads/betrothal/SLR19540326.jpg)
+
+> The Sanctity o( Matrimony was graphically presented by Fontbonne College students Sunday and Monday, March 21 and 22, to illustrate how all phases of married life have been blessed by God. In the firat tableau of tha “Marriage in Christ presentation, the custom of solemn engagement was enacted by the Rev. Walter Galus C.R.
 
 "Solemn Engagement Rite Fast Gaining Popularity." The St. Louis Register, December 24 1954. https://thecatholicnewsarchive.org/?a=d&d=SLR19541224-01.2.81.17.
 
