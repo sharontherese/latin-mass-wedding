@@ -215,24 +215,64 @@ Thomas SJ, Father John L. "Is There an Ideal Length for the Engagement Period?" 
 
 "Pre-Cana Meet at St. Mary's." The Monitor, April 1 1960. https://thecatholicnewsarchive.org/?a=d&d=tmon19600401-01.2.121.
 
-"Mary's Betrothal Matter of Custom." The Register (Denver, CO), June 1 1961. https://archives.archden.org/islandora/object/archden%3A8357.
+> A unique feature of the St Mary's conference will be the ceremony of the Solemn Betrothal Rite wherein members of the college student body will sanctify their promises of engagement.
 
 "Solemn Engagement." The Catholic Advocate, February 21 1963. https://thecatholicnewsarchive.org/?a=d&d=ca19630221-01.2.80.
 
-"Successful Weddings Need Much Planning." The Clarion Herald, May 7 1964. https://thecatholicnewsarchive.org/?a=d&d=cher19640507-01.1.9.
+![](/uploads/betrothal/ca19630221.jpg)
 
-"Short Engagement Seen Best for All (?)." The Clarion Herald, April 30 1964. https://thecatholicnewsarchive.org/?a=d&d=cher19640430-01.1.22.
+> In the ceremony of Solemn Engagement, which includes readings from Scripture, the exchange of the couple's promites and the blessing of the engagement ring, a Catholic couple ask God, their Father, to witness and bless their solemn promise to marry. (Note: Based on the details provided, this ceremony appears to be Fr. Weller's rite of betrothal.) 
+
+"Solemn engagement rite ideal marriage preparation." The Clarion Herald, May 7 1964. https://thecatholicnewsarchive.org/?a=d&d=cher19640507-01.1.9.
+
+![](/uploads/betrothal/cher19640507.jpg)
+
+> Solemn engagement is not the same as canonical engagement envisioned by canon 1017. The binding legal effects of canonical engagement have militated against its use except in rare instances. The form for solemn engagement now employed includes the spiritual benefits of canonical engagement without its legalistic effects.
+>
+> The ceremony is a simple one. The couple along with two witnesses declare their intention to marry as they kneel before the altar in the presence of the parish priest. He encourages them diligently to prepare for their marriage in Christ through prayer and reception of the sacraments. It is also customary for the couple and witnesses to sign a document embodying these ideals.
+
+"Short Engagement Seen Best for All." The Clarion Herald, April 30 1964. https://thecatholicnewsarchive.org/?a=d&d=cher19640430-01.1.22.
+
+![](/uploads/betrothal/cher19640430.jpg)
+
+> But today there is a return to the practice of the solemn engagement in which the couple appear before the priest at the altar and solemnly pronounce the bethrothal in the presence of two witnesses. All then sign a document. 
 
 "A Preliminary." The Catholic Advocate, March 24 1966. https://thecatholicnewsarchive.org/?a=d&d=ca19660324-01.2.175.11.
+
+> A ring is not enough. Many couples are now sealing their engagement with a signed contract, a ceremony complete with candles and witnesses, and the blessing of the Church. They ask their pastor for a betrothal ceremony. Before the altar the couple stand and recite their promises in the presence of priest and witnesses. “We the undersigned promise to one another by this ecclesiastical engagement marriage in Christ.” In addition, they promise “by the frequent devout reception of the holy sacraments, by prayer and charity, by mutual respect and chastity, we shall assist one another in preparing worthily for the blessed day of our marriage in Christ.” They conclude by asking God’s Mother “to carry our promise to the throne of God and to obtain for us His grace and blessing.” The priest asks the couple and the witnesses to sign the betrothal document, then stamps it with the parish seal, and hands it to the couple, now formally engaged. “We show it to everyone,” one young bride said, “along with our wedding pictures.” The vows bind only for the time of the engagement. Should the couple decide not to marry, the contract no longer applies.
 
 # 1970s
 
 "Vatican Daily Rebuffs Betrothal Proposal." Catholic News Service, March 15 1971. https://thecatholicnewsarchive.org/?a=d&d=cns19710316-01.1.21.
 
+> In an apparent swipe at a former archbishop of Canterbury, L'Osservatore Romano, the Vatican daily, stressed the need for chastity for engaged couples. An article on the subject appeared in the March 15 edition signed with the pen name "The Theologian." The article, at least in part, seemed to be a reaction to a recent proposal by Lord Geoffrey Fisher of Lambeth, former Anglican primate and archbishop of Canterbury. His proposal was that engaged couples should be permitted to enter a ceremony of "bethrothal" after which sexual relations would be approved, even before formal marriage.
+
 "Pre-Marriage Lectures Set for Mondays." Pittsburgh Catholic, May 24 1974. https://thecatholicnewsarchive.org/?a=d&d=TPC19740524-01.2.27.
 
+> First of the summer lectures will begin on Monday evening July 8. They will continue each Monday through Aug. 12, the series closing on that final Monday with a Mass of Solemn Engagement. 
+
 Franklin, James. "Catholics Reviving Betrothal Custom." Boston Globe, December 5 1977.
+
+![](/uploads/betrothal/globe1977.jpg)
+
+> The Roman Catholic Church is moving to revive the custom of betrothal before marriage, says Reverend John Finnegan, professor at Pope John XXIII Seminary in Weston. 
+> 
+> Fr. Finnegan told a weekend conference on marriage preparation, sponsored in Newton by the archdiocese of Boston, that “within the next 20 to 25 years, we will have a full catechumenate (or training program) for all engaged couples.” (…)
+> 
+> Betrothal could begin at least six months, and possibly a year, before the marriage with the formal act of commitment and include “rights of passage“ at points during the preparation, Fr. Finnegan suggested. (…)
+> 
+> As the practice develops, there would be “surrogate families” to support and encourage the couple after marriage, in which “marrieds would take responsibility to care for other marrieds in their parish,“ Fr. Finnegan said. (…)
+> 
+> The church faces a “haunting challenge,“ he said. “From the social point of view, marriage is more difficult to sustain today.” (…)
+> 
+> But there has been a recent a shift in the church’s understanding of the ability to marry. “We in the church now understand that hereditary problems, abuse of drugs or alcohol, for instance, can prevent the establishment of a community of life and love with the partner,” he said.
+> 
+> Church courts are granting annulments where these problems are found, Fr. Finnegan said, one reason the number of annulment granted each year in Boston has risen from about a dozen annually to 650 last year.
+> 
+> The betrothal period would help the couple and their church determine if they are ready to make a commitment to each other and to understand that marriage is “conditioning for service to others,“ he said.
 
 ## 1980s
 
 Loschlavo, Linda "Engaged Encounter Preparation Tor a Lasting Marriage by Linda Ann " Catholic News Service, January 2 1984. https://thecatholicnewsarchive.org/?a=d&d=cns19840102-01.1.16.
+
+> Our Engaged Encounter weekend closes with a special betrothal Mass.
