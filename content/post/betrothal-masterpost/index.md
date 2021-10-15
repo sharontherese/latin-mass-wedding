@@ -3,8 +3,8 @@ title: A Masterpost of Resources on the Traditional Catholic Rite of Betrothal
 date: 2021-10-13
 view: "2"
 header:
-  caption: ''
-  image: 
+  caption: 'The St. Louis Register, Volume 15, Number 33, 12 August 1955'
+  image: SLR19550812.jpg
 
 ---
 This post includes information about the history of the celebration of Catholic betrothals. It will be continuously updated.
@@ -195,29 +195,65 @@ Kekrisen, Reverend Robert E. . "Ask and Learn." The Register (Denver, CO), 1953.
 
 "Solemn Engagement Rite Fast Gaining Popularity." The St. Louis Register, December 24 1954. https://thecatholicnewsarchive.org/?a=d&d=SLR19541224-01.2.81.17.
 
+![](/uploads/betrothal/SLR19541224.jpg)
+
+> After coming up the aisle, the couple promise to marry one day "according to the ordinance of God and Holy Church.” After the priest has blessed the engagement ring, the man places it on his fiancee's finger. The couple kiss the Missal on the page imprinted with the Crucifixion. The rite ends as the couple sign a document to the effect that they "have this day promised the eventual consecration of one to the other in the sacrament of Matrimony.” Priest and witnesses also sign the paper. Finally the couple pray for grace to "spend of our engagement soberly, piously. and justly, awaiting the blessed consummation of that union.”
+
 "Formal Betrothal." The St. Louis Register, December 24 1954. https://thecatholicnewsarchive.org/?a=d&d=SLR19541224-01.2.81.66.
+
+![](/uploads/betrothal/SLR19541224-2.jpg)
+
+> A ceremony for a formal engagement rite in church is included in “Promised in Christ," a booklet published by the Grailville Community College, Loveland, O.
 
 "Engagements Solemnized in New Liturgical Movement." Catholic News Service, December 22 1954. https://thecatholicnewsarchive.org/?a=d&d=cns19541222-01.1.11.
 
+> The ceremony, **which is fast gaining popularity,** is performed in the presence of a priest and two witnesses. (emphasis added)
+
 "An Engagement Is Solemnized." The Catholic World in Pictures, December 20 1954. https://thecatholicnewsarchive.org/?a=d&d=cwp19541220-01.2.6.
+
+![](/uploads/betrothal/cwp19541220.jpg)
+
+> In a liturgical movement **that is rapidly gaining ground** in the United States, engaged couples are solemnizing their betrothals. (emphasis added)
 
 "Betrothal Rite Is Solemnized at Cure D'ars." The Register (Denver, CO), May 5 1955. https://archives.archden.org/islandora/object/archden%3A8073.
 
+> Father John Haley officiated at a very old Church ceremony — a solemn betrothal ceremony — between Fred Muenchrath and Alice Reinig on April 8 in Cure d’Ars Church.
+
 "Ancient Church Ceremony." The St. Louis Register, August 12 1955. https://thecatholicnewsarchive.org/?a=d&d=SLR19550812-01.2.2.
+
+![](/uploads/betrothal/SLR19550812.jpg)
+
+> The trend marks a return to ancient customs of the Church, which had in turn been borrowed in part from ceremonials of the Jews aad Romans...
+> 
+> **Forms Vary** 
+> 
+> The forms that a modern engagement ceremony may take vary considerably from these olden practices, but they nevertheless retain a strong emphasis on the importance and significance of the etep that is being taken. (emphasis added)
 
 "Betrothal Prayers." The St. Louis Register, October 28 1955. https://thecatholicnewsarchive.org/?a=d&d=SLR19551028-01.2.127.
 
+> Miss Joyce Plante, senior of Maryville College, and her fiance, Donald Kannatt Osborne, read over prayers for their solemn bethrothal scheduled to take place in the chapel ef Maryville Collage, St. Louis, Sunday, Oct. 30.
+
 "Solemn Engagement." The St. Louis Register, March 16 1956. https://thecatholicnewsarchive.org/?a=d&d=SLR19560316-01.2.141.75.
 
-Reckinger, Reverend Arthur G. "Certainly You Can Marry: Age Old Customs Prevail." The Catholic Northwest Progress (Seattle, WA), September 7 1956. https://washingtondigitalnewspapers.org/?a=d&d=CATHNWP19560907.2.94&srpos=177.
+![](/uploads/betrothal/SLR19560316.jpg)
+
+> Th# first solemn engagement rite in Sacred Heart Church. De Soto. Wis. is shown above. Blessing Kathleen Lucey of Ferryville and William Keegan of Richland Center is the Rev. Dr. Chester F. Wrzasczcak, pastor. Father Wrzasczcak, defender of the marriage bond of the La Crosse Diocese, is promoting the use of the solemn engagement rite with books, pamphlets, and articles.
 
 Thomas SJ, Father John L. "Is There an Ideal Length for the Engagement Period?" The Catholic Northwest Progress (Seattle, WA), September 13 1957. https://washingtondigitalnewspapers.org/?a=d&d=CATHNWP19570913.2.170&srpos=180.
 
-"Betrothal." The Clarion Herald, Ju;y 6 1958. https://thecatholicnewsarchive.org/?a=d&d=cher19580706-01.1.6.
+> Before answering your questions it might be well to point out that the term emgagement is used rather loosely in our country. At one time it represented an external rite and a formal promise to marry pronounced before witnesses such as the relatives or a representative of the Church. The Church has a formal engagement or betrothal ceremony **although changing social conditions cause it to be used rather infrequently.** (emphasis added) 
+
+"KYAK Officers Are Betrothed." The Clarion Herald, Ju;y 6 1958. https://thecatholicnewsarchive.org/?a=d&d=cher19580706-01.1.6.
+
+> The betrothal rite was used for the first time by KYAK members, but its use is encouraged in the organization. 
 
 "Betrothals." The Monitor, May 16 1958. https://thecatholicnewsarchive.org/?a=d&d=tmon19580516-01.2.117.
 
+> The engagement was solemnized in a betrothal ceremony followed by the celebration of Holy Mass at St. Albert's college in Oakland. Father Kevin Carr, O P , officiated.
+
 "Ask and Learn." The Register (Denver, CO), May 14 1959. https://archives.archden.org/islandora/object/archden%3A6228.
+
+> Engagement begets a serious obligation in justice to contract marriage afterwards, unless there is a good reason to the contrary.
 
 ## 1960s
 
@@ -229,7 +265,7 @@ Thomas SJ, Father John L. "Is There an Ideal Length for the Engagement Period?" 
 
 ![](/uploads/betrothal/ca19630221.jpg)
 
-> In the ceremony of Solemn Engagement, which includes readings from Scripture, the exchange of the couple's promites and the blessing of the engagement ring, a Catholic couple ask God, their Father, to witness and bless their solemn promise to marry. (Note: Based on the details provided, this ceremony appears to be Fr. Weller's rite of betrothal.) 
+> In the ceremony of Solemn Engagement, which includes readings from Scripture, the exchange of the couple's promises and the blessing of the engagement ring, a Catholic couple ask God, their Father, to witness and bless their solemn promise to marry. (Note: Based on the details provided, this ceremony appears to be Fr. Weller's rite of betrothal.) 
 
 "Solemn engagement rite ideal marriage preparation." The Clarion Herald, May 7 1964. https://thecatholicnewsarchive.org/?a=d&d=cher19640507-01.1.9.
 
