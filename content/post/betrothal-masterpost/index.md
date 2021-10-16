@@ -320,6 +320,12 @@ Franklin, James. "Catholics Reviving Betrothal Custom." Boston Globe, December 5
 > 
 > The betrothal period would help the couple and their church determine if they are ready to make a commitment to each other and to understand that marriage is “conditioning for service to others,“ he said.
 
+"Canon Lawyer Advocates Return of Betrothal." The Catholic Transcript, December 30 1977. https://thecatholicnewsarchive.org/?a=d&d=CTR19771230-01.2.47.
+
+![](/uploads/betrothal/1977betrothal.png)
+
+> A canon lawyer here predicted that the Church will revive the custom of betrothal and that there will be fuller preparation for engaged couples. 
+
 ## 1980s
 
 Loschlavo, Linda "Engaged Encounter Preparation Tor a Lasting Marriage by Linda Ann " Catholic News Service, January 2 1984. https://thecatholicnewsarchive.org/?a=d&d=cns19840102-01.1.16.
