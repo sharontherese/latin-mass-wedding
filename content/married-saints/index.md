@@ -32,6 +32,8 @@ Married saints in the Church are far from numerous, and even fewer are venerated
 * Saints Elzear of Cabran and Delphine of Glandeves
 * Saint Bridget of Sweden
 * Saint Frances of Rome
+* Saint Antoine Leclerc de la Forest
+* Blessed Anna Maria Taigi
 
 # Prominent married Catholic men and women
 
