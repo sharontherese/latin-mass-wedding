@@ -20,6 +20,7 @@ Married saints in the Church are far from numerous, and even fewer are venerated
 * Saints Louis and Zelie Martin
 * Saints Henry II and Cunigunde of Luxembourg
 * Saints Stephen and Giselle of Hungary
+* Saints Elzear of Cabran and Delphine of Glandeves
 * Saint Thomas More
 * Saint Adelaide 
 * Saint Matilda 
@@ -28,12 +29,11 @@ Married saints in the Church are far from numerous, and even fewer are venerated
 * Saint Elizabeth of Hungary
 * Saint Elizabeth of Portugal
 * Saint Louis of France
-* Blessed Peter of Siena
-* Saints Elzear of Cabran and Delphine of Glandeves
 * Saint Bridget of Sweden
 * Saint Frances of Rome
 * Saint Antoine Leclerc de la Forest
 * Blessed Anna Maria Taigi
+* Blessed Peter of Siena
 
 # Prominent married Catholic men and women
 
