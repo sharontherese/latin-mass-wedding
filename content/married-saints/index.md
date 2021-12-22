@@ -46,19 +46,19 @@ Married saints in the Church are far from numerous, and even fewer are venerated
 
 O’Malley, V.J. Saintly Companions: A Cross-Reference of Sainted Relationships. Alba House, 1995. 
 
-Neill, T.P. They Lived the Faith: Great Lay Leaders of Modern Times. Literary Licensing, LLC, 2012. 
+Neill, T.P. They Lived the Faith: Great Lay Leaders of Modern Times, 1951. 
 
 Burton, Doris. Great Catholic Mothers of Yesterday and To-Day. London: Paternoster, 1951.
 
-Ferdinand Holböck, S.T.D. Married Saints and Blesseds: Through the Centuries. Ignatius Press, 2017. https://books.google.com/books?id=1HEuDwAAQBAJ.
+Ferdinand Holböck, S.T.D. Married Saints and Blesseds: Through the Centuries. Ignatius Press, 2017. 
 
 Ford, David C., Mary S. Ford, and Kallistos. Marriage as a Path to Holiness : Lives of Married Saints. 2013.
 
-Fink, J.F. Married Saints. Alba House, 1999. https://books.google.com/books?id=7JldPQAACAAJ.
+Fink, J.F. Married Saints. Alba House, 1999. 
 
-Delany, S.P. Married Saints. Longmans, Green, 1935. https://books.google.com/books?id=ReVOAQAAMAAJ.
+Delany, S.P. Married Saints. Longmans, Green, 1935.
 
-Bogle, J., and J. Bogle. A Heart for Europe: The Lives of Emperor Charles and Empress Zita of Austria-Hungary. Gracewing Books. Fowler Wright, 1990. https://books.google.com/books?id=L59n8YY3gy8C.
+Bogle, J., and J. Bogle. A Heart for Europe: The Lives of Emperor Charles and Empress Zita of Austria-Hungary. Gracewing Books. 1990.
 
 Brown, N.C., and D. Ahlquist. The Woman Who Was Chesterton. ACS Books. ACS Books, 2015. 
 
