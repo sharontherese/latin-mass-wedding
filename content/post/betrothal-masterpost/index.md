@@ -11,26 +11,28 @@ This post includes information about the history of the celebration of Catholic 
 
 # Rites of betrothal
 
-[Rite of Betrothal](https://www.latinmasswedding.com/rite-of-betrothal/)
+1. [Rite of Betrothal](https://www.latinmasswedding.com/rite-of-betrothal/)
 
 > Full text of the Rite of Betrothal as found in Father Philip Weller's English translation of the Roman Ritual. This is the most commonly used version of the rite. 
 
-Promised in Christ : Solemn Engagement : Crowning of a Bride : Notes on Preparation for Marriage. Loveland, Ohio: Grailville Publications, 1955.
+2. Promised in Christ: Solemn Engagement, Crowning of a Bride. Loveland, Ohio: Grailville Publications, 1955.
 
 > Although the formal engagement has not been in wide use in English-speaking countries, it is very well known in other parts of the world and it is in keeping with Christian tradition that the engagement promises of a young man and woman be exchanged publicly before the altar of God. **There is no prescribed form for such a betrothal,** and where the custom does exist in the United States, several procedures are in current use. The betrothal in this booklet is an arrangement by the Rev. Philip T. Weller, worked out some years ago on the occasion of the engagement of one of Grailville's students. This procedure has since been published in Volume I of Father Weller's translation of the Roman Ritual, and is included here with the kind permission of Bruce and Company of Milwaukee, Wisconsin, publishers of the Ritual. (emphasis added) 
 
-Fenner, Kay Toy. American Catholic Etiquette. Westminster, Md.: Newman Press, 1965. {{% staticref "files/Fenner_AmericanCatholicEtiquette.pdf" %}}PDF excerpt{{% /staticref %}}
+3. Fenner, Kay Toy. American Catholic Etiquette. Westminster, Md.: Newman Press, 1965. {{% staticref "files/Fenner_AmericanCatholicEtiquette.pdf" %}}PDF excerpt{{% /staticref %}}
 
 > The canonical, or ecclesiastical, engagement is a custom that is **part of a recent movement,** fostered both by laymen and clergy, to
 weave the beauty and symbolism of our liturgy into our practice of our Faith and to invest all the important occasions of our life with a religious or sacramental character...Following is a description of the suggested form of a canonical engagement, as prepared by the Rt. Rev. Martin Hellriegal. (emphasis added)
 
-Foley, Michael P. Lessard Alexander E. Lessard Angela Foley Alexandra. Wedding Rites: The Complete Guide to a Traditional Wedding. Grand Rapids, Mich.: William B. Eerdmans Pub., 2008.
+4. Foley, Michael P. Lessard Alexander E. Lessard Angela Foley Alexandra. Wedding Rites: The Complete Guide to a Traditional Wedding. Grand Rapids, Mich.: William B. Eerdmans Pub., 2008.
 
 > Traditionally, the first thing to happen after the couple agreed to marry would be a betrothal ceremony. Though many of us have never heard of them before, solemn betrothals were common in Europe and the Middle East long before the birth of Christianity, and they continue to be used by several communities today...It is little wonder, then, that betrothals have been making a minor comeback in the last several years. 
 > 
-> A French Solemn Betrothal Rite
-> 
 > Even though solemn betrothals were familiar to Christians in the West from the earliest times up until the 1600s, they were especially popular in France, which retained the custom all the way into the twentieth century. The following is actually a compilation of three French rites: one from the twelfth century, one from the thirteenth, and one from the nineteenth.
+
+5. Catholic Church, and The Liturgical Conference. The Book of Catholic Worship. Washington, DC: The Liturgical Conference, 1966. {{% staticref "files/BookofCatholicWorship_marriage.pdf" %}}PDF excerpt{{% /staticref %}}
+
+> _Note: This excerpt contains a blessing of an engagement, and a rare engagement [bible vigil](https://www.newliturgicalmovement.org/2019/10/bible-vigils-guest-article-by-sharon.html#.YduKpWjMJPY)._
 
 # Books 
 
