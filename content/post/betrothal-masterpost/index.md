@@ -11,9 +11,9 @@ This post includes information about the history of the celebration of Catholic 
 
 # Rites of betrothal
 
-1. [Rite of Betrothal](https://www.latinmasswedding.com/rite-of-betrothal/)
+1. [Rite of Betrothal](https://www.latinmasswedding.com/rite-of-betrothal/) in the Roman Ritual
 
-> Full text of the Rite of Betrothal as found in Father Philip Weller's English translation of the Roman Ritual. This is the most commonly used version of the rite. 
+> _Full text of the Rite of Betrothal as found in Father Philip Weller's English translation of the Roman Ritual. This is the most commonly used version of the rite._ 
 
 2. Promised in Christ: Solemn Engagement, Crowning of a Bride. Loveland, Ohio: Grailville Publications, 1955.
 
