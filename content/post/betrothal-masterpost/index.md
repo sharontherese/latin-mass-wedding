@@ -15,7 +15,7 @@ This post includes information about the history of the celebration of Catholic 
 
 > _Full text of the Rite of Betrothal as found in Father Philip Weller's English translation of the Roman Ritual. This is the most commonly used version of the rite._ 
 
-2. Promised in Christ: Solemn Engagement, Crowning of a Bride. Loveland, Ohio: Grailville Publications, 1955.
+2. Promised in Christ: Solemn Engagement, Crowning of a Bride. Loveland, Ohio: Grailville Publications, 1955. https://archive.org/details/grailville-promised-in-christ
 
 > Although the formal engagement has not been in wide use in English-speaking countries, it is very well known in other parts of the world and it is in keeping with Christian tradition that the engagement promises of a young man and woman be exchanged publicly before the altar of God. **There is no prescribed form for such a betrothal,** and where the custom does exist in the United States, several procedures are in current use. The betrothal in this booklet is an arrangement by the Rev. Philip T. Weller, worked out some years ago on the occasion of the engagement of one of Grailville's students. This procedure has since been published in Volume I of Father Weller's translation of the Roman Ritual, and is included here with the kind permission of Bruce and Company of Milwaukee, Wisconsin, publishers of the Ritual. (emphasis added) 
 
