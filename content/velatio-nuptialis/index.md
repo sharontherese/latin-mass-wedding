@@ -26,14 +26,8 @@ Below is a collection of photos and histories of this beautiful custom.
 # Photos
 
 ![](/uploads/velatio1.JPG)
-_Photo: Allisone Girone, 2022_
-
 ![](/uploads/velatio2.JPG)
-_Photo: Allisone Girone, 2022_
-
 ![](/uploads/velatio3.JPG)
-_Photo: Allisone Girone, 2022_
-
 ![](/uploads/velatio4.JPG)
 _Photo: Allisone Girone, 2022_
 
