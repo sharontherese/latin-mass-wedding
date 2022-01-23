@@ -12,13 +12,13 @@ From our wedding: bridal veil; bridal crown; hair pins shaped like rue leaves, a
 
 # About
 
-Local wedding customs are difficult to describe. For one, by their nature they’re usually passed on orally, not in writing. For another, an unfortunate consequence of the Council of Trent was a widespread loss of local customs in favor of uniformity with Rome. Combined with a dramatic rise in homogenous global customs, local/traditional wedding customs can be hard to come by.
+Local wedding customs are difficult to describe. For one, by their nature they’re usually passed on orally, not in writing. For another, an unfortunate consequence of the Council of Trent was a widespread loss of local customs in favor of uniformity with Rome. Combined with a dramatic rise in homogenous global customs, local wedding customs can be hard to come by.
 
-What I have found on this topic is scattershot, varying in verifiability, and largely personal (i.e., I am half Lithuanian-American, and half Irish-American, so the customs I know the best are from Lithuania and Ireland).
+What I have found on this topic is scattershot, and varying in verifiability.
 
 I have arranged the customs thematically, and will add examples of each custom as I find them in newspapers, literature, and stories.
 
-If you are interested in researching more about local customs, try historical archives and online newspaper collections.
+If you are interested in researching more about local customs, try historical archives and online newspaper collections - or ask your family.
 
 If you know of a Catholic wedding custom, [let me know](https://www.latinmasswedding.com/#contact)!
 
