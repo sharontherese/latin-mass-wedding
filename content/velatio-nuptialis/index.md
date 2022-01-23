@@ -5,7 +5,15 @@ toggle = false
 
 +++
 
-_Photo: Allison Girone_
+_Photo: Allison Girone, 2022_
+
+
+> "Ille jugans capita amborum sub pace jugali, velat eos dextra, quos prece sanctificat.”
+> 
+> "He, joining the heads of them both under a nuptial peace, veils them with his right hand, sanctifying them with prayer." 
+> 
+> Paulinus of Nola (5th century)
+
 
 # About 
 
