@@ -67,18 +67,7 @@ God, who hast ordained the holy state of matrimony, wherein I am engaged, grant 
 **The Key of Heaven: Or, A Manual of Prayer**. New York, P. J. Kenedy, 1870, pp. 136-7. http://archive.org/details/keyofheavenorman00unse.
 <br>
 <br>
-# Prayer for the bedchamber (benedictio thalami)
 
-V. Adjutorium nostrum in nomine Domini. 
-R. Qui fecit cselum et terram. 
-V. Dominus vobiscum. 
-R. Et cum spiritu tuo. 
-
-Oremus. Benedic, Domine thalamum nunc; ut omnes habitantes in eo, in tua pace consistant, et in tua voluntate permaneant, et senescant, et multiplicentur in longitudinem dierum, et ad regna caelorum perveniant. Per Christum Dominum nostrum. Amen. 
-
-Catholic Church. **_Rituale romanum_** (Baltimore, 1873), http://archive.org/details/ritualeromanum00cath_0.
-<br>
-<br>
 # Missals and Prayerbooks
 
 Lasance, Francis Xavier. **The Young Man’s Guide: Counsels, Reflections, and Prayers for Catholic Young Men**. New York: Benziger Brothers, 1910. http://archive.org/details/TheYoungMansGuide.
