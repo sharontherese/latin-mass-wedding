@@ -5,6 +5,7 @@ toggle = false
 aliases = [
     "/resources/local-customs",
 ]
+draft = true
 
 +++
 ![](/uploads/08740007-min.JPG)  
