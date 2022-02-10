@@ -36,6 +36,9 @@ _Photo: Allisone Girone, 2022_
 ![](/uploads/35989.JPG)
 "Cover." Linen, cutwork. Gift of Mrs. Laurent Oppenheim, 1917. Metropolitan Museum of Art, 17th century. https://www.metmuseum.org/art/collection/search/219922. Read more: "Recent Accessions." The Metropolitan Museum of Art Bulletin 12, no. 7 (1917): 157-61. https://doi.org/10.2307/3253810. http://www.jstor.org/stable/3253810.
 
+![](/uploads/auxerre_header.JPG)
+Mariage religieux (France, Auxerre, Trésor de la Cathédrale, Ms. 8 f. 121) https://bvmm.irht.cnrs.fr/consult/consult.php?VUE_ID=1416016
+
 # Sources
 
 de Villiers, Henri, "The Velatio Nuptialis: An Ancient (and Forgotten) Part of the Latin Marriage Rite," New Liturgical Movement, 2019, http://www.newliturgicalmovement.org/2019/02/the-velatio-nuptialis-ancient-and.html.
