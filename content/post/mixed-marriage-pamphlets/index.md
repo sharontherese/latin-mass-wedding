@@ -11,8 +11,6 @@ view: 2
 header:
   caption: "The Catholic Standard and Times, Volume 62, Number 39, 21 June 1957"
   image: "dontdoit.jpg"
-  
- draft: true
 
 ---
 
