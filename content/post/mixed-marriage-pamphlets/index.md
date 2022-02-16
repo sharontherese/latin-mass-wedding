@@ -74,7 +74,7 @@ Fathers Rumble and Carty. Six Pre-Marriage Instructions for Catholics and Non-Ca
 
 Heenan, John C. They Made Me Sign. London; New York, 1961.
 
-Photo and listing: https://www.abebooks.com/servlet/BookDetailsPL?bi=25730211
+* Photo and listing: https://www.abebooks.com/servlet/BookDetailsPL?bi=25730211
 
 # Tell Her You're a Catholic (1949, with full text)
 
