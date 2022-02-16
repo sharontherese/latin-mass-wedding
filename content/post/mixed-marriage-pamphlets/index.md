@@ -36,79 +36,102 @@ Below is a collection of pamphlets of wide circulation for Catholics on the topi
 
 Caveats: Some publication information might be incorrect. Pamphlets can be notoriously difficult to catalog. I occasionally link to active listings of these pamphlets, because the sellers have allowed me to reuse their photos. 
 
-
-# Banahan, John S. Instructions for Mixed Marriages. Milwaukee, 1959.
+# Instructions for Mixed Marriages (1959)
 
 ![](/uploads/mixedmarriage/instructionsformixed.JPG)
 
-Photo and listing: https://www.abebooks.com/servlet/BookDetailsPL?bi=10102843830
+Banahan, John S. Instructions for Mixed Marriages. Milwaukee, 1959.
 
-# Bishops' Committee on Mixed Marriages, and Most Reverend Karl J. Alter. A Factual Study of Mixed Marriages. Washington, DC, 1943.
+* Photo and listing: https://www.abebooks.com/servlet/BookDetailsPL?bi=10102843830
+
+# A Factual Study of Mixed Marriages With Certain Corrolaries (1943)
 
 ![](/uploads/mixedmarriage/afactualstudy.png)
 
-# Catholic husband, and Protestant wife. I Love You But. Union City, N.J., 1952.
+Bishops' Committee on Mixed Marriages, and Most Reverend Karl J. Alter. A Factual Study of Mixed Marriages With Certain Corrolaries. Washington, DC, 1943.
+
+# I Love You But (1952)
 
 ![](/uploads/mixedmarriage/iloveyoubut.jpg)
 
 ![](/uploads/mixedmarriage/iloveyoubut2.jpg)
 
-Photos and listing: https://www.ebay.com/itm/165267468706
+Catholic husband, and Protestant wife. I Love You But. Union City, N.J., 1952.
 
-# Fathers Rumble and Carty. Six Pre-Marriage Instructions for Catholics and Non-Catholics. Saint Paul, MN, 1944. (with full text)
+* Photos and listing: https://www.ebay.com/itm/165267468706
+
+# Six Pre-Marriage Instructions for Catholics and Non-Catholics (1944, with full text)
 
 ![](/uploads/mixedmarriage/sixpremarriage.png)
 
-Full text: {{% staticref "files/sixpremarriagein00unse.pdf" %}}PDF{{% /staticref %}}
+Fathers Rumble and Carty. Six Pre-Marriage Instructions for Catholics and Non-Catholics. Saint Paul, MN, 1944. (with full text)
 
-# Heenan, John C. They Made Me Sign. London; New York, 1961.
+* Full text: {{% staticref "files/sixpremarriagein00unse.pdf" %}}PDF{{% /staticref %}}
+
+# They Made Me Sign (1961)
 
 ![](/uploads/mixedmarriage/theymademesign.jpg)
 
+Heenan, John C. They Made Me Sign. London; New York, 1961.
+
 Photo and listing: https://www.abebooks.com/servlet/BookDetailsPL?bi=25730211
 
-# Jewell, Walter. Tell Her You're a Catholic. 1949. (with full text)
+# Tell Her You're a Catholic (1949, with full text)
 
 ![](/uploads/mixedmarriage/tellher.png)
 
-Full text: {{% staticref "files/tellheryoureacatholic2.pdf" %}}PDF{{% /staticref %}}
+Jewell, Walter. Tell Her You're a Catholic. 1949. (with full text)
 
-Full text: http://archive.org/details/TellHerYoureACatholic
+* Full text: {{% staticref "files/tellheryoureacatholic2.pdf" %}}PDF{{% /staticref %}}
+* Full text: http://archive.org/details/TellHerYoureACatholic
 
-# Lord, Daniel A., and Australian Catholic Truth Society. Marry Your Own : A Discussion of Mixed Marriage. Melbourne, 1953.
+# Marry Your Own (1953)
 
 ![](/uploads/mixedmarriage/marryyourown.jpeg)
 
-Photo and listing: www.booksofparadise.net
+Lord, Daniel A., and Australian Catholic Truth Society. Marry Your Own : A Discussion of Mixed Marriage. Melbourne, 1953.
 
-# Lover, James Francis. Mixed Marriages Are Risky! 1954.
+* Photo and listing: www.booksofparadise.net
+
+# Mixed Marriages Are Risky! (1954)
 
 ![](/uploads/mixedmarriage/mixedmarriagesarerisky.png)
 
-# Miller, D. F. Can Mixed Marriages Be Happy? 1956. (with full text)
+Lover, James Francis. Mixed Marriages Are Risky! 1954.
+
+# Can Mixed Marriages Be Happy? (1956, with full text)
 
 ![](/uploads/mixedmarriage/canmixedmarriages.png)
 
-Full text: {{% staticref "files/CanMixedMarriages.pdf" %}}PDF{{% /staticref %}}
+Miller, D. F. Can Mixed Marriages Be Happy? 1956. 
 
-Full text: https://archive.org/details/miller-can-mixed-marriages-be-happy
+* Full text: {{% staticref "files/CanMixedMarriages.pdf" %}}PDF{{% /staticref %}}
+* Full text: https://archive.org/details/miller-can-mixed-marriages-be-happy
 
-# O'Brien, John A. Why Not a "Mixed" Marriage? : A Plain Answer to a Common Question. 1937.
+# Why Not a "Mixed" Marriage? (1937)
 
 ![](/uploads/mixedmarriage/whynotamixed.jpg)
 
-Photo and listing: https://www.abebooks.com/servlet/BookDetailsPL?bi=15902123590
+O'Brien, John A. Why Not a "Mixed" Marriage? : A Plain Answer to a Common Question. 1937.
 
-# O'Brien, John A. The Truth About Mixed Marriages : What to Do About Them. Huntington, Ind., 1961.
+* Photo and listing: https://www.abebooks.com/servlet/BookDetailsPL?bi=15902123590
+
+# The Truth About Mixed Marriages (1961)
 
 ![](/uploads/mixedmarriage/thetruthabout.jpg)
 
-# Schlachter, Reverend Godfrey. The Forbidden Fruit or Mixed Marriages. Collegeville, IL, 1916.
+O'Brien, John A. The Truth About Mixed Marriages : What to Do About Them. Huntington, Ind., 1961.
+
+# The Forbidden Fruit or Mixed Marriages (1916)
 
 ![](/uploads/mixedmarriage/forbiddenfruit.jpg)
 
-Photo and listing: https://www.ebay.com/itm/271363771646
+Schlachter, Reverend Godfrey. The Forbidden Fruit or Mixed Marriages. Collegeville, IL, 1916.
 
-# Ward, C. M. , and Assemblies of God Revivaltime. The Tragedy of Mixed Marriage: What Would Happen to Your Son or Daughter Were He or She to Marry a Roman Catholic? 1955.
+* Photo and listing: https://www.ebay.com/itm/271363771646
+
+# The Tragedy of Mixed Marriage (1955)
 
 ![](/uploads/mixedmarriage/thetragedyof.jpg)
+
+Ward, C. M. , and Assemblies of God Revivaltime. The Tragedy of Mixed Marriage: What Would Happen to Your Son or Daughter Were He or She to Marry a Roman Catholic? 1955.
