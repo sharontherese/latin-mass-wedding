@@ -1,6 +1,6 @@
 ---
 title: Traditional Catholic pamphlets on mixed marriages
-
+date: 2022-02-15
 # View.
 #   1 = List
 #   2 = Compact
