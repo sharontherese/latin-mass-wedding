@@ -32,17 +32,83 @@ The Code of Canon Law from 1917 said:
 > 
 > 906. When the Church has given the dispensation from the impediment of mixed religion, the parties are not allowed, either before or after the Catholic wedding, to approach either in person or through proxies a non-Catholic minister as such, to give or renew the consent in the Protestant Rite. If the pastor knows that the parties will certainly violate or have already violated this law, he shall not assist at their marriage, except for very serious reasons, and only after scandal has been removed, and the Ordinary has been consulted.
 
-Below is a collection of pamphlets of wide circulation for Catholics on the topic of mixed marriage. Because of the sheer number of books and pamphlets on marriage, I have limited myself strictly to works only on mixed marriage. 
+Below is a collection of pamphlets of wide circulation for Catholics on the topic of mixed marriage. (One pamphlet is from the perspective of the non-Catholic side.)
 
-# Read more
-
-Pope Paul: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19660318_istr-matrimoni-misti_en.html
-
-More from CUA: https://www.lib.cua.edu/rarebook/taxonomy/term/7362?page=1
-
-# 1907 
+Caveats: Some publication information might be incorrect. Pamphlets can be notoriously difficult to catalog. I occasionally link to active listings of these pamphlets, because the sellers have allowed me to reuse their photos. 
 
 
+# Banahan, John S. Instructions for Mixed Marriages. Milwaukee, 1959.
 
-![](/uploads/gloriacredo/1907.png)
-* {{% staticref "files/flowerarrangement_mcclinton.pdf" %}}Here is a PDF with excerpts from McClinton's book{{% /staticref %}}
+![](/uploads/mixedmarriage/instructionsformixed.JPG)
+
+Photo and listing: https://www.abebooks.com/servlet/BookDetailsPL?bi=10102843830
+
+# Bishops' Committee on Mixed Marriages, and Most Reverend Karl J. Alter. A Factual Study of Mixed Marriages. Washington, DC, 1943.
+
+![](/uploads/mixedmarriage/afactualstudy.png)
+
+# Catholic husband, and Protestant wife. I Love You But. Union City, N.J., 1952.
+
+![](/uploads/mixedmarriage/iloveyoubut.jpg)
+
+![](/uploads/mixedmarriage/iloveyoubut2.jpg)
+
+Photos and listing: https://www.ebay.com/itm/165267468706
+
+# Fathers Rumble and Carty. Six Pre-Marriage Instructions for Catholics and Non-Catholics. Saint Paul, MN, 1944. (with full text)
+
+![](/uploads/mixedmarriage/sixpremarriage.png)
+
+Full text: {{% staticref "files/sixpremarriagein00unse.pdf" %}}PDF{{% /staticref %}}
+
+# Heenan, John C. They Made Me Sign. London; New York, 1961.
+
+![](/uploads/mixedmarriage/theymademesign.jpg)
+
+Photo and listing: https://www.abebooks.com/servlet/BookDetailsPL?bi=25730211
+
+# Jewell, Walter. Tell Her You're a Catholic. 1949. (with full text)
+
+![](/uploads/mixedmarriage/tellher.png)
+
+Full text: {{% staticref "files/tellheryoureacatholic2.pdf" %}}PDF{{% /staticref %}}
+
+Full text: http://archive.org/details/TellHerYoureACatholic
+
+# Lord, Daniel A., and Australian Catholic Truth Society. Marry Your Own : A Discussion of Mixed Marriage. Melbourne, 1953.
+
+![](/uploads/mixedmarriage/marryyourown.jpeg)
+
+Photo and listing: www.booksofparadise.net
+
+# Lover, James Francis. Mixed Marriages Are Risky! 1954.
+
+![](/uploads/mixedmarriage/mixedmarriagesarerisky.png)
+
+# Miller, D. F. Can Mixed Marriages Be Happy? 1956. (with full text)
+
+![](/uploads/mixedmarriage/canmixedmarriages.png)
+
+Full text: {{% staticref "files/CanMixedMarriages.pdf" %}}PDF{{% /staticref %}}
+
+Full text: https://archive.org/details/miller-can-mixed-marriages-be-happy
+
+# O'Brien, John A. Why Not a "Mixed" Marriage? : A Plain Answer to a Common Question. 1937.
+
+![](/uploads/mixedmarriage/whynotamixed.jpg)
+
+Photo and listing: https://www.abebooks.com/servlet/BookDetailsPL?bi=15902123590
+
+# O'Brien, John A. The Truth About Mixed Marriages : What to Do About Them. Huntington, Ind., 1961.
+
+![](/uploads/mixedmarriage/thetruthabout.jpg)
+
+# Schlachter, Reverend Godfrey. The Forbidden Fruit or Mixed Marriages. Collegeville, IL, 1916.
+
+![](/uploads/mixedmarriage/forbiddenfruit.jpg)
+
+Photo and listing: https://www.ebay.com/itm/271363771646
+
+# Ward, C. M. , and Assemblies of God Revivaltime. The Tragedy of Mixed Marriage: What Would Happen to Your Son or Daughter Were He or She to Marry a Roman Catholic? 1955.
+
+![](/uploads/mixedmarriage/thetragedyof.jpg)
