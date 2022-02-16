@@ -20,9 +20,11 @@ The Code of Canon Law from 1917 said:
 
 > 904. The Church does not dispense from the impediment of mixed religion unless:
 > 
-> 1. there are good and serious reasons;
-> 2. the non-Catholic party promises to remove all danger of perversion of the Catholic party, and both parties promise that all their children shall be baptized and brought up as Catholics;
-> 3. there is moral certainty that the promises will be kept.
+> 1) there are good and serious reasons;
+> 
+> 2) the non-Catholic party promises to remove all danger of perversion of the Catholic party, and both parties promise that all their children shall be baptized and brought up as Catholics;
+> 
+> 3) there is moral certainty that the promises will be kept.
 > 
 > The promises are, as a rule, to be made in writing. (Canon 1061.)
 > 
