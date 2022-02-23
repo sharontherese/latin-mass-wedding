@@ -90,7 +90,7 @@ In illo tempore: Accesserunt ad Jesum pharisaei, tentantes eum et dicentes: Si l
 
 At that time: The Pharisees came to Jesus, tempting Him and saying; It is lawful for a man to put away his wife for every cause? Who answering said to them, Have ye not read, that He who made man from the beginning, made them male and female? and He said, For this cause shall a man leave his father and mother, and shall cleave to his wife, and they two shall be in one flesh. Therefore, now they are not two but one flesh. What, therefore, God hath joined together, let no man put asunder.
 
-_(Rubrical note: There should be no Gloria or Credo for the TLM wedding. The homily also happens at the very beginning, during the Rite of Marriage.)_
+_(Rubrical note: There should be no Credo for the TLM wedding. The homily usually happens at the very beginning, during the Rite of Marriage.)_
 
 ## Offertory
 
