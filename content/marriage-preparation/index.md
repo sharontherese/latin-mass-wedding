@@ -39,23 +39,23 @@ Von Hildebrand, Alice. _By Love Refined: Letters to a Young Bride_. Sophia Insti
 
 # Catechesis/General
 
-“**Holy Matrimony**.” Fish Eaters (blog). Accessed June 3, 2019. https://www.fisheaters.com/holymatrimony.html.
+“Holy Matrimony.” Fish Eaters (blog). https://www.fisheaters.com/holymatrimony.html.
 
-"**On the Sacrament of Matrimony**." _Catechism of the Council of Trent_, pp. 225-236. https://archive.org/details/thecatechismofth00donouoft/page/n241.
+"On the Sacrament of Matrimony." _Catechism of the Council of Trent_, pp. 225-236. https://archive.org/details/thecatechismofth00donouoft/page/n241.
 
-“**The Sacrament of Matrimony**.” _Catechism of the Catholic Church_, no. 1601-1666. Accessed February 11, 2020. https://www.vatican.va/archive/ccc_css/archive/catechism/p2s2c3a7.htm.
+“The Sacrament of Matrimony.” _Catechism of the Catholic Church_, no. 1601-1666. https://www.vatican.va/archive/ccc_css/archive/catechism/p2s2c3a7.htm.
 
-Holy Mass And More. “**The Seven Sacraments and Their Liturgies, Part 7: Marriage**,” August 23, 2018. https://www.holymassandmore.org/2018/08/the-seven-sacraments-and-their_23.html.
+Holy Mass And More. “The Seven Sacraments and Their Liturgies, Part 7: Marriage,” August 23, 2018. https://www.holymassandmore.org/2018/08/the-seven-sacraments-and-their_23.html.
 
-Relyea, Father Isaac Mary. **Honorable Courtship: The Way to a Happy Marriage**. Fatima Youth Conference: Cleveland, OH: The Fatima Center, 2019. https://www.youtube.com/watch?v=3LcQSZ621SQ.
+Relyea, Father Isaac Mary. Honorable Courtship: The Way to a Happy Marriage. Fatima Youth Conference: Cleveland, OH: The Fatima Center, 2019. https://www.youtube.com/watch?v=3LcQSZ621SQ.
 
-Solaro della Margherita, Giulia, and Charles Constantine Pise. **_The Catholic Bride; or Moral Letters Addressed to Julia, Daughter of Count Solaro Della Margarita, on the Occasion of Her Marriage with Count E. Demorri Di Castelmagno_**. Baltimore, 1868. http://archive.org/details/TheCatholicBride.
+Solaro della Margherita, Giulia, and Charles Constantine Pise. _The Catholic Bride; or Moral Letters Addressed to Julia, Daughter of Count Solaro Della Margarita, on the Occasion of Her Marriage with Count E. Demorri Di Castelmagno_. Baltimore, 1868. http://archive.org/details/TheCatholicBride.
 
-Vuarin, M. **_Familiar Instructions on the Holiness and Dignity of the Sacrament of Matrimony: Addressed to Parents and Christian Youth_**. Philadelphia : H. & C. McGrath, 1851. http://archive.org/details/FamiliarInstructionsOnTheHoliness.
+Vuarin, M. _Familiar Instructions on the Holiness and Dignity of the Sacrament of Matrimony: Addressed to Parents and Christian Youth_. Philadelphia : H. & C. McGrath, 1851. http://archive.org/details/FamiliarInstructionsOnTheHoliness.
 
-Walter Jewell. **_Tell Her You’re a Catholic_**, 1949. http://archive.org/details/TellHerYoureACatholic.
+Walter Jewell. _Tell Her You’re a Catholic_, 1949. http://archive.org/details/TellHerYoureACatholic.
 
-Bugg, Lelia Hardin. **_The Correct Thing For Catholics_**. New York, Cincinnati Benziger Bros., 1892. http://archive.org/details/TheCorrectThingForCatholics.
+Bugg, Lelia Hardin. _The Correct Thing For Catholics_. New York, Cincinnati Benziger Bros., 1892. http://archive.org/details/TheCorrectThingForCatholics.
 
 > Page 41 is missing, with the crucial heading, "It is not the correct thing to...". Page 45 is also missing. There is good practical advice in here, but with a heavy caveat that the author had some strong materialistic opinions, like the reception and the engagement ring should be as expensive as possible.
 
