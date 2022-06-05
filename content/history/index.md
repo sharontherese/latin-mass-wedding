@@ -46,16 +46,11 @@ The Latin for the 1962 and the 1964 are the same, so a Latin comparison is unnec
 
 ## 1991 
 
-1991 saw the publication of the second typical edition - that is, a second Latin edition. An English translation was delayed until the 2010s. 
-
-(PDFs coming soon!) 
+1991 saw the publication of the second typical edition - that is, a second Latin edition. An English translation was delayed until the 2010s.  
 
 ## 2016 
 
 In 2016, the ICEL's English translation of the second typical edition (of 1991) was finally approved and mandated. 
-
-(PDFs coming soon!) 
-
 
 # Brief timeline
 
@@ -83,12 +78,12 @@ In 2016, the ICEL's English translation of the second typical edition (of 1991) 
 
 # Sources
 
-[^1]: Catholic Church. “**The Church in God’s Plan**.” _Catechism of the Catholic Church_, 1993, #774, [http://www.vatican.va/archive/ccc_css/archive/catechism/p123a9p1.htm](http://www.vatican.va/archive/ccc_css/archive/catechism/p123a9p1.htm "http://www.vatican.va/archive/ccc_css/archive/catechism/p123a9p1.htm").
+[^1]: Catholic Church. “The Church in God’s Plan.” _Catechism of the Catholic Church_, 1993, #774.
 
-[^2]: Just, Felix. “**The Seven Sacraments.**” _Electronic New Testament Educational Resources_, [https://catholic-resources.org/ChurchDocs/Sacraments.htm](https://catholic-resources.org/ChurchDocs/Sacraments.htm "https://catholic-resources.org/ChurchDocs/Sacraments.htm"). Accessed 3 June 2019.
+[^2]: Just, Felix. “The Seven Sacraments.” _Electronic New Testament Educational Resources_, https://catholic-resources.org/ChurchDocs/Sacraments.htm. Accessed 3 June 2019.
 
-[^3]: Searle, M., and K. W. Stevenson. **_Documents of the Marriage Liturgy_.** Liturgical Press, 1992, [https://books.google.com/books?id=OhZ_QgAACAAJ](https://books.google.com/books?id=OhZ_QgAACAAJ "https://books.google.com/books?id=OhZ_QgAACAAJ").
+[^3]: Searle, M., and K. W. Stevenson. _Documents of the Marriage Liturgy_. Liturgical Press, 1992,[https://books.google.com/books?id=OhZ_QgAACAAJ.
 
-[^4]: Daniel-Rops, Henri. **_The Catholic Reformation._** J.M. Dent, 1968, [http://www.worldcat.org/oclc/271254888](http://www.worldcat.org/oclc/271254888.  "http://www.worldcat.org/oclc/271254888").
+[^4]: Daniel-Rops, Henri. _The Catholic Reformation._ J.M. Dent, 1968, http://www.worldcat.org/oclc/271254888.
 
-[^5]: Searle, M., and K. W. Stevenson. **_Documents of the Marriage Liturgy_.** Liturgical Press, 1992, [https://books.google.com/books?id=OhZ_QgAACAAJ](https://books.google.com/books?id=OhZ_QgAACAAJ "https://books.google.com/books?id=OhZ_QgAACAAJ").
+[^5]: Searle, M., and K. W. Stevenson. _Documents of the Marriage Liturgy_. Liturgical Press, 1992, https://books.google.com/books?id=OhZ_QgAACAAJ.
