@@ -86,5 +86,3 @@ Some popular traditional customs include:
 * the Arras
 * Velatio Nuptialis (this is cheating; it is not popular. But it should be.) 
 * Crowning (not common in the Roman Rite, but common in many Eastern Rites) 
-
-Read more: https://www.latinmasswedding.com/local-customs/
