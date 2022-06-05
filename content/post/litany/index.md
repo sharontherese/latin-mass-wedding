@@ -6,7 +6,7 @@ header:
   image: headerlitany.png
 
 ---
-Courtesy of Rachel-Claire Reyes on Twitter, below is a Litany for Conception.
+Courtesy of Rachel-Claire Reyes [on Twitter](https://web.archive.org/web/20200722190025/https://twitter.com/misstrinity3n1/status/1285716584011571200), below is a Litany for Conception.
 
 To view this as a PDF, {{% staticref "files/LitanyforConception.pdf" %}}click here{{% /staticref %}}.
 
