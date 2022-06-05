@@ -49,7 +49,7 @@ A reader was kind enough to share some traditional Polish wedding customs:
 > 
 > When it comes to other things, some historical accounts from 19th century mention that velatio nuptialis was used. But it was written like it had been used in Middle Ages. And I’ve also found in Jungmann that there were processions with gifts done by bride and groom in Silesia (they brought wine and bread).
 
-## Customs 
+# Other Customs 
 
 The Church has always been quite accommodating of local customs in weddings, as long as they do not interfere with the liturgical ceremonies. If you don’t know of any wedding customs, consider asking your family or researching your place of origin. 
 
@@ -60,5 +60,3 @@ Some popular traditional customs include:
 * the Arras
 * Velatio Nuptialis (this is cheating; it is not popular. But it should be.) 
 * Crowning (not common in the Roman Rite, but common in many Eastern Rites) 
-
-Read more: https://www.latinmasswedding.com/local-customs/
