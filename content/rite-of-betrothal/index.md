@@ -17,7 +17,7 @@ There is no official, standardized Rite of Betrothal in the Roman Catholic Churc
 
 This simply means that throughout history, there have been many different rites of betrothal, a diversity encouraged or tolerated by Rome. 
 
-The rite of betrothal enjoying a bit of a renaissance today is typically the rite found in Father Philip Weller's translation of the _Roman Ritual_.[^2] You can read about the history of this interesting rite [here](https://onepeterfive.com/how-traditional-are-betrothals/)[^3]. I also have a masterpost of resources on betrothals [here.](post/betrothal-masterpost/). You can purchase the Weller rite of betrothal at Angelus Press.[^4]
+The rite of betrothal enjoying a bit of a renaissance today is typically the rite found in Father Philip Weller's translation of the _Roman Ritual_.[^2] You can read about the history of this interesting rite [here](https://onepeterfive.com/how-traditional-are-betrothals/)[^3]. I also have a masterpost of resources on betrothals [here.](post/betrothal-masterpost/) You can purchase the Weller rite of betrothal at Angelus Press.[^4]
 
 Another version of a rite of betrothal can be found at Laudate Dominum.[^5]
 
@@ -34,59 +34,64 @@ Today there is no prescribed ritual for a formal engagement. But it is fitting t
 1. The priest vests in surplice and white stole, or if Mass is to follow, in the Mass vestments. He is assisted by two servers, and at hand are holy water and an altar missal. He awaits the couple at the communion table; and as they come forward the following psalm may be sung on the eighth psalm-tone (see music supplement).
 
 
-## Psalm 126 (RSV-CE 127)
+Psalm 126 (RSV-CE 127)
 
-> Priest: Unless the house be of the Lord’s building, in vain do the builders labor.
->
-> All: Unless the Lord be the guard of the city, in vain does the guard keep sentry.
->
-> P: It is futile that you rise before daybreak, to be astir in the midst of darkness,
->
-> All: You that eat the bread of hard labor, for He deals bountifully to His beloved while they are sleeping.
->
-> P: Behold, offspring come from God’s giving, a fruitful womb is the reward of His blessing.
->
-> All: Like arrows in the hand of the warrior are children begotten of a youthful father.
->
-> P: Happy the man who has filled with them his quiver; they shall uphold him in contending at the gate with his rival.
->
-> All: Glory be to the Father, and to the Son, and to the Holy Spirit,
->
-> P: As it was in the beginning, is now, and ever shall be, world without end, Amen.
+Priest: Unless the house be of the Lord’s building, in vain do the builders labor.
+
+All: Unless the Lord be the guard of the city, in vain does the guard keep sentry.
+
+P: It is futile that you rise before daybreak, to be astir in the midst of darkness,
+
+All: You that eat the bread of hard labor, for He deals bountifully to His beloved while they are sleeping.
+
+P: Behold, offspring come from God’s giving, a fruitful womb is the reward of His blessing.
+
+All: Like arrows in the hand of the warrior are children begotten of a youthful father.
+
+P: Happy the man who has filled with them his quiver; they shall uphold him in contending at the gate with his rival.
+
+All: Glory be to the Father, and to the Son, and to the Holy Spirit,
+
+P: As it was in the beginning, is now, and ever shall be, world without end, Amen.
 
 2. Now the priest addresses them, either in his own words or in the short form that follows:
 
-> Beloved of Christ: It is in God's designs that you are called to the holy vocation of matrimony. For this reason you present yourselves today before Christ and the Church, before His sacred minister and the people of God, to ratify in a formal manner your engagement. You are here to ask the blessing of God and of the Church on your proposal, and to ask the good prayers of the faithful here present. You realize that what has begun at the inspiration of your heavenly Father requires equally His grace to be brought to a happy conclusion.
-> 
-> We trust that you have given serious and prayerful deliberation to your promise that you will one day be married; also that you have consulted with your parents and elders. In the time that intervenes until your wedding day, may you prepare for the sacrament of matrimony by a virtuous courtship. Then, when the happy day arrives on which you will give yourselves irrevocably to each other, you will have laid a sound religious foundation for the many years you will spend together, years that will be filled with joy and prosperity, and years that will finally give way to an eternity of joy and blessedness. May the union you purpose to consummate one day in Christian marriage be truly a sacramental image of the union of Christ with His beloved bride, the Church.
+> Beloved of Christ: It is in God's designs that you are called to the holy vocation of matrimony. For this reason you present yourselves today before Christ and the Church, before His sacred minister and the people of God, to ratify in a formal manner your engagement. You are here to ask the blessing of God and of the Church on your proposal, and to ask the good prayers of the faithful here present. You realize that what has begun at the inspiration of your heavenly Father requires equally His grace to be brought to a happy conclusion. We trust that you have given serious and prayerful deliberation to your promise that you will one day be married; also that you have consulted with your parents and elders. In the time that intervenes until your wedding day, may you prepare for the sacrament of matrimony by a virtuous courtship. Then, when the happy day arrives on which you will give yourselves irrevocably to each other, you will have laid a sound religious foundation for the many years you will spend together, years that will be filled with joy and prosperity, and years that will finally give way to an eternity of joy and blessedness. May the union you purpose to consummate one day in Christian marriage be truly a sacramental image of the union of Christ with His beloved bride, the Church.
 
 3. With their right hands joined the couple repeat after the priest what follows:
 
-The man first: In the name of our Lord, I, N.N., promise that I will one day take you, N.N., for my wife, according to the ordinances of God and holy Church. I will love you as I love myself. I will keep faith with you and be loyal to you, and so aid you and comfort you in all your necessities. These things and all that a man ought to do for his espoused, I promise to do for you, and to keep the promise by the faith that is in me.
+The man first: 
 
-Then the woman: In the name of our Lord, I, N.N., do declare that, in the form and manner in which you have promised yourself to me, I will one day bind and oblige myself to you, and will take you, N.N., for my husband. And all that you have pledged to me, I promise to do for you, and to keep the promise by the faith that is in me.
+> In the name of our Lord, I, N.N., promise that I will one day take you, N.N., for my wife, according to the ordinances of God and holy Church. I will love you as I love myself. I will keep faith with you and be loyal to you, and so aid you and comfort you in all your necessities. These things and all that a man ought to do for his espoused, I promise to do for you, and to keep the promise by the faith that is in me.
+
+Then the woman: 
+
+> In the name of our Lord, I, N.N., do declare that, in the form and manner in which you have promised yourself to me, I will one day bind and oblige myself to you, and will take you, N.N., for my husband. And all that you have pledged to me, I promise to do for you, and to keep the promise by the faith that is in me.
 
 4. Then the priest takes the two ends of his stole and in the form of a cross places them over the clasped hands of the couple. Holding the stole in place with his left hand, he says:
 
-I bear witness to your solemn proposal and I declare you engaged; in the name of the Father, and of the Son, + and of the Holy Spirit. As he pronounces the last words he sprinkles them with holy water in the form of a cross.
+> I bear witness to your solemn proposal and I declare you engaged; in the name of the Father, and of the Son, + and of the Holy Spirit. As he pronounces the last words he sprinkles them with holy water in the form of a cross.
 
-All: Amen.
+> All: Amen.
 
 5. Then he blesses the engagement ring:
 
-P: Our help is in the name of the Lord. All: Who made heaven and earth. P: The Lord be with you. 
-
-All: May He also be with you.
-
-Let us pray. Almighty God, Creator and preserver of the human race and the giver of everlasting salvation, may it please you to make holy this ring, which we bless + in your name; through Christ our Lord. 
-
-All: Amen.
+> P: Our help is in the name of the Lord. 
+> 
+> All: Who made heaven and earth. 
+>
+> P: The Lord be with you. 
+>
+> All: May He also be with you.
+> 
+> P: Let us pray. Almighty God, Creator and preserver of the human race and the giver of everlasting salvation, may it please you to make holy this ring, which we bless + in your name; through Christ our Lord. 
+> All: Amen.
 
 He sprinkles the ring with holy water.
 
 6. The man takes the ring and places it first on the index finger of the left hand of the woman saying:
 
-In the name of the Father, then on the middle finger, adding: and of the Son, finally placing and leaving it on the ring finger he concludes: and of the Holy Spirit.
+> In the name of the Father, then on the middle finger, adding: and of the Son, finally placing and leaving it on the ring finger he concludes: and of the Holy Spirit.
 
 7. The priest opens the missal at the beginning of the Canon, and presents the page imprinted with the crucifixion to be kissed, first by the man and then by the woman.
 
@@ -102,7 +107,7 @@ At that time Jesus said to His disciples: "Remain united with me, and I will rem
 
 9. Lastly the priest extends his hands over the heads of the couple and says:
 
-May God bless your bodies and your souls. May He shed His blessing on you as He blessed Abraham, Isaac, and Jacob. May the hand of the Lord be on you. May He send His holy angel to guard you all the days of your life. Amen. Go in peace.
+> May God bless your bodies and your souls. May He shed His blessing on you as He blessed Abraham, Isaac, and Jacob. May the hand of the Lord be on you. May He send His holy angel to guard you all the days of your life. Amen. Go in peace.
 
 # Sources
 
