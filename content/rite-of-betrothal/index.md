@@ -36,23 +36,23 @@ Today there is no prescribed ritual for a formal engagement. But it is fitting t
 
 Psalm 126 (RSV-CE 127)
 
-Priest: Unless the house be of the Lord’s building, in vain do the builders labor.
-
-All: Unless the Lord be the guard of the city, in vain does the guard keep sentry.
-
-P: It is futile that you rise before daybreak, to be astir in the midst of darkness,
-
-All: You that eat the bread of hard labor, for He deals bountifully to His beloved while they are sleeping.
-
-P: Behold, offspring come from God’s giving, a fruitful womb is the reward of His blessing.
-
-All: Like arrows in the hand of the warrior are children begotten of a youthful father.
-
-P: Happy the man who has filled with them his quiver; they shall uphold him in contending at the gate with his rival.
-
-All: Glory be to the Father, and to the Son, and to the Holy Spirit,
-
-P: As it was in the beginning, is now, and ever shall be, world without end, Amen.
+> Priest: Unless the house be of the Lord’s building, in vain do the builders labor.
+> 
+> All: Unless the Lord be the guard of the city, in vain does the guard keep sentry.
+> 
+> P: It is futile that you rise before daybreak, to be astir in the midst of darkness,
+> 
+> All: You that eat the bread of hard labor, for He deals bountifully to His beloved while they are sleeping.
+> 
+> P: Behold, offspring come from God’s giving, a fruitful womb is the reward of His blessing.
+> 
+> All: Like arrows in the hand of the warrior are children begotten of a youthful father.
+> 
+> P: Happy the man who has filled with them his quiver; they shall uphold him in contending at the gate with his rival.
+> 
+> All: Glory be to the Father, and to the Son, and to the Holy Spirit,
+> 
+> P: As it was in the beginning, is now, and ever shall be, world without end, Amen.
 
 2. Now the priest addresses them, either in his own words or in the short form that follows:
 
@@ -71,7 +71,7 @@ Then the woman:
 4. Then the priest takes the two ends of his stole and in the form of a cross places them over the clasped hands of the couple. Holding the stole in place with his left hand, he says:
 
 > I bear witness to your solemn proposal and I declare you engaged; in the name of the Father, and of the Son, + and of the Holy Spirit. As he pronounces the last words he sprinkles them with holy water in the form of a cross.
-
+> 
 > All: Amen.
 
 5. Then he blesses the engagement ring:
@@ -99,11 +99,11 @@ He sprinkles the ring with holy water.
 
 Tobias 7 and 8
 
-Tobias said: "I will not eat nor drink here this day, unless you first grant me my petition, and promise to give me Sara, your daughter." ...The angel said to Raguel: "Be not afraid to give her to this man, for to him who fears God is your daughter due to be his wife; therefore another could not have her." ...And Raguel, taking the right hand of his daughter, gave it into the right hand of Tobias, saying: "The God of Abraham, and the God of Isaac, and the God of Jacob be with you, and may He join you together, and fulfill His blessing in you." And taking paper they made a writing of the marriage. And afterwards they made merry, blessing God. ...Then Tobias exhorted the virgin, and said to her: "Sara, arise, and let us pray to God today, and tomorrow, and the next day; because for these three nights we are joined to God; and when the third night is over, we will be in our own wedlock. For we are the children of saints, and we must not be joined together like heathens that know not God." So they both arose, and prayed earnestly both together that health might be given them.
+> Tobias said: "I will not eat nor drink here this day, unless you first grant me my petition, and promise to give me Sara, your daughter." ...The angel said to Raguel: "Be not afraid to give her to this man, for to him who fears God is your daughter due to be his wife; therefore another could not have her." ...And Raguel, taking the right hand of his daughter, gave it into the right hand of Tobias, saying: "The God of Abraham, and the God of Isaac, and the God of Jacob be with you, and may He join you together, and fulfill His blessing in you." And taking paper they made a writing of the marriage. And afterwards they made merry, blessing God. ...Then Tobias exhorted the virgin, and said to her: "Sara, arise, and let us pray to God today, and tomorrow, and the next day; because for these three nights we are joined to God; and when the third night is over, we will be in our own wedlock. For we are the children of saints, and we must not be joined together like heathens that know not God." So they both arose, and prayed earnestly both together that health might be given them.
 
 John 15.4-12
 
-At that time Jesus said to His disciples: "Remain united with me, and I will remain united with you. A branch can bear no fruit of itself, that is, when it is not united with the vine; no more can you, if you do not remain united with me. I am the vine, you are the branches. One bears abundant fruit only when he and I are mutually united; severed from me, you can do nothing. If one does not remain united with me, he is simply thrown away like a branch, and dries up. Such branches are gathered and thrown into the fire to be burned. As long as you remain united with me, and my teachings remain your rule of life, you may ask for anything you wish, and you shall have it. This is what glorifies my Father--your bearing abundant fruit and thus proving yourselves my disciples. Just as the Father loves me, so I love you. Be sure to hold my love. If you treasure my commandments, you will hold my love, just as I treasure my Father's commandments and thus secure His love. I have told you this, that my joy may be yours, and your joy may be perfect. This is my commandment: love one another as I love you."
+> At that time Jesus said to His disciples: "Remain united with me, and I will remain united with you. A branch can bear no fruit of itself, that is, when it is not united with the vine; no more can you, if you do not remain united with me. I am the vine, you are the branches. One bears abundant fruit only when he and I are mutually united; severed from me, you can do nothing. If one does not remain united with me, he is simply thrown away like a branch, and dries up. Such branches are gathered and thrown into the fire to be burned. As long as you remain united with me, and my teachings remain your rule of life, you may ask for anything you wish, and you shall have it. This is what glorifies my Father--your bearing abundant fruit and thus proving yourselves my disciples. Just as the Father loves me, so I love you. Be sure to hold my love. If you treasure my commandments, you will hold my love, just as I treasure my Father's commandments and thus secure His love. I have told you this, that my joy may be yours, and your joy may be perfect. This is my commandment: love one another as I love you."
 
 9. Lastly the priest extends his hands over the heads of the couple and says:
 
