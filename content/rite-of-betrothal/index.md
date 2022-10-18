@@ -11,17 +11,28 @@ _Manuscript: [Miniature of the betrothal of Louis the Pious, his marriage, and h
 
 # About
 
-Betrothal, or betrothment, is a beautiful, ancient practice for those planning to marry in the Church. It is more solemn than an engagement, although the two may be seen as synonymous. Betrothal is, "a mutual promise of future marriage, or a contract by which a man and a woman engage themselves to marry." [^1]
+Betrothal is, "a mutual promise of future marriage, or a contract by which a man and a woman engage themselves to marry. [...] Betrothment serves as a barrier against ill-omened haste; it renders the position of the engaged parties more secure; and it affords a better opportunity for bringing to light any impediments or incompatibility of disposition that may exist. It was in use among the Jews, the Romans, the Germans, and the Christians of the primitive Church. " [^1]
 
-The general structure is this: the Rite of Betrothal takes places in a church, with a priest. Psalm 126 (RSV-CE 127) is chanted, followed by an allocution from the priest, a pledge between the couple, a reading from Tobias, a reading from the Gospel of John, and a final blessing.
+There is no official, standardized Rite of Betrothal in the Roman Catholic Church. The rite does not exist in the _Rituale Romanum_. 
 
-Similar to the Rite of Marriage, the specifics of the Rite of Betrothal have not always been legislated consistently, but both are to be encouraged and are still available to the faithful for their use today.
+This simply means that throughout history, there have been many different rites of betrothal, a diversity encouraged or tolerated by Rome. 
 
-> Betrothment serves as a barrier against ill-omened haste; it renders the position of the engaged parties more secure; and it affords a better opportunity for bringing to light any impediments or incompatibility of disposition that may exist. It was in use among the Jews, the Romans, the Germans, and the Christians of the primitive Church. [^1]
+The rite of betrothal enjoying a bit of a renaissance today is typically the rite found in Father Philip Weller's translation of the _Roman Ritual_.[^2] You can read about the history of this interesting rite [here](https://onepeterfive.com/how-traditional-are-betrothals/)[^3]. I also have a masterpost of resources on betrothals [here.](post/betrothal-masterpost/). You can purchase the Weller rite of betrothal at Angelus Press.[^4]
 
-Laudate Dominum's website provides a free PDF version of Betrothal [^2].
+Another version of a rite of betrothal can be found at Laudate Dominum.[^5]
 
-# The Rite of Betrothal
+Yet another version of a rite of betrothal can be found in the 1955 Grailville booklet _Promised In Christ_.[^6] 
+
+# The Rite of Betrothal as found in Father Philip Weller's translation of the Roman Ritual
+
+CHAPTER IV: SOLEMN ENGAGEMENT OR BETROTHAL
+
+It is praiseworthy and in accord with ancient ecclesiastical custom for a Catholic young man and young woman who become engaged to have the engagement solemnized and blessed by the Church. For detailed discussion of a betrothal and its consequences one may consult Canon Law (canon 1017) and a commentary. Let it suffice here to say that no action is admissible to compel the celebration of marriage, even after a formal engagement has taken place, although a damage suit would be permitted before a competent judge, either in ecclesiastical or civil court.
+
+Today there is no prescribed ritual for a formal engagement. But it is fitting that it take place before the altar of God and be followed by Mass and holy communion.
+
+1. The priest vests in surplice and white stole, or if Mass is to follow, in the Mass vestments. He is assisted by two servers, and at hand are holy water and an altar missal. He awaits the couple at the communion table; and as they come forward the following psalm may be sung on the eighth psalm-tone (see music supplement).
+
 
 ## Psalm 126 (RSV-CE 127)
 
@@ -43,74 +54,72 @@ Laudate Dominum's website provides a free PDF version of Betrothal [^2].
 >
 > P: As it was in the beginning, is now, and ever shall be, world without end, Amen.
 
-## Allocution and Pledge
+2. Now the priest addresses them, either in his own words or in the short form that follows:
 
-> Beloved of Christ: It is in God’s designs that you are called to the holy vocation of matrimony. For this reason you present yourselves today before Christ and the Church, before His sacred minister and the people of God, to ratify in a formal manner your engagement. You are here to ask the blessing of God and of the Church on your proposal, and to ask the good prayers of the faithful here present. You realize that what has begun by the inspiration of your heavenly Father requires equally His grace to be brought to a happy conclusion. We trust that you have given serious and prayerful deliberation to your promise that you will one day be married. In the time that intervenes until your wedding day, may you prepare for the sacrament of matrimony by persevering in a virtuous life. Then, when the holy day arrives on which you will give yourselves irrevocably to each other, you will have laid a solid religious foundation for the many years you will spend together. These years will be filled with joy and peace as long as you wear the sweet yoke of Jesus Christ; if you remain faithful to Him, your love on earth will be perfected in the eternal wedding feast of heaven. May the union you purpose to consummate one day in Christian marriage be truly a sacramental image of the perfect union of Christ with His beloved bride, the Church.
->
-> Priest_:_ Join your right hands and plight your troth.
->
-> Man_:_ In the name of our Lord, I, \[name\], promise that I will one day take you, \[name\], for my wife, according to the ordinances of God and holy Church. I will love you as I love myself, and will sacrifice my life for you as Christ offered His life for His bride, the Church. I will keep faith with you and be loyal to you all the days of my life, and so aid you and comfort you in all your necessities. These things and all that a man ought to do for his espoused, I promise to do for you, and to keep the promise by the faith that is in me.
->
-> Woman_:_ In the name of our Lord, I, \[name\], promise that I will one day take you, \[name\], for my husband, according to the ordinances of God and holy Church. I will love you as I love myself, and will revere and honor you as my lord, even as the Church loves Christ her bridegroom. I will keep faith with you and be loyal to you all the days of my life, and so aid you and comfort you in all your necessities. These things and all that a woman ought to do for her espoused, I promise to do for you, and to keep the promise by the faith that is in me.
+> Beloved of Christ: It is in God's designs that you are called to the holy vocation of matrimony. For this reason you present yourselves today before Christ and the Church, before His sacred minister and the people of God, to ratify in a formal manner your engagement. You are here to ask the blessing of God and of the Church on your proposal, and to ask the good prayers of the faithful here present. You realize that what has begun at the inspiration of your heavenly Father requires equally His grace to be brought to a happy conclusion.
+> 
+> We trust that you have given serious and prayerful deliberation to your promise that you will one day be married; also that you have consulted with your parents and elders. In the time that intervenes until your wedding day, may you prepare for the sacrament of matrimony by a virtuous courtship. Then, when the happy day arrives on which you will give yourselves irrevocably to each other, you will have laid a sound religious foundation for the many years you will spend together, years that will be filled with joy and prosperity, and years that will finally give way to an eternity of joy and blessedness. May the union you purpose to consummate one day in Christian marriage be truly a sacramental image of the union of Christ with His beloved bride, the Church.
 
-Then the priest takes the two ends of his stole and in the form of a cross places them over the clasped hands of the couple. Holding the stole in place with his left hand, he says:
+3. With their right hands joined the couple repeat after the priest what follows:
 
-> I bear witness to your solemn proposal and I declare you engaged; in the name of the Father, and of the Son, and of the Holy Spirit.
+The man first: In the name of our Lord, I, N.N., promise that I will one day take you, N.N., for my wife, according to the ordinances of God and holy Church. I will love you as I love myself. I will keep faith with you and be loyal to you, and so aid you and comfort you in all your necessities. These things and all that a man ought to do for his espoused, I promise to do for you, and to keep the promise by the faith that is in me.
 
-As he pronounces the last words he sprinkles them with holy water in the form of a cross.
+Then the woman: In the name of our Lord, I, N.N., do declare that, in the form and manner in which you have promised yourself to me, I will one day bind and oblige myself to you, and will take you, N.N., for my husband. And all that you have pledged to me, I promise to do for you, and to keep the promise by the faith that is in me.
 
-> All: Amen.
->
-> Priest: Our help is in the name of the Lord.
->
-> All: Who made heaven and earth.
->
-> P: The Lord be with you.
->
-> All: And also with thy spirit.
->
-> Priest: Let us pray. Lord, reach out Thy right hand to Thy faithful servants, that they may seek Thee wholeheartedly and receive from Thee all the good things they desire. Almighty everlasting God, look kindly on Thy servants who have come to Thy holy sanctuary with glad hearts to make known their promise; grant they they, whose only trust is in Thee, may be filled with Thy grace, may live together in the bond of charity on this earth, and may finally attain the joys of everlasting life, through Christ our Lord.
->
-> _All:_ Amen.
+4. Then the priest takes the two ends of his stole and in the form of a cross places them over the clasped hands of the couple. Holding the stole in place with his left hand, he says:
 
-## Reading from Tobias
+I bear witness to your solemn proposal and I declare you engaged; in the name of the Father, and of the Son, + and of the Holy Spirit. As he pronounces the last words he sprinkles them with holy water in the form of a cross.
 
-(ch. 7, vv. 10, 12, 15–17; ch. 8, vv. 4–10)
+All: Amen.
 
-Tobias said: “I will not eat nor drink here this day, unless thou first grant me my petition, and promise to give me Sara thy daughter.” The angel said to Raguel: “Be not afraid to give her to this man, for to him who feareth God is thy daughter due to be his wife; therefore another could not have her.” And taking the right hand of his daughter, Raguel gave it into the right hand of Tobias, saying: “The God of Abraham, and the God of Isaac, and the God of Jacob, be with you. And may he join you together, and fulfill His blessing in you.” And taking paper they made a writing of the marriage. And afterwards they made merry, blessing God. . . . Then Tobias exhorted the virgin, and said to her: “Sarah, arise, and let us pray to God today, and tomorrow, and the next day: because for these three nights we are joined to God. And when the third night is over, we will be in our own wedlock. For we are the children of saints: and we must not be joined together like heathens that know not God.” So they both arose, and prayed earnestly both together that healthy might be given them. And Tobias said: “Lord God of our fathers, may the heavens and the earth, and the sea, and the fountains, and the rivers, and all thy creatures that are in them, bless Thee. Thou madest Adam of the slime of the earth, and gavest him Eve for a helper. And now, Lord, Thou knowest that not for fleshly lust do I take my sister to wife, but only for the love of posterity, in which Thy name be blessed for ever and ever.” Sara also said: “Have mercy on us, O Lord, have mercy on us: and let us grow old both together in health.”
+5. Then he blesses the engagement ring:
 
-## Reading from John
+P: Our help is in the name of the Lord. All: Who made heaven and earth. P: The Lord be with you. 
 
-(ch. 15, vv. 4–17)
+All: May He also be with you.
 
-At that time, Jesus said to His disciples: “Abide in me and I in you. As the branch cannot bear fruit of itself unless it abide in the vine, so neither can you, unless you abide in me. I am the vine, you the branches. He that abideth in me, and I in him, the same beareth much fruit; for without me you can do nothing. If any one abide not in me, he shall be cast forth as a branch and shall wither; and they shall gather him up and cast him into the fire, and he burneth. If you abide in me and my words abide in you, you shall ask whatever you will, and it shall be done unto you. In this is my Father glorified: that you bring forth very much fruit and become my disciples. As the Father hath loved me, I also have loved you. Abide in my love. If you keep my commandments, you shall abide in my love; as I also have kept my Father’s commandments and do abide in His love. These things I have spoken to you, that my joy may be in you, and your joy may be filled. This is my commandment: that you love one another, as I have loved you. Greater love than this no man hath, that a man lay down his life for his friends. You are my friends if you do the things that I command you. I will not now call you servants; for the servant knoweth not what his lord doth. But I have called you friends, because all things whatsoever I have heard of my Father, I have made known to you. You have not chosen me, but I have chosen you, and have appointed you, that you should go and should bring forth fruit, and your fruit should remain, that whatsoever you shall ask of the Father in my name he may give it you. These things I command you, that you love one another.”
+Let us pray. Almighty God, Creator and preserver of the human race and the giver of everlasting salvation, may it please you to make holy this ring, which we bless + in your name; through Christ our Lord. 
 
-## Final blessing
+All: Amen.
 
-Lastly, the priest extends his hands over the heads of the couple and prays:
+He sprinkles the ring with holy water.
 
-> May God bless your bodies and your souls. May he shed His blessing on you as He blessed Abraham, Isaac, and Jacob. May the hand of the Lord be upon you. May He send His holy angel to guard you all the days of your life. Amen. Go in peace.
+6. The man takes the ring and places it first on the index finger of the left hand of the woman saying:
 
-# Resources
+In the name of the Father, then on the middle finger, adding: and of the Son, finally placing and leaving it on the ring finger he concludes: and of the Holy Spirit.
 
-Angelus Press. “Rite Of Betrothal.” Angelus Press. Accessed August 8, 2019. https://angeluspress.org/products/rite-of-betrothal.
+7. The priest opens the missal at the beginning of the Canon, and presents the page imprinted with the crucifixion to be kissed, first by the man and then by the woman.
 
-New Liturgical Movement. “**A Liturgical Rite of Betrothal**,” October 26, 2019. http://www.newliturgicalmovement.org/2019/10/a-liturgical-rite-of-betrothal.html#.Xbhzf0ZKi70.
+8. After this the priest may read these passages from Sacred Scripture:
 
-“Consider a Betrothal Ceremony: What It Is, Why It’s Significant + How to Plan One.” Spoken Bride. Accessed August 29, 2019. https://www.spokenbride.com/blog/2016/11/17/betrothal-ceremony.
+Tobias 7 and 8
 
-“Engagements: In Church.” Catholic Culture. Accessed August 29, 2019. http://www.catholicculture.org/culture/library/view.cfm?recnum=2978.
+Tobias said: "I will not eat nor drink here this day, unless you first grant me my petition, and promise to give me Sara, your daughter." ...The angel said to Raguel: "Be not afraid to give her to this man, for to him who fears God is your daughter due to be his wife; therefore another could not have her." ...And Raguel, taking the right hand of his daughter, gave it into the right hand of Tobias, saying: "The God of Abraham, and the God of Isaac, and the God of Jacob be with you, and may He join you together, and fulfill His blessing in you." And taking paper they made a writing of the marriage. And afterwards they made merry, blessing God. ...Then Tobias exhorted the virgin, and said to her: "Sara, arise, and let us pray to God today, and tomorrow, and the next day; because for these three nights we are joined to God; and when the third night is over, we will be in our own wedlock. For we are the children of saints, and we must not be joined together like heathens that know not God." So they both arose, and prayed earnestly both together that health might be given them.
 
-“What Is The Catholic Rite Of Betrothal.” Traditional Catholic Femininity. Accessed August 29, 2019. https://tradcatfem.com/2017/08/03/what-is-the-catholic-rite-of-betrothal/.
+John 15.4-12
 
-“Canon Lawyer Advocates Return of Betrothal.” Catholic Transcript, December 30, 1977. https://thecatholicnewsarchive.org/?a=d&d=CTR19771230-01.2.47&srpos=1.
+At that time Jesus said to His disciples: "Remain united with me, and I will remain united with you. A branch can bear no fruit of itself, that is, when it is not united with the vine; no more can you, if you do not remain united with me. I am the vine, you are the branches. One bears abundant fruit only when he and I are mutually united; severed from me, you can do nothing. If one does not remain united with me, he is simply thrown away like a branch, and dries up. Such branches are gathered and thrown into the fire to be burned. As long as you remain united with me, and my teachings remain your rule of life, you may ask for anything you wish, and you shall have it. This is what glorifies my Father--your bearing abundant fruit and thus proving yourselves my disciples. Just as the Father loves me, so I love you. Be sure to hold my love. If you treasure my commandments, you will hold my love, just as I treasure my Father's commandments and thus secure His love. I have told you this, that my joy may be yours, and your joy may be perfect. This is my commandment: love one another as I love you."
 
-“Old Catholic Ceremony of Betrothal Revived at Montreal Oratory.” Catholic News Service, February 3, 1941. https://thecatholicnewsarchive.org/?a=d&d=cns19410203-01.1.20&srpos=2.
+9. Lastly the priest extends his hands over the heads of the couple and says:
 
-Kwasniewski, Peter. “New Liturgical Movement: Problems with Weddings and How We Might Remedy Them.” New Liturgical Movement (blog), April 29, 2019. http://www.newliturgicalmovement.org/2019/04/problems-with-weddings-and-how-we-might.html#.XVHX6G9Ki70.
+May God bless your bodies and your souls. May He shed His blessing on you as He blessed Abraham, Isaac, and Jacob. May the hand of the Lord be on you. May He send His holy angel to guard you all the days of your life. Amen. Go in peace.
 
 # Sources
 
 [^1]: Smet, Alöis de. _Betrothment and Marriage; a Canonical and Theological Treatise with Notices on History and Civil Law_. St. Louis : B. Herder, 1912. http://archive.org/details/betrothmentmarri01smetiala.
 
-[^2]: “Solemn Rite of Betrothal.” Laudate Dominum, n.d. http://laudatedominum.net/files/bet.pdf.
+[^2]: Weller, Philip T. Roman Ritual. The Bruce Publishing Company, 1964. https://www.ewtn.com/catholicism/library/roman-ritual-part-i-11882
+
+[^3]: Kabel, Sharon. "How traditional are betrothals?" _OnePeterFive_. March 1, 2022. https://onepeterfive.com/how-traditional-are-betrothals/
+
+[^4]: https://angeluspress.org/products/rite-of-betrothal
+
+[^5]: “Solemn Rite of Betrothal.” Laudate Dominum, n.d. http://laudatedominum.net/files/bet.pdf.
+
+[^6]: "Promised in Christ." Grailville, 1955. https://archive.org/details/grailville-promised-in-christ/page/12/mode/2up
+
+[^6]: Kwasniewski, Peter. “NProblems with Weddings and How We Might Remedy Them.” New Liturgical Movement (blog), April 29, 2019. http://www.newliturgicalmovement.org/2019/04/problems-with-weddings-and-how-we-might.html#.XVHX6G9Ki70.
+
+[^7]: DiPippo, Gregory. “A Liturgical Rite of Betrothal.” New Liturgical Movement (blog). October 26, 2019. http://www.newliturgicalmovement.org/2019/10/a-liturgical-rite-of-betrothal.html#.Xbhzf0ZKi70.
+
+[^7]: Wrzaszczak, Chester. “Engagements: In Church.” Catholic Culture. Accessed August 29, 2019. http://www.catholicculture.org/culture/library/view.cfm?recnum=2978.
