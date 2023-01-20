@@ -1,5 +1,5 @@
 ---
-name: Latin Mass Wedding
+title: Latin Mass Wedding
 authors:
 - admin
 superuser: true
