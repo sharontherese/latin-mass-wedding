@@ -11,6 +11,11 @@ draft = true
 ![](/uploads/08740007-min.JPG)  
 From our wedding: bridal veil; bridal crown; hair pins shaped like rue leaves, a bridal custom from Lithuania
 
+# test CTA 
+
+{{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" >}}
+
+
 # About
 
 Local wedding customs are difficult to describe. For one, by their nature they’re usually passed on orally, not in writing. For another, an unfortunate consequence of the Council of Trent was a widespread loss of local customs in favor of uniformity with Rome. Combined with a dramatic rise in homogenous global customs, local wedding customs can be hard to come by.
