@@ -46,7 +46,7 @@ Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob
 Did not add the following breaking change from https://web.archive.org/web/20200607042737/https://sourcethemes.com/academic/updates/v4.9.0/
 
 Make taxonomy URLs singular, consistent with other Academic pages by adding the following to yourconfig/_default/config.toml file:
-# Workaround Hugo publishing taxonomy URLs as plurals - consistently use singular across Academic.
+### Workaround Hugo publishing taxonomy URLs as plurals - consistently use singular across Academic.
 [permalinks]
   authors = "/author/:slug/"
   tags = "/tag/:slug/"
