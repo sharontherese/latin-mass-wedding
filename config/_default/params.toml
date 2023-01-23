@@ -22,7 +22,7 @@ font_size = "L"
 description = "Learn about Latin Mass weddings!"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = "sharing2.JPG"
+# sharing_image = "sharing2.JPG"
 
 # Enable global source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
