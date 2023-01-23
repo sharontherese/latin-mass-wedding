@@ -40,3 +40,15 @@ Copyright 2017-present [George Cushen](https://georgecushen.com).
 Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.
 
 [![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+
+## 2023 
+
+Did not add the following breaking change from https://web.archive.org/web/20200607042737/https://sourcethemes.com/academic/updates/v4.9.0/
+
+Make taxonomy URLs singular, consistent with other Academic pages by adding the following to yourconfig/_default/config.toml file:
+### Workaround Hugo publishing taxonomy URLs as plurals - consistently use singular across Academic.
+[permalinks]
+  authors = "/author/:slug/"
+  tags = "/tag/:slug/"
+  categories = "/category/:slug/"
+  publication_types = "/publication-type/:slug/"

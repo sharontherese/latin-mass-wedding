@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# Dummy comment to trigger a build.
+# You probably don't need to run this update script ever.
+
 # Source Themes Academic: Theme updater
 # Checks for available updates and then asks to install any updates.
 # https://sourcethemes.com/academic/
