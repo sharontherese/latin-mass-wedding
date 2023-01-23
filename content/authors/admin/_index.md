@@ -31,6 +31,9 @@ This website provides information for those who would like a Latin Mass wedding,
 
 Wedding photography provided by Africa Schaumann.  
 
+{{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" >}}
+
+
 Do you have a resource to recommend?   
 See an error or a broken link?   
 Spot some liturgical heresy?   
