@@ -22,7 +22,7 @@ Below is the text for the Rite of Marriage, as found in the 1962 _Rituale Romanu
 
 # Rite of Marriage (1962)
 
-* To view the Latin and English side by side, {{% staticref "files/1962 Rite of Marriage (Latin-English).pdf" %}}click here{{% /staticref %}}
+* To view the Latin and English side by side, {{% staticref "uploads/1962_Rite_of_Marriage.pdf" "newtab" %}}click here{{% /staticref %}}
 
 ## In Latin 
 
