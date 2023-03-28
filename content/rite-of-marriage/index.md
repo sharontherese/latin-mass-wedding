@@ -20,7 +20,7 @@ Perhaps because the marriage texts were not codified until fairly late, there is
 
 Below is the text for the Rite of Marriage, as found in the 1962 _Rituale Romanum._ This is to give you a starting point, an idea of what to expect. You can peruse plenty of _Rituales_ online from earlier years and find slight variations in the text (like a _Rituale_ from 1873 with English, Gallic, and German vows) [^6]. What remains the same is that there is an exchange of consent.
 
-To view the Latin and English side by side, {{% staticref "uploads/1962_Rite_of_Marriage.pdf" "newtab" %}}click here{{% /staticref %}}
+* To view the Latin and English side by side, {{% staticref "uploads/1962_Rite_of_Marriage.pdf" "newtab" %}} click here {{% /staticref %}}
 
 # Rite of Marriage (1962)
 
