@@ -10,7 +10,7 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder)
 # header:
-#  caption: 'Entrance of the newlyweds, Ferdinand Georg Waldmuller (1859)'
+#  caption: 'A nuptial veil (velatio nuptialis), photo reused with permission from Catherine Asija (2022)'
 #  image: 'waldmuller_bridesmaid.png'
  
 # Cover image
@@ -86,7 +86,7 @@ Although its use is optional, a nuptial preface is particularly fitting, if one 
 
 ![](/uploads/customs/6.nuptial_veil.jpg)
 
-Reused with permission from Catherine Asija, 2022
+Caption: photo reused with permission from Catherine Asija (2022)
 
 The nuptial veil, or _velatio nuptialis_, is enjoying something of a renaissance in Catholic weddings lately[^7]. Visually striking, it evokes ancient Jewish customs, Eucharistic processions, and royalty. 
 
