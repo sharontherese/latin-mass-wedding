@@ -112,7 +112,7 @@ Caption: Blessing of a bedchamber, by Bernard Picart
 
 Most wedding customs spring up from the murky historical past, and are encouraged or tolerated as additional adornments to the official ceremonies. The blessing of the bedroom, _benedictio thalami_, can claim the rare privilege of being in the Rituale Romanum[^12]. It is probable that this blessing was more common when weddings took place at home. 
 
-# 9: Unity Candle 
+# 9. Unity Candle 
 
 ![](/uploads/customs/9.unity_candle.jpg)
 
