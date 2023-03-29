@@ -78,33 +78,33 @@ Kýrie, eléison. Christe, eléison. Kýrie, eléison.
 
 Pater noster secreto usque ad:
 
-**V. Et ne nos indúcas in tentatiónem.
+V. Et ne nos indúcas in tentatiónem.
 
-**R. Sed líbera nos a malo.**
+R. Sed líbera nos a malo.
 
-**V. Salvos fac servos tuos.**
+V. Salvos fac servos tuos.
 
-**R. Deus meus, sperántes in te.**
+R. Deus meus, sperántes in te.
 
-**V. Mitte eis, Dómine, auxílium de sancto.**
+V. Mitte eis, Dómine, auxílium de sancto.
 
-**R. Et de Sion tuére eos.**
+R. Et de Sion tuére eos.
 
-**V. Esto eis, Dómine, turris fortitúdinis.**
+V. Esto eis, Dómine, turris fortitúdinis.
 
-**R. A fácie inimíci.**
+R. A fácie inimíci.
 
-**V. Dómine, exáudi oratiónem meam.**
+V. Dómine, exáudi oratiónem meam.
 
-**R. Et clamor meus ad te véniat.**
+R. Et clamor meus ad te véniat.
 
-**V. Dóminus vobíscum.**
+V. Dóminus vobíscum.
 
-**R. Et cum spíritu tuo.**
+R. Et cum spíritu tuo.
 
-**Orémus.** Oratio
+Orémus. Oratio
 
-**Réspice, quæsumus, Dómine, super hos fámulos tuos: et institútis tuis, quibus propagatiónem humáni géneris ordinásti, benígnus assíste; ut qui te auctóre jungúntur, te auxiliánte servéntur. Per Christum Dóminum nostrum. R. Amen.**
+Réspice, quæsumus, Dómine, super hos fámulos tuos: et institútis tuis, quibus propagatiónem humáni géneris ordinásti, benígnus assíste; ut qui te auctóre jungúntur, te auxiliánte servéntur. Per Christum Dóminum nostrum. R. Amen.
 
 4\. His expletis, si benedicendæ sint nuptiæ, Parochus Missam pro Sponso et Sponsa, ut in Missali Romano, celebret, servatis omnibus quæ ibi præscribuntur.
 
@@ -166,7 +166,7 @@ R. From your holy temple, which is in Jerusalem.
 
 Lord, have mercy. Christ, have mercy. Lord, have mercy.
 
-Our Father** silently as far as:
+Our Father silently as far as:
 
 V. And lead us not into temptation.
 
