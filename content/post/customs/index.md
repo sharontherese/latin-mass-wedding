@@ -82,11 +82,11 @@ Here are two snippets from German _rituales_, buttressing the claim that this is
 
 ![](/uploads/customs/1836_Ordo_Administrandi_Sacramenta.jpeg)
 
-Caption: _Ordo_Administrandi_Sacramenta_ (1836)
+Caption: _Ordo Administrandi Sacramenta_ (1836)
 
 ![](/uploads/customs/1587_Agenda_Bambergen.jpeg)
 
-Caption: _Agenda_Bambergen_ (1587)
+Caption: _Agenda Bambergen_ (1587)
 
 You can see the hand clasp or hand fast in the Byzantine rite, at the royal wedding of Charles and Kate, and in the film AMADEUS. 
 
