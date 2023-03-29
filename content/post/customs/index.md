@@ -1,5 +1,5 @@
 ---
-title: "9 traditional catholic wedding customs (and 1 that isn’t)"
+title: "8 traditional Catholic wedding customs (and 1 that isn’t)"
 date: 2023-03-29
 
 # View.
@@ -21,7 +21,7 @@ view: 2
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
   placement: 1
-  caption: "Entrance of the newlyweds, Ferdinand Georg Waldmuller (1859)"
+  caption: "A nuptial veil (velatio nuptialis), photo reused with permission from Catherine Asija (2022)"
   focal_point: "Center"
   preview_only: false
 #  alt_text: An optional description of the image for screen readers.
@@ -36,7 +36,7 @@ One of the questions foremost in the minds of Catholic couples is what wedding c
 
 Wedding customs and rituals, highly regionalized, as unregulated by Rome as possible, are a tricky animal. It’s the usual conundrum: if tradition is what came before, and we’ve had several consecutive generations deviate from the tradition, what’s more traditional? Doing what your parents did, or doing what 5 generations back did? 
 
-We shall leave a full exploration of such questions to keyboard amateur liturgists. Instead, I’d like to share nine Roman Catholic wedding customs throughout history - and one custom that is not traditional. 
+We shall leave a full exploration of such questions to keyboard amateur liturgists. Instead, I’d like to share eight Roman Catholic wedding customs throughout history - and one custom that is not traditional. 
 
 # 1. Betrothal 
 
@@ -48,7 +48,11 @@ Betrothals have surged in popularity lately, and are a delightful custom with a 
 
 # 2. Veni Creator 
 
-The Missa pro Sponso (introit: Deus Israel conjugavit) was set down as the votive Mass for weddings by the Council of Trent. Before Trent, it was common to have slight variations in the readings, depending on what part of Christendom you were in. For example, medieval England sometimes used the Mass of the Holy Trinity for wedding Masses. In the same vein, some regions[^2] sang the Veni Creator during the wedding rites. One of the oldest and most beloved hymns, made more famous by the Carmelites of Compeigne singing when they went to their execution, there is a lifetime’s worth of meditation material when thinking about the Holy Ghost and marriage. The names and virtues of the Holy Ghost - peace, love, understanding, refining fire, the Comforter - could not be more fitting for marriage. Read Father Vincent McNabb’s beautiful meditation here[^3]. 
+Caption: chant notation for _Veni Creator Spiritus_
+
+The _Missa pro Sponso_ (introit: _Deus Israel conjugavit_) was set down as the votive Mass for weddings by the Council of Trent. Before Trent, it was common to have slight regional variations in the readings. For example, medieval England sometimes used the Mass of the Holy Trinity for wedding Masses. In the same vein, some regions[^2] sang the Veni Creator during the wedding rites. The _Veni Creator_ is also sung when laying the foundation stone for a church - a fitting image for marriage[^3]. One of the oldest and most beloved hymns, made more famous by the Carmelites of Compiegne singing when they went to their execution, there is a lifetime’s worth of meditation material when thinking about the Holy Ghost and marriage. 
+
+The names and virtues of the Holy Ghost - peace, love, understanding, refining fire, the Comforter - could not be more fitting for marriage. Read Father Vincent McNabb’s beautiful meditation here[^4]. 
 
 # 3. Exhortation
 
@@ -68,7 +72,7 @@ If you flip through older ritual books and prayer books, you may see a marriage 
 
 Caption: Bernardino di Betti (1454-1513), Enea Silvio, vescovo di Siena, presenta Eleonora d'Aragona all'imperatore Federico III (1502-1507), fresco. Libreria Piccolomini, Siena, Duomo 
 
-If you want to put the Roman in Roman Catholic, look closely at the rubrics in the Rite of Marriage. You’ll see a direction to the priest, for him to wrap his stole around the couple’s left hands. This custom, also called hand-fasting, can be traced back at least to Ancient Rome.[^4]
+If you want to put the Roman in Roman Catholic, look closely at the rubrics in the Rite of Marriage. You’ll see a direction to the priest, for him to wrap his stole around the couple’s left hands. This custom, also called hand-fasting, can be traced back at least to Ancient Rome.[^5]
 
 # 5. Nuptial Preface
 
@@ -76,11 +80,11 @@ If you want to put the Roman in Roman Catholic, look closely at the rubrics in t
 
 Caption: Missale parvum secundum usum venerabilis ecclesiae Cameracensis. 1507. Shelfmark: BM Lyon, SJ Inc. 317. 31r.
 
-In 2020, the Vatican approved of seven ‘new’ prefaces for use in the Latin Mass. One preface, the _Praefatio de Nuptiis_, is for wedding Masses, and is quite old indeed.[^5]
+In 2020, the Vatican approved of seven ‘new’ prefaces for use in the Latin Mass. One preface, the _Praefatio de Nuptiis_, is for wedding Masses, and is quite old indeed.[^6]
 
 Although its use is optional, a nuptial preface is particularly fitting, if one reads Father Nicholas Gihr’s description of the Preface:
 
-> Holy Scripture informs us that Jesus Christ “gave thanks” to His Heavenly Father before consecrating the bread and wine, that is, before He changed them into His Body and Blood. Who could fail to understand, even at the first glance, that the Church too herein follows the example of her Divine Lord and Master, from the fact that at the Eucharistic Celebration she places before the act of Consecration the Preface, an incomparably elevated chant of praise and thanksgiving to God? [...] According to their text and melody the Prefaces belong to the most solemn, sublime and touching chants of the Church; they are the purest poetry, flowing from the inspiration of the Holy Ghost. The Church is the divinely enlightened proclaimer of the Eternal, **she is the Bride of Christ ever in communication with Him, and this communication is a never-ending nuptial celebration in sacrifice and prayer**: therefore, speech becomes on her lips a poem, a canticle, having throughout a poetical feature.[^6] (emphasis added)
+> Holy Scripture informs us that Jesus Christ “gave thanks” to His Heavenly Father before consecrating the bread and wine, that is, before He changed them into His Body and Blood. Who could fail to understand, even at the first glance, that the Church too herein follows the example of her Divine Lord and Master, from the fact that at the Eucharistic Celebration she places before the act of Consecration the Preface, an incomparably elevated chant of praise and thanksgiving to God? [...] According to their text and melody the Prefaces belong to the most solemn, sublime and touching chants of the Church; they are the purest poetry, flowing from the inspiration of the Holy Ghost. The Church is the divinely enlightened proclaimer of the Eternal, **she is the Bride of Christ ever in communication with Him, and this communication is a never-ending nuptial celebration in sacrifice and prayer**: therefore, speech becomes on her lips a poem, a canticle, having throughout a poetical feature.[^7] (emphasis added)
 
 # 6. Nuptial veil
 
@@ -88,7 +92,7 @@ Although its use is optional, a nuptial preface is particularly fitting, if one 
 
 Caption: photo reused with permission from Catherine Asija (2022)
 
-The nuptial veil, or _velatio nuptialis_, is enjoying something of a renaissance in Catholic weddings lately[^7]. Visually striking, it evokes ancient Jewish customs, Eucharistic processions, and royalty. 
+The nuptial veil, or _velatio nuptialis_, is enjoying something of a renaissance in Catholic weddings lately[^8]. Visually striking, it evokes ancient Jewish customs, Eucharistic processions, and royalty. 
 
 # 7. Flowers
 
@@ -96,7 +100,7 @@ The nuptial veil, or _velatio nuptialis_, is enjoying something of a renaissance
 
 Caption: The Holy Family, Jan Brueghel the Elder
 
-Flowers are one of the most colorful and customizable parts of a wedding day. Every flower comes with a rich history, symbolism, and an array of rubrics and etiquette. Many brides choose to present a bouquet to Mary, after Communion. While not in the official ceremonies, the practice may go back at least several centuries[^8]. Anecdotally, this author can report that a few couples have expanded the practice to include Saint Joseph as well. Mary and Joseph are connected to a vast bouquet of flowers[^9], and depending on the source and handling of the flowers, wedding day flowers can be incorporated into a Mary Garden[^10].
+Flowers are one of the most colorful and customizable parts of a wedding day. Every flower comes with a rich history, symbolism, and an array of rubrics and etiquette. Many brides choose to present a bouquet to Mary, after Communion. While not in the official ceremonies, the practice may go back at least several centuries[^9]. Anecdotally, this author can report that a few couples have expanded the practice to include Saint Joseph as well. Mary and Joseph are connected to a vast bouquet of flowers[^10], and depending on the source and handling of the flowers, wedding day flowers can be incorporated into a Mary Garden[^11].
 
 # 8. Blessing of the bedroom
 
@@ -104,7 +108,7 @@ Flowers are one of the most colorful and customizable parts of a wedding day. Ev
 
 Caption: Blessing of a bedchamber, by Bernard Picart
 
-Most wedding customs spring up from the murky historical past, and are encouraged or tolerated as additional adornments to the official ceremonies. The blessing of the bedroom, _benedictio thalami_, can claim the rare privilege of being in the Rituale Romanum[^11]. It is probable that this blessing was more common when weddings took place at home. 
+Most wedding customs spring up from the murky historical past, and are encouraged or tolerated as additional adornments to the official ceremonies. The blessing of the bedroom, _benedictio thalami_, can claim the rare privilege of being in the Rituale Romanum[^12]. It is probable that this blessing was more common when weddings took place at home. 
 
 # 9: Unity Candle 
 
@@ -112,32 +116,32 @@ Most wedding customs spring up from the murky historical past, and are encourage
 
 Caption: The Catholic Commentator, Volume 38, Number 15, 20 September 2000. http://thecatholicnewsarchive.org/?a=d&d=CAC20000920-01.2.44.9&srpos=15
 
-Most researchers agree that wedding unity candles did not come into practice before the mid-to-late twentieth century; Father Kenneth Doyle at the Catholic News Service[^12] wondered if the custom came from the soap opera General Hospital. 
+Most researchers agree that wedding unity candles did not come into practice before the mid-to-late twentieth century; Father Kenneth Doyle at the Catholic News Service[^13] wondered if the custom came from the soap opera General Hospital. 
 
 # Sources
 
-[^1]: https://onepeterfive.com/how-traditional-are-betrothals/
+[^1]: Sharon Kabel. "How traditional are betrothals?" OnePeterFive, Mrach 1, 2022. https://onepeterfive.com/how-traditional-are-betrothals/
 
-[^2]: France: https://archive.org/details/tojointogetherri0000stev/page/204/mode/2up?q=%22veni+creator%22
-Poland: https://www.latinmasswedding.com/post/polish-customs/
-Poland: https://books.google.com/books?id=wM3CDwAAQBAJ&pg=PT288&lpg=PT288&dq=veni+creator+wedding+mass&source=bl&ots=UxnyaMg3R0&sig=ACfU3U1wpaju42hIiXNncl1SX-pN2vm5CQ&hl=en&sa=X&ved=2ahUKEwjuvqXCu4j6AhWuFFkFHScOBHkQ6AF6BAgIEAM#v=onepage&q=veni%20creator%20wedding%20mass&f=false
+[^2]: From France: Kenneth Stevenson. _To join together: the rite of marriage_.  New York : Pueblo Pub. Co, 1987. https://archive.org/details/tojointogetherri0000stev/page/204/mode/2up?q=%22veni+creator%22. From Poland: See Henryk Sienkiewicz's novel _Children of the Soil_ and a submission to Latin Mass Weddings from a Polish reader: "Wedding Customs from Poland," June 5, 2022. https://www.latinmasswedding.com/post/polish-customs/
 
-[^3]: McNabb, Vincent. “VENI CREATOR SPIRITUS.” Life of the Spirit (1946-1964) 2, no. 23 (1948): 473–78. http://www.jstor.org/stable/43703019.
+[^3]: Usuarium has a collection of medieval manuscripts highly organized in many different ways. Here is a list of manuscripts with the Veni Creator used in the context of laying a foundation stone: https://usuarium.elte.hu/indexlabel/51/view. 
 
-[^4]: https://catholicsentinel.org/Content/News/Local/Article/Ancient-rites-Christianized-by-church/2/35/20553 
+[^4]: McNabb, Vincent. “Veni creator spiritus.” Life of the Spirit (1946-1964) 2, no. 23 (1948): 473–78. http://www.jstor.org/stable/43703019.
 
-[^5]: https://www.latinmasswedding.com/post/preface/
+[^5]: "Ancient rites Christianized by Church." Catholic Sentinel, February 12, 2013. https://web.archive.org/web/20180801192603/https://catholicsentinel.org/Content/News/Local/Article/Ancient-rites-Christianized-by-church/2/35/20553
 
-[^6]: The holy sacrifice of the mass; dogmatically, liturgically and ascetically explained
+[^6]: "A New-Old Preface for Latin Mass Weddings." Latin Mass Wedding, March 26, 2020. https://www.latinmasswedding.com/post/preface/
 
-[^7]: https://www.latinmasswedding.com/velatio-nuptialis/
+[^7]: Gihr, Nikolaus. 1949. The Holy Sacrifice of the Mass: Dogmatically Liturgically and Ascetically Explained. St. Louis: B. Herder.
 
-[^8]: https://udayton.edu/imri/mary/w/weddings-and-flowers-to-mary.php
+[^8]: "Velatio Nuptialis." Latin Mass Wedding. https://www.latinmasswedding.com/velatio-nuptialis/
 
-[^9]: https://aleteia.org/2017/08/15/5-flowers-connected-to-the-virgin-mary/ ; https://www.ncregister.com/features/a-garden-for-mary-marian-flowers-foster-love-for-the-blessed-mother ; https://udayton.edu/imri/mary/s/saint-joseph-lily.php#:~:text=A%3A%20The%20lily%20is%20associated,lily%22%20is%20applied%20to%20St
+[^9]: "Weddings and Flowers to Mary." University of Dayton. https://udayton.edu/imri/mary/w/weddings-and-flowers-to-mary.php
 
-[^10]: https://udayton.edu/imri/mary/m/mary-garden-university-of-dayton.php
+[^10]: Kosloski, Philip. "5 Flowers connected to the Virgin Mary." Aleteia, August 15, 2017. https://aleteia.org/2017/08/15/5-flowers-connected-to-the-virgin-mary/. See also: Smith, Amy. "A Garden for Mary: Marian Flowers Foster Love for the Blessed Mother." NC Register, June 12, 2021. https://www.ncregister.com/features/a-garden-for-mary-marian-flowers-foster-love-for-the-blessed-mother. See also: "Saint Joseph Lily." University of Dayton. https://udayton.edu/imri/mary/s/saint-joseph-lily.php
 
-[^11]: https://www.latinmasswedding.com/benedictio-thalami/
+[^11]: "Mary Garden: University of Dayton." University of Dayton. https://udayton.edu/imri/mary/m/mary-garden-university-of-dayton.php
 
-[^12]: http://catholicphilly.com/2012/09/catholic-spirituality/whats-with-the-unity-candle-in-a-catholic-wedding/
+[^12]: "Benedictio Thalami." Latin Mass Wedding. https://www.latinmasswedding.com/benedictio-thalami/
+
+[^13]: Father Kenneth Doyle. "What’s with the unity candle in a Catholic wedding?" Catholic Philly/Catholic News Service, September 21, 2012. http://catholicphilly.com/2012/09/catholic-spirituality/whats-with-the-unity-candle-in-a-catholic-wedding/
