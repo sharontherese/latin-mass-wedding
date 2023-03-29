@@ -48,6 +48,8 @@ Betrothals have surged in popularity lately, and are a delightful custom with a 
 
 # 2. Veni Creator 
 
+![](/uploads/customs/2.veni.jpg)
+
 Caption: chant notation for _Veni Creator Spiritus_
 
 The _Missa pro Sponso_ (introit: _Deus Israel conjugavit_) was set down as the votive Mass for weddings by the Council of Trent. Before Trent, it was common to have slight regional variations in the readings. For example, medieval England sometimes used the Mass of the Holy Trinity for wedding Masses. In the same vein, some regions[^2] sang the Veni Creator during the wedding rites. The _Veni Creator_ is also sung when laying the foundation stone for a church - a fitting image for marriage[^3]. One of the oldest and most beloved hymns, made more famous by the Carmelites of Compiegne singing when they went to their execution, there is a lifetime’s worth of meditation material when thinking about the Holy Ghost and marriage. 
