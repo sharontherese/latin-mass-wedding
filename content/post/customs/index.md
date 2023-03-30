@@ -88,7 +88,7 @@ Caption: _Ordo Administrandi Sacramenta_ (1836)
 
 Caption: _Agenda Bambergen_ (1587)
 
-You can see the hand clasp or hand fast in the Byzantine rite, at the royal wedding of Charles and Kate, and in the film AMADEUS. 
+You can see the hand clasp or hand fast in the Byzantine rite, at the royal wedding of William and Kate, and in the film AMADEUS. 
 
 # 5. Nuptial Preface
 
