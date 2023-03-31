@@ -187,7 +187,7 @@ main_menu = {align = "l", show_logo = true}
 ## Marketing
 ############################
 [marketing.analytics]
-google_analytics = "G-CQW2NYT0KH"
+# google_analytics = "G-CQW2NYT0KH"
 google_tag_manager = "G-CQW2NYT0KH"
 
 # Link authors to their profile page? (true/false)
