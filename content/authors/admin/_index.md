@@ -11,14 +11,6 @@ email: ''
 <html prefix="og: http://ogp.me/ns#">
 <head>
   
-  <!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-TZRL2CP');</script>
-<!-- End Google Tag Manager -->
-  
 <title>Latin Mass Wedding</title>
 <meta property="og:title" content="Latin Mass Wedding" />
 <meta property="og:type" content="website" />
@@ -46,8 +38,3 @@ Contact your local inquisition tribunal, or, for the more forgiving, contact me 
 A sister site to [Latin Mass Funeral](https://www.latinmassfuneral.com/) and [Latin Mass Baptism](https://www.latinmassbaptism.com/).
 
 \-Sharon
-
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TZRL2CP"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
