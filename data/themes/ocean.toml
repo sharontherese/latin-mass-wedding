@@ -2,8 +2,7 @@
 name = "ocean"
 
 # Is theme light or dark?
-[light]
-light = "true"
+light = true
 
 # Primary (URL color)
 primary = "#0645AD"
