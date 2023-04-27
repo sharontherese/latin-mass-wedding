@@ -30,11 +30,6 @@ This website provides information for those who would like a Latin Mass wedding,
 
 Wedding photography provided by Africa Schaumann.  
 
-Do you have a resource to recommend?   
-See an error or a broken link?   
-Spot some liturgical heresy?   
-Contact your local inquisition tribunal, or, for the more forgiving, contact me using the form below.
+Learn more about traditional Catholic sacraments:
 
-A sister site to [Latin Mass Funeral](https://www.latinmassfuneral.com/) and [Latin Mass Baptism](https://www.latinmassbaptism.com/).
-
-\-Sharon
+[Latin Mass Baptism](https://www.latinmassbaptism.com/) | [Latin Mass Confirmation](https://www.latinmassconfirmation.com/) | [Latin Mass Funeral](https://www.latinmassfuneral.com/) | [Latin Mass Wedding](https://www.latinmasswedding.com/)
