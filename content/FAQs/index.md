@@ -84,7 +84,7 @@ Feel free to reach out to me. I don't know everything, but I can at least point 
 
 [^3]: https://www.latinmassdir.org/; http://www.ecclesiadei.org/masses.cfm
 
-[^4]: http://www.newliturgicalmovement.org/; https://musicasacra.com/); http://wdtprs.com/blog/
+[^4]: http://www.newliturgicalmovement.org/; https://musicasacra.com/; http://wdtprs.com/blog/
 
 [^5]: Carota, Father. “Traditional Catholic Wedding Ceremony vs New Wedding Ceremony.” Traditional Catholic Priest (blog), September 4, 2014. https://web.archive.org/web/20220314022552/http://www.traditionalcatholicpriest.com/2014/09/04/traditional-catholic-wedding-ceremony-vs-new-wedding-ceremony/ 
 
