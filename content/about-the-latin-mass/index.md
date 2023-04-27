@@ -7,11 +7,10 @@ aliases = [
 ]
 
 +++
-![](/uploads/_MG_0518-min.JPG)
 
 # About
 
-These are a scattershot collection of resources on and about the _Latin Mass_. They range from missals to books to blog posts to pamphlets. As a place to start, below is the text that I wrote to include in my wedding program. You are welcome to reuse it, if you show attribution:
+This is a small collection of resources on and about the Latin Mass. They range from missals to books to blog posts to pamphlets. As a place to start, below is the text that I wrote to include in my wedding program. You are welcome to reuse it, if you show attribution:
 
 > What you will see today is a wedding service, followed by an older form of the Catholic mass that was universally celebrated until the Second Vatican Council. The key differences are the language, the order of events, and the music.
 >
@@ -25,35 +24,20 @@ These are a scattershot collection of resources on and about the _Latin Mass_. T
 >
 > What we have chosen are the musical settings for the mass parts, and several motets and organ pieces. The Catholic Church has a beautiful, ancient, and diverse patrimony of sacred music, and we have done our best to adorn our wedding mass with the most appropriate blend of Gregorian chant and polyphony.
 
-# Introduction to the Latin Mass
+# Mass resources
 
-“**Introduction to the Traditional Latin (Tridentine) Mass.**” In _St. Joseph’s Daily Missal_, 1959. http://www.the-latinmass.com/id7.html
+“Introduction to the Traditional Latin Mass.” _Fish Eaters_ (blog). https://www.fisheaters.com/TLMintroduction.html
 
-“**Introduction to the Traditional Latin Mass.**” _Fish Eaters_ (blog). Accessed July 29, 2019. https://www.fisheaters.com/TLMintroduction.html
+“Tridentine Mass Introduction For Newcomers.” _EXSULTATE IUSTI IN DOMINO Mother of Divine Mercy Parish Tridentine Community Blog_ (blog), December 21, 2011. https://web.archive.org/web/20230427020049/https://stjosaphat.wordpress.com/tridentine-mass-introduction-for-newcomers/
 
-“**NEWCOMERS TO THE TRADITIONAL LATIN MASS: Frequently Asked Questions.**” _Sancta Missa_ (blog). Accessed July 29, 2019. https://sanctamissa.org/en/faq/newcomers-to-the-traditional-latin-mass.html
+Gueranger, Prosper. _Explanation of the Prayers and Ceremonies of Holy Mass_, 1885. https://www.fisheaters.com/srpdf/xexplanation-of-the-prayers-and-ceremonies-gueranger.pdf
 
-“**Tridentine Mass Introduction For Newcomers.**” _EXSULTATE IUSTI IN DOMINO Mother of Divine Mercy Parish Tridentine Community Blog_ (blog), December 21, 2011. https://stjosaphat.wordpress.com/tridentine-mass-introduction-for-newcomers/
+“How to Celebrate the Traditional Latin Mass.” Latin Liturgy Association. http://www.latinliturgy.com/howtotlm.html
 
-# More Latin Mass resources
+# Wedding resources
 
-Fish Eaters. “**Traditional Catholicism 101: A Brief Primer.**” Accessed June 3, 2019. https://www.fisheaters.com/traditionalcatholicism.html.
+“How to Plan a Traditional Latin Mass Wedding.” _Our Everyday Life_ (blog). https://oureverydaylife.com/how-to-plan-a-traditional-latin-mass-wedding-12157102.html
 
-braniac. “**How to Plan a Traditional Latin Mass Wedding.”** _Our Everyday Life_ (blog). Accessed June 3, 2019. https://oureverydaylife.com/how-to-plan-a-traditional-latin-mass-wedding-12157102.html
+“Traditional Catholic Wedding Ceremony Vs New Wedding Ceremony.” _Traditional Catholic Priest_ (blog), September 4, 2014. https://web.archive.org/web/20220314022552/http://www.traditionalcatholicpriest.com/2014/09/04/traditional-catholic-wedding-ceremony-vs-new-wedding-ceremony/
 
-Carota, Father. “**Traditional Catholic Wedding Ceremony Vs New Wedding Ceremony.**” _Traditional Catholic Priest_ (blog), September 4, 2014. http://www.traditionalcatholicpriest.com/2014/09/04/traditional-catholic-wedding-ceremony-vs-new-wedding-ceremony/
-
-Fortescue, Adrian. “**Nuptial Mass.**” In _The Catholic Encyclopedia_. Vol. 10. New York: Robert Appleton Company, 1911. https://sanctamissa.org/en/resources/articles/nuptial-mass-fortescue.html
-
-Gueranger, Prosper. **_Explanation of the Prayers and Ceremonies of Holy Mass_**, 1885. https://sanctamissa.org/en/spirituality/explanation-of-the-prayers-and-ceremonies-gueranger.pdf
-
-Holy Mass And More. “**The Seven Sacraments and Their Liturgies, Part 7: Marriage**,” August 23, 2018. https://www.holymassandmore.org/2018/08/the-seven-sacraments-and-their_23.html.
-
-Jackson, J.W. **_Nothing Superfluous_**. Redbrush, 2016. https://books.google.com/books?id=dBnZtAEACAAJ
-
-Latin Liturgy Association. “**How to Celebrate the Traditional Latin Mass.**” Latin Liturgy Association. Accessed June 4, 2019. http://www.latinliturgy.com/howtotlm.html
-
-———. “**Texts for the Latin Mass (Both Forms).**” Latin Liturgy Association. Accessed June 4, 2019. http://www.latinliturgy.com/lmtexts.html
-
-Regina Caeli Parish. **_Low Mass, Sung Mass, High Mass, Solemn Mass_**_._ June 12, 2013.[https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf
-
+Fortescue, Adrian. “Nuptial Mass.” In _The Catholic Encyclopedia_. Vol. 10. New York: Robert Appleton Company, 1911. https://www.newadvent.org/cathen/10005a.htm
