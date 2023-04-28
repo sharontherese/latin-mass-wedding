@@ -9,7 +9,9 @@ _Blessing of a bedchamber, by Bernard Picart_
 
 # About
 
-The _benedictio thalami_, or the blessing of the bedchamber, is a prayer found in the Roman Ritual for the wedding bed.
+The _benedictio thalami_, or the blessing of the bedchamber, is a prayer for the wedding bed. It can be found in the Rituale Romanum.
+
+Read more about the history of the blessing below.[^1]
 
 # Benedictio thalami 
 
@@ -39,9 +41,5 @@ Let us pray. Lord, bless this bridal chamber, that those who share it may abide 
 
 # Sources 
 
-[^1]: Catholic Church. Rituale Romanum. 1962.
-
-[^2]: Catholic Church. Roman Ritual. 1962.
-
-[^3]: Radle, Gabriel. "Bishops Blessing the Bridal Bedchamber in the Early Middle Ages: Reconsidering the Western Evidence." Medium Aevum 87, no. 2 (2018): 219-38. https://www.jstor.org/stable/26889816.
+[^1]: Radle, Gabriel. "Bishops Blessing the Bridal Bedchamber in the Early Middle Ages: Reconsidering the Western Evidence." Medium Aevum 87, no. 2 (2018): 219-38. https://www.jstor.org/stable/26889816.
 
