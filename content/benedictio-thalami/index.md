@@ -39,9 +39,9 @@ Let us pray. Lord, bless this bridal chamber, that those who share it may abide 
 
 # Sources 
 
-Catholic Church. Rituale Romanum. 1962.
+[1]: Catholic Church. Rituale Romanum. 1962.
 
-Catholic Church. Roman Ritual. 1962.
+[2]: Catholic Church. Roman Ritual. 1962.
 
-Radle, Gabriel. "Bishops Blessing the Bridal Bedchamber in the Early Middle Ages: Reconsidering the Western Evidence." Medium Aevum 87, no. 2 (2018): 219-38. https://www.jstor.org/stable/26889816.
+[3]: Radle, Gabriel. "Bishops Blessing the Bridal Bedchamber in the Early Middle Ages: Reconsidering the Western Evidence." Medium Aevum 87, no. 2 (2018): 219-38. https://www.jstor.org/stable/26889816.
 
