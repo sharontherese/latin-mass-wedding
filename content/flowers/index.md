@@ -62,7 +62,7 @@ I wanted white and blue flowers for my wedding bouquet, and I wanted to weave in
 
 My bridal bouquet (description from my wedding program):
 
-> The **cornflower** is one of Germany’s national symbols. They are associated with faithfulness and the Habsburg monarchy. The last ruling Habsburgs, Karl and Zita, are on their way to sainthood, and are two of the only (almost) saints to be venerated specifically for the vocation of marriage. **Rue** is the national herb of Lithuania, and commonly used by Lithuanian brides for hair wreaths. During the Medieval Era, it became popular to dedicate a garden to Mary, and over time, numerous plants became associated with her. The flowers we have chosen stem from this tradition. **Roses** and **Sweet Williams** both have a Marian connection, and a connection to the bride’s and groom’s names (Rose of Sharon, and William). **Anemones** have an historical connection to both Mary and the Crusades. (Post-wedding note: I was unable to get sweet williams, so I added daises.)[^14]
+> The **cornflower** is one of Germany’s national symbols. They are associated with faithfulness and the Habsburg monarchy. The last ruling Habsburgs, Karl and Zita, are on their way to sainthood, and are two of the only (almost) saints to be venerated specifically for the vocation of marriage. **Rue** is the national herb of Lithuania, and commonly used by Lithuanian brides for hair wreaths. During the Medieval Era, it became popular to dedicate a garden to Mary, and over time, numerous plants became associated with her. The flowers we have chosen stem from this tradition. **Roses** and **Sweet Williams** both have a Marian connection, and a connection to the bride’s and groom’s names (Rose of Sharon, and William). **Anemones** have an historical connection to both Mary and the Crusades. (Post-wedding note: I was unable to get sweet williams, so I added daises.)[^14] [^15] [^16] [^17]
 
 # Sources 
 
@@ -84,7 +84,7 @@ My bridal bouquet (description from my wedding program):
 
 [^9]: Gemminger, Louis. Flowers of Mary, 1858. https://www.forgottenbooks.com/en/books/FlowersofMary_10789006.
 
-[^10]: **Fleurs de Marie-Jacqueline: Catholic Church flower lore, film reviews, and more**. (Blog).  http://the-pious-spinster.blogspot.com/.
+[^10]: Fleurs de Marie-Jacqueline: Catholic Church flower lore, film reviews, and more. (Blog).  http://the-pious-spinster.blogspot.com/.
 
 [^11]: Wells, D., and I. Patterson. _100 Flowers and How They Got Their Names_. Algonquin Books, 1997.
 
@@ -92,4 +92,10 @@ My bridal bouquet (description from my wedding program):
 
 [^13]: Tolle, Leon J. Floral Art for Religious Events; a Definitive Manual of Tradition and Design for Worship, Weddings, Funerals, and Other Occasions. New York: Hearthside Press, 1969.
 
-[^14]: Kandeler, Riklef, and Wolfram R. Ullrich. “Symbolism of Plants: Examples from European-Mediterranean Culture Presented with Biology and History of Art SEPTEMBER: Cornflower.” _Journal of Experimental Botany_, vol. 60, no. 12, Aug. 2009, pp. 3297–99, doi:10.1093/jxb/erp247; Giloi, E. _Monarchy, Myth, and Material Culture in Germany 1750-1950_. Cambridge University Press, 2011; Dawson, John William. _Egypt and Syria: Their Physical Features in Relation to Bible History_. London: The Religious Tract Society, 1885, http://archive.org/details/egyptandsyriathe00dawsuoft; Johnson, Ben. “Michaelmas, 29th September, and the Customs and Traditions Associated with Michaelmas Day.” _Historic UK_, https://www.historic-uk.com/CultureUK/Michaelmas
+[^14]: Kandeler, Riklef, and Wolfram R. Ullrich. “Symbolism of Plants: Examples from European-Mediterranean Culture Presented with Biology and History of Art SEPTEMBER: Cornflower.” _Journal of Experimental Botany_, vol. 60, no. 12, Aug. 2009, pp. 3297–99, doi:10.1093/jxb/erp247
+
+[^15]: Giloi, E. _Monarchy, Myth, and Material Culture in Germany 1750-1950_. Cambridge University Press, 2011.
+
+[^16]: Dawson, John William. _Egypt and Syria: Their Physical Features in Relation to Bible History_. London: The Religious Tract Society, 1885, http://archive.org/details/egyptandsyriathe00dawsuoft
+
+[^17]: Johnson, Ben. “Michaelmas, 29th September, and the Customs and Traditions Associated with Michaelmas Day.” _Historic UK_, https://www.historic-uk.com/CultureUK/Michaelmas
