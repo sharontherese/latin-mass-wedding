@@ -79,6 +79,8 @@ Lelen, J. M. _Bride's Manual : A Manual of Catholic Devotions with Mass for Marr
 
 # Dating and Engagement
 
+"Marriage Preparation Program." CatechismClass. https://www.catechismclass.com/shop/package_detail.php?id=23.
+
 Relyea, Father Isaac Mary. _Honorable Courtship: The Way to a Happy Marriage._ Fatima Youth Conference: Cleveland, OH: The Fatima Center, 2019. https://www.youtube.com/watch?v=3LcQSZ621SQ
 
 Solaro Della Margherita, Giulia, and Charles Constantine Pise. _The Catholic Bride; or Moral Letters Addressed to Julia, Daughter of Count Solaro Della Margarita, on the Occasion of Her Marriage with Count E. Demorri Di Castelmagno._ Translated from the Italian, by C. C. Pise. Baltimore, 1868. http://archive.org/details/TheCatholicBride.
