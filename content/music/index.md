@@ -12,149 +12,110 @@ _Detail of an historiated initial 'C'(antate Domino), at the beginning of Psalm 
 
 # About
 
-The ideal music _setting_ for the Mass is _gregorian chant_, followed by _polyphony_. In a sung _Latin Mass_, or _high Mass_, what is sung are the _propers_ and _ordinaries_. Historically, hymns were discouraged in the Mass. Your Latin Mass wedding music will depend mostly on the musical resources available to your church.
+Your wedding music choices will depend on the type of Mass you're having, and the resources available at your church.
 
-Sancta Missa provides a 4-page Q&A booklet on Nuptial Mass music: 
+In a low Mass, the Mass is not sung. You may have the option to have hymns in a few places during the Mass. 
 
-Haynes, S.J.C., Reverend Scott A. “**Guidelines for Liturgical Services According to the 1962 Missale Romanum: Music for Nuptial High Mass**.” Biretta Books, 2007. https://sanctamissa.org/en/music/musical-guidelines-for-the-traditional-roman-rite/liturgical-services-music-for-the-nuptial-high-mass.pdf.
+In a high mass, the Mass is sung. You may have the option to choose the settings of some of the music (gregorian chant or polyphony), and as above, you may have the option to have some hymns.
 
-Here is how our wedding Mass music looked:
+Do bear in mind that your wedding day is not primarily a music concert. Try to choose music that complements, rather than overwhelms, the Mass and the singers you have.
 
-> **Prelude:**  
-> _Veni Creator Spiritus_, Rabanus Maurus (gregorian chant)  
-> _Alma Redemptoris_, Giovanni Pierluigi da Palestrina (polyphony)
->
-> **Procession:**  
-> _Te Deum_, Marc-Antoine Charpentier (organ)
->
-> **Propers:**  
-> all gregorian chant
->
-> **Ordinaries:**  
-> Mass setting VIII, Missa de Angelis (gregorian chant)
->
-> **Offertory motet:**  
-> Psalm 117 (gregorian chant)
->
-> **Communion motet:**  
-> _Sicut Cervus_, Giovanni Pierluigi da Palestrina (polyphony)  
-> _Te Deum_, Nicetas of Remesiana (gregorian chant)
->
-> **Presentation of flowers to Mary:**  
-> _Ave Verum Corpus_, Wolfgang Amadeus Mozart (polyphony)
->
-> **Recessional:**  
-> _O God Beyond All Praising_, Michael Perry (hymn)  
-> _Organ Symphony No. 5, Toccata_, Charles-Marie Widor (organ)
+# Choosing settings for the Propers
 
-# Propers
+The Propers are the texts of the Mass specific to that Mass, such as the Introit, Alleluia, Offertory, and Communion.
 
-![](/uploads/introit.png)
+The gregorian chant setting for the nuptial propers can be found in a few places online:
 
-The _propers_ are the Introit, Gradual, Tract, Alleluia, Offertory, and Communion. 
+* Corpus Christi Watershed. http://www.ccwatershed.org/goupil/ (Scroll down to "Nuptial Mass")
+* Institute of Christ the King Sovereign Priest. http://www.institute-christ-king.org/resources/sacred-music#votive (Scroll down to "Votive Masses")
+* Windsor Tridentine Mass Community. http://www.windsorlatinmass.org/latin/chant.htm (Scroll down to "Nuptial Mass")
 
-## Gregorian chant settings
+There are very few polyphonic settings of the nuptial propers. They are difficult to find, and may require a competent schola with plenty of rehearsal time. I am always on the hunt for polyphonic nuptial propers. See my findings to date [here](https://docs.google.com/spreadsheets/d/1NQwTRTvyMOBT_CMDE60Y52wk-QyPfnfaEH-C8vNq1HU/edit?usp=sharing). 
 
-“**Gregorian Propers**.” Corpus Christi Watershed. Accessed July 29, 2019. http://www.ccwatershed.org/goupil/ \[Scroll down to "Nuptial Mass"\]
+# Choosing settings for the Ordinary
 
-“**Sacred Music**.” Institute of Christ the King Sovereign Priest. Accessed July 31, 2019. http://www.institute-christ-king.org/resources/sacred-music#votive \[Scroll down to "Votive Masses"\]
+The Ordinary of the Mass is any Mass text that is always the same, such as the Kyrie, Gloria, Sanctus, and Agnus Dei (the Credo is not included in the wedding Mass). There is an optional Preface for the wedding Mass as well.
 
-Windsor Tridentine Mass Community. “**Chant Sheets for the Orations and Readings**.” Accessed November 27, 2019. http://www.windsorlatinmass.org/latin/chant.htm \[Scroll down to "Nuptial Mass"\]
+This is where you may have the most freedom. There are many gregorian settings, and countless polyphonic settings. 
 
-## Polyphonic settings 
+The gregorian settings can be found here: 
 
-Polyphonic settings of the nuptial propers are one of the most difficult types of wedding music to find. The only concrete information on such settings I have found is in the Musica Sacra forums. 
+* Corpus Christi Watershed. http://www.ccwatershed.org/kyriale/
 
-“**Needed: SATB Polyphony for Wedding, One Voice per Part**.” MusicaSacra Church Music Forum (blog). Accessed August 6, 2019. https://forum.musicasacra.com/forum/discussion/comment/44797#Comment_44797.
+Here are a few popular polyphonic settings:
 
-“**Polyphonic Nuptial Propers**.” MusicaSacra Church Music Forum (blog). Accessed August 6, 2019. https://forum.musicasacra.com/forum/discussion/12421/polyphonic-nuptial-propers/p1.
-<br>
-<br>
-# Ordinaries
+* Mozart, "Missa brevis in G major"
+* Rusca, Francesco Spagnoli. “Missa Brevis.”
+* Haller, Michael. “Messe Secunda, Op. 5, No. 2.” 
+* Victoria, Tomas Luis de. “Missa Dominicalis.” 
+* Dalitz, Christoph. “Missa Tribus Vocibus.” 
 
-![](/uploads/kyrie.png)
-
-The _ordinaries_ are the Kyrie, Gloria, Sanctus, and Agnus Dei (the Credo is not included in the wedding Mass). There is an optional Preface for the wedding Mass as well.
-
-## Gregorian chant settings
-
-“**St. Antoine Daniel Kyriale**.” Corpus Christi Watershed. Accessed July 29, 2019. [http://www.ccwatershed.org/kyriale/](http://www.ccwatershed.org/kyriale/ "http://www.ccwatershed.org/kyriale/"). 
-
-## Polyphonic settings
-
-Unlike the paucity of polyphonic propers, there is an abundance of options for settings for the ordinaries. Below are some of the more famous settings, renowned for beauty and/or simplicity. 
-
-Rusca, Francesco Spagnoli. “Missa Brevis.” IMSLP Petrucci Music Library. Accessed August 6, 2019. https://imslp.org/wiki/Missa_Brevis_(Rusca%2C_Francesco_Spagnoli). 11 pages. G major. Baroque.
-
-Haller, Michael. “Messe Secunda, Op. 5, No. 2.” IMSLP Petrucci Music Library. Accessed August 6, 2019. https://imslp.org/wiki/Mass_No.2%2C_Op.5_(Haller%2C_Michael). 17 pages. A Major. Romantic.
-
-Victoria, Tomas Luis de. “Missa Dominicalis.” ChoralWiki. Accessed August 6, 2019. http://www2.cpdl.org/wiki/index.php/Missa_Dominicalis_(Tom%C3%A1s_Luis_de_Victoria).
-
-Dalitz, Christoph. “Missa Tribus Vocibus.” ChoralWiki. Accessed August 6, 2019. http://www1.cpdl.org/wiki/index.php/Missa_tribus_vocibus_(Christoph_Dalitz). 12 pages.
-
-## Praefatio de Nuptiis 
-
-The Praefatio de Nuptiis is a new preface option (but a very old preface) for the wedding Mass. I wrote about it [here](https://www.latinmasswedding.com/post/preface/). 
-
-The excellent site Gregobase has provided square notation sheet music for the chanted version of this preface: https://gregobase.selapa.net/chant.php?id=10469
-
-<br>
-<br>
-# Other Sacred Music
-
-![](/uploads/almachorus.jpg)
-_Alma chorus domini in the The Winchester Troper, Cambridge, Corpus Christi College, MS 473: 129r_
+# Choosing other sacred music
 
 Below are a few popular choices for hymns, motets, and chants for the wedding Mass. Many of these texts have more than one setting. If you need inspiration, consider the background of you and your future spouse (French, Italian, Irish, etc.), or the feasts on/near your wedding day. If your wedding day is near, for example, St. Thomas Aquinas' feast day, you could choose one of the many songs he composed, or a song centered on the Eucharist, a common theme in St. Thomas' works.
 
-## Sequences 
-
-A sequence is a text of the Mass sung before the Gospel. Before the Council of Trent, there were hundreds of sequences for various Masses and feasts. The Tridentine reforms winnowed the sequences in the Roman Missal to 4 (now 5), the most famous of which is likely the _Dies Irae._ The [Sarum Use](/other-rites-and-languages/) of the Roman Rite used the sequence _Alma Chorus Domini_ for its nuptial Masses (which were typically the Mass of the Trinity). Below are links to a PDF of the Latin and the English sheet music. 
+* Nuptial Blessing: the Nuptial Blessing may be chanted. Read more [here](/nuptial-blessing/)
+* Nuptial Preface: the Nuptial Preface may be chanted. Read more [here](post/preface/)  and see sheet music at [Gregobase](https://gregobase.selapa.net/chant.php?id=10469)
+* Alma Chorus Domini: The [Sarum Use](/other-rites-and-languages/) of the Roman Rite used the sequence _Alma Chorus Domini_ for its nuptial Masses (which were typically the Mass of the Trinity). Below are links to a PDF of the Latin and the English sheet music. 
+* A Marian hymn while giving flowers to Mary
 
 * {{% staticref "files/alma-chorus.pdf" %}}Latin sheet music for the Sarum nuptial sequence _Alma Chorus Domini_ (PDF){{% /staticref %}} (Reposted with permission from the Gregorian Institute of Canada)
 * [Chantblog's post](http://chantblog.blogspot.com/2013/11/the-hymns-at-lesser-hours-compline-iii.html) on _Alma Chorus Domini_, which includes some history, and sheet music for an English translation 
 
-## Marian chants
+# More sources about Sacred Music 
 
-* Alma Redemptoris Mater (Advent through February 1) 
-* Ave, Regina Caelorum (February 2 through Good Friday)
-* Regina Caeli (during the season of Easter)
-* Salve Regina (after Pentecost)
-* Ave maris stella
+Pope Pius X. “Tra Le Sollecitudini (Instruction on Sacred Music),” 1903. 
 
-## Composers 
+Henry, Hugh. “Music of the Mass.” In _The Catholic Encyclopedia_. Vol. 10. New York: Robert Appleton Company, 1911. http://www.newadvent.org/cathen/10001a.htm
 
-The following composers have written many sacred music pieces: Giovanni Pierluigi da Palestrina, Franz Schubert, Tomas Luis de Victoria, Orlando de Lassus, Josquin, Tommaso de Celano, Thomas Tallis, Hildegard of Bingen, Heinrich Ignaz Franz Biber, Anton Bruckner, Edward Elgar, Charles Gounod, Wolfgang Amadeus Mozart, Giovanni Battista Pergolesi
+Haynes, S.J.C., Reverend Scott A. “Guidelines for Liturgical Services According to the 1962 Missale Romanum: Music for Nuptial High Mass.” Biretta Books, 2007. https://web.archive.org/web/20151010174657/http://www.sanctamissa.org/en/music/musical-guidelines-for-the-traditional-roman-rite/liturgical-services-music-for-the-nuptial-high-mass.pdf
 
-Below are a few favorites from that list: 
+Gastoue, A. “The ‘Missa de Angelis.’” Translated by Albert Gingras. _The Caecilia_, December 1933, 375–78.
 
-* Ave verum Corpus, Mozart
-* Ave verum, William Byrd
-* Ave maria, Schubert
-* Sicut cervus, Palestrina 
-* If ye love me, Thomas Tallis
-<br>
-<br>
-# Sources about Sacred Music 
+Mills, B. Andrew. _Psallite Sapienter: A Musician’s Practical Guide to the 1962 Missal_. Association of America, 2008.
 
-Pope Pius X. “**Tra Le Sollecitudini (Instruction on Sacred Music),**” 1903. https://adoremus.org/1903/11/22/tra-le-sollecitudini/
+Sullivan, Roseanne T. “Propers of the Mass vs. the Four Hymn Sandwich.” _Homiletic and Pastoral Review_, 2016. https://web.archive.org/web/20221130203357/https://www.hprweb.com/2016/01/propers-of-the-mass-versus-the-four-hymn-sandwich/
 
-Regina Caeli Parish. **_Low Mass, Sung Mass, High Mass, Solemn Mass_**_._ June 12, 2013. https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf
+“Twenty-Four Questions on Sacred Music.” Church Music Association of America. https://web.archive.org/web/20230128010524/https://musicasacra.com/about-cmaa/faq/
 
-Henry, Hugh. “**Music of the Mass.**” In _The Catholic Encyclopedia_. Vol. 10. New York: Robert Appleton Company, 1911. http://www.newadvent.org/cathen/10001a.htm
+“What Is Gregorian Chant?” GIA Publications. https://web.archive.org/web/20220122082351/https://www.giamusic.com/sacred_music/chant_what_is.cfm
 
-Gastoue, A. “**The ‘Missa de Angelis.’**” Translated by Albert Gingras. _The Caecilia_, December 1933, 375–78. [https://media.musicasacra.com/publications/caecilia/caecilia_v60n12_1933_12.pdf
+# Our wedding Mass music 
 
-Mills, B. Andrew. **Psallite Sapienter: A Musician’s Practical Guide to the 1962 Missal**. Association of America, 2008.
+## Prelude
 
-Sullivan, Roseanne T. “**Propers of the Mass vs. the Four Hymn Sandwich.**” _Homiletic and Pastoral Review_, 2016. https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html
+_Veni Creator Spiritus_, Rabanus Maurus (gregorian chant)  
 
-“**Twenty-Four Questions on Sacred Music.**” Church Music Association of America. Accessed June 3, 2019. https://musicasacra.com/about-cmaa/faq
+_Alma Redemptoris_, Giovanni Pierluigi da Palestrina (polyphony)
 
-“**What Is Gregorian Chant?**” GIA Publications. Accessed June 3, 2019. https://www.giamusic.com/sacred_music/chant_what_is.cfm
+## Procession
 
-Gattozzi, Bibiana. “**Catholic Artistic Piety in a Motet.**” _The Angelus Online_ (blog). Accessed June 3, 2019. http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2667
+_Te Deum_, Marc-Antoine Charpentier (organ)
 
-David Friel, “**A Mini History of the Sequences**,” Corpus Christi Watershed, May 24, 2015, https://www.ccwatershed.org/2015/05/24/mini-history-sequences/.
+## Propers
 
-Bls, “The Hymns at the Lesser Hours: Compline III,” Chantblog (blog), November 6, 2013, http://chantblog.blogspot.com/2013/11/the-hymns-at-lesser-hours-compline-iii.html.
+_Missa pro sponsis_ (gregorian chant)
+
+## Ordinary
+
+_Missa de angelis_ (gregorian chant)
+
+## Offertory motet
+
+Psalm 117 (gregorian chant)
+
+## Communion motet
+
+_Sicut Cervus_, Giovanni Pierluigi da Palestrina (polyphony)  
+
+_Te Deum_, Nicetas of Remesiana (gregorian chant)
+
+## Presentation of flowers to Mary
+
+_Ave Verum Corpus_, Wolfgang Amadeus Mozart (polyphony)
+
+## Recessional
+
+_O God Beyond All Praising_ (hymn)  
+
+_Organ Symphony No. 5, Toccata_, Charles-Marie Widor (organ)
