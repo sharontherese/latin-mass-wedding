@@ -56,11 +56,8 @@ Below are a few popular choices for hymns, motets, and chants for the wedding Ma
 
 * Nuptial Blessing: the Nuptial Blessing may be chanted. Read more [here](/nuptial-blessing/)
 * Nuptial Preface: the Nuptial Preface may be chanted. Read more [here](post/preface/)  and see sheet music at [Gregobase](https://gregobase.selapa.net/chant.php?id=10469)
-* Alma Chorus Domini: The [Sarum Use](/other-rites-and-languages/) of the Roman Rite used the sequence _Alma Chorus Domini_ for its nuptial Masses (which were typically the Mass of the Trinity). Below are links to a PDF of the Latin and the English sheet music. 
+* Alma Chorus Domini: The [Sarum Use](/other-rites-and-languages/) of the Roman Rite used the sequence _Alma Chorus Domini_ for its nuptial Masses. {{% staticref "files/alma-chorus.pdf" %}}Here is Latin sheet music for the Sarum nuptial sequence _Alma Chorus Domini_ (PDF){{% /staticref %}}, reposted with permission from the Gregorian Institute of Canada). [Chantblog's post](http://chantblog.blogspot.com/2013/11/the-hymns-at-lesser-hours-compline-iii.html) includes sheet music for an English translation. 
 * A Marian hymn while giving flowers to Mary
-
-* {{% staticref "files/alma-chorus.pdf" %}}Latin sheet music for the Sarum nuptial sequence _Alma Chorus Domini_ (PDF){{% /staticref %}} (Reposted with permission from the Gregorian Institute of Canada)
-* [Chantblog's post](http://chantblog.blogspot.com/2013/11/the-hymns-at-lesser-hours-compline-iii.html) on _Alma Chorus Domini_, which includes some history, and sheet music for an English translation 
 
 # More sources about Sacred Music 
 
