@@ -5,18 +5,30 @@ toggle = false
 aliases = [
     "/resources/nuptial-blessing/",
 ]
-
+draft = true
 +++
 
 # About
 
-The nuptial blessing takes place shortly after the Our Father. It is an ancient blessing, with a rich history. A video of our nuptial blessing can be [found here](https://www.youtube.com/watch?time_continue=1&v=f8CJjs2s6qg).
+The nuptial blessing takes place shortly after the Our Father. Beginning _Deus, qui potestate_, it is an ancient blessing, with a rich history. 
 
-The blessing is for both the bride and the groom, but primarily for the bride. It is only given during the wedding Mass, and only given once in a lifetime.
+The answers to the FAQs below are taken from the Rubrics for the Roman Breviary and Missal. 
+
+# Who can receive the Nuptial Blessing? 
+
+The Nuptial Blessing can only be given if both the bride and the groom are Catholic, and if they have never received it before. In some places, there is a custom that the groom can receive it more than once. 
+
+# Can the Nuptial Blessing be sung? 
 
 The Nuptial Blessing can be read, or chanted. [^1]
 
-# Text of the Nuptial Blessing
+# Latin text of the Nuptial Blessing 
+
+Propitiare, Domine, supplicationibus nostris, et institutis tuis, quibus propagationem humani generis ordinasti, benignus assiste: ut, quod te auctore jungitur, te auxiliante servetur. Per Dominum nostrum.
+
+Oremus. Deus, qui potestate virtutis tuae de nihilo cuncta fecisti: qui, dispositis universitatis exordiis, homini, ad imaginem Dei facto, ideo inseparabile mulieris adjutorium condidisti, ut femineo corpori de virili dares carne principium, docens, quod ex uno placuisset institui, numquam licere disjungi: Deus, qui tam excellenti mysterio conjugalem copulam consecrasti, ut Christi et Ecclesiae sacramentum praesignares in foedere nuptiarum: Deus, per quem mulier jungitur viro, et societas principaliter ordinata ea benedictione donatur, quae sola nec per originalis peccati poenam nec per diluvii est ablata sententiam: respice propitius super hanc famulam tuam, quae, maritali jungenda consortio, tua se expetit protectione muniri: sit in ea jugum dilectionis et pacis: fidelis et casta nubat in Christo, imitatrixque sanctarum permaneat feminarum: sit amabilis viro suo, ut Rachel: sapiens, ut Rebecca: longaeva et fidelis, ut Sara: nihil in ea ex actibus suis ille auctor praevaricationis usurpet: nexa fidei mandatisque permaneat: uni thoro juncta, contactus illicitos fugiat: muniat infirmitatem suam robore disciplinae: sit verecundia gravis, pudore venerabilis, doctrinis coelestibus erudita: sit fecunda in subole, sit probata et innocens: et ad beatorum requiem atque ad caelestia regna perveniat: et videant ambo filios filiorum suorum, usque in tertiam et quartam generationem, et ad optatam perveniant senectutem. Per eiindem Dominum nostrum.
+
+# English text of the Nuptial Blessing
 
 Mercifully give ear, O Lord, to our prayers, and let thy grace accompany this thy institution, by which thou hast ordained the propagation of mankind, that this tie, which is made by thy authority, may be preserved by thy grace. Through Our Lord...
 
@@ -50,6 +62,6 @@ Stice, Fr. Randy. “**An Introduction to the Sacrament of Matrimony and the Nup
 
 # Sources
 
-[^1]: Friel, David. “**Chant Notation—Nuptial Blessing (EF)**.” Corpus Christi Watershed, September 8, 2019. http://www.ccwatershed.org/blog/2019/sep/8/chant-notation-nuptial-blessing-extraordinary-form/.
+[^1]: Friel, David. “Chant Notation—Nuptial Blessing (EF).” Corpus Christi Watershed, September 8, 2019. http://www.ccwatershed.org/blog/2019/sep/8/chant-notation-nuptial-blessing-extraordinary-form/.
 
 
