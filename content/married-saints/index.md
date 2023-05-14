@@ -7,7 +7,7 @@ aliases = [
 ]
 
 +++
-![](https://upload.wikimedia.org/wikipedia/commons/c/ca/Zitawed.jpg)  
+
 _The wedding of Zita and Charles Habsburg, 21 October 1911_
 
 # About
