@@ -33,6 +33,12 @@ Van Zeller, Hubert. _Holiness for Housewives (and Other Working Women)_. Manches
 
 Von Hildebrand, Alice. _By Love Refined: Letters to a Young Bride_. Sophia Institute Press, 1997. 
 
+Lewis, C. S. _The Four Loves._ 
+
+Pieper, Josef. _Happiness and Contemplation._ Regnery, 1966. 
+
+Chesterton, Gilbert Keith. "A Defence of Rash Vows." In _The Defendant_, 1901.
+
 # Popes and Catechisms
 
 Pope Leo XIII. “Arcanum Divinae,” February 10, 1880. http://w2.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_10021880_arcanum.html
@@ -47,19 +53,19 @@ _Baltimore Catechism: An Explanation of the Baltimore Catechism of Christian Doc
 
 # Etiquette
 
+Fenner, Kay Toy. American Catholic Etiquette. Westminster, Md.: Newman Press, 1965.
+
 Broderick, Robert C. The Catholic Layman's Book of Etiquette. Minnesota, 1959.
 
 Bugg, Lelia Hardin. _The Correct Thing For Catholics_. New York, Cincinnati Benziger Bros., 1892. http://archive.org/details/TheCorrectThingForCatholics
 
 > Page 41 is missing, with the crucial heading, "It is not the correct thing to...". Page 45 is also missing. There is good practical advice in here, but with a heavy caveat that the author had some strong materialistic opinions, like the reception and the engagement ring should be as expensive as possible.
 
-Fenner, Kay Toy. American Catholic Etiquette. Westminster, Md.: Newman Press, 1965.
-
 # Prayer books and manuals
 
-Heuser, Herman J. _The Parish Priest on Duty : A Practical Manual for Pastors, Curates, and Theological Students Preparing for the Mission._ New York : Benziger Brothers, 1904. http://archive.org/details/theparishpriesto00heusuoft.
+Heuser, Herman J. _The Parish Priest on Duty : A Practical Manual for Pastors, Curates, and Theological Students Preparing for the Mission._ New York : Benziger Brothers, 1904. http://archive.org/details/theparishpriesto00heusuoft
 
-Klauder, Alexander Laurence Alphonsus. _Catholic Practice at Church and at Home. The Parishioner's Little Rule Book, a Guide for Catholics in the External Practice of Their Holy Religion._ Boston, Mass., Angel Guardian Press, 1898. http://archive.org/details/catholicpractice01klau.
+Klauder, Alexander Laurence Alphonsus. _Catholic Practice at Church and at Home. The Parishioner's Little Rule Book, a Guide for Catholics in the External Practice of Their Holy Religion._ Boston, Mass., Angel Guardian Press, 1898. http://archive.org/details/catholicpractice01klau
 
 Coomes, A. Francis, and Mary Katherine Murphy. _Mothers' Manual: A Manual of Devotions for Mothers and Expectant Mothers_. St. Louis, Mo.: Queen's Work, 1957.
 
@@ -67,13 +73,41 @@ Pius, Franziskus, and Bertin Roll. _Mother Love: A Manual for Christian Mothers_
 
 Scheuber, Joseph K. _Nazareth: A Book of Counsel and Prayer for the Married_. Dublin, 1948. https://archive.org/details/scheuber-nazareth-1948
 
+Lelen, J. M. _Bride's Manual : A Manual of Catholic Devotions with Mass for Marriage Ceremony and the Nuptial Blessing._ Catholic Book Pub. Co., 1942.
+
+———. _Marriage Sacrament : A Manual of Catholic Devotions with Mass for Bridegroom and Bride._ United States: Catholic Book Publishing Co., 1947.
+
+# Dating and Engagement
+
+Relyea, Father Isaac Mary. _Honorable Courtship: The Way to a Happy Marriage._ Fatima Youth Conference: Cleveland, OH: The Fatima Center, 2019. https://www.youtube.com/watch?v=3LcQSZ621SQ
+
+Solaro Della Margherita, Giulia, and Charles Constantine Pise. _The Catholic Bride; or Moral Letters Addressed to Julia, Daughter of Count Solaro Della Margarita, on the Occasion of Her Marriage with Count E. Demorri Di Castelmagno._ Translated from the Italian, by C. C. Pise. Baltimore, 1868. http://archive.org/details/TheCatholicBride.
+
+"How to Get Married." The Catholic Columbian, 1881. https://thecatholicnewsarchive.org/?a=d&d=CC18810423-01.2.38&srpos=7
+
+de Blanc, Irvine. _Engagement: The Catholic Way and Engagement: A Guide for Catholic Couples._ 1956.
+
+Grant, Dorothy Fremont. _So! You Want to Get Married._ Milwaukee: The Bruce Publishing Company, 1953.
+
+Kelly, George A. _Dating for Young Catholics._ Garden City, N.Y.: Echo Books, 1965.
+
+Marks, Frederick W. _A Catholic Handbook for Engaged and Newly Married Couples._ 2014.
+
+McEvoy, S. J. Hubert. "Before You Wed." International Catholic Truth Society, 1947 1947. https://lxoa.wordpress.com/2010/09/15/before-you-wed/.
+
+Miller, D. F. _How to Behave with Girl Friends._ 1957.
+
+Miriano, Costanza. _Marry Him and Be Submissive._ St. Benedict, 2016.
+
+———. _Marry Her and Die for Her._ TAN Books, 2017.
+
+Sainte-Foi, Charles. _Mission and Duties of Young Women._ New York: P.J. Kenedy, 1896.
+
+Semmler, Nerius. _For Bride and Groom: A Pre-Nuptial Instruction Based on the Encyclical Letter of Pope Pius Xi, Casti Connubii, December 31, 1930._ Our Sunday Visitor, 1950. https://www.lib.cua.edu/rarebook/node/4391.
+
 # Catechesis/General
 
 “Holy Matrimony.” Fish Eaters (blog). https://www.fisheaters.com/holymatrimony.html.
-
-Holy Mass And More. “The Seven Sacraments and Their Liturgies, Part 7: Marriage,” August 23, 2018. https://www.holymassandmore.org/2018/08/the-seven-sacraments-and-their_23.html
-
-Relyea, Father Isaac Mary. Honorable Courtship: The Way to a Happy Marriage. Fatima Youth Conference: Cleveland, OH: The Fatima Center, 2019. https://www.youtube.com/watch?v=3LcQSZ621SQ
 
 Solaro della Margherita, Giulia, and Charles Constantine Pise. _The Catholic Bride; or Moral Letters Addressed to Julia, Daughter of Count Solaro Della Margarita, on the Occasion of Her Marriage with Count E. Demorri Di Castelmagno_. Baltimore, 1868. http://archive.org/details/TheCatholicBride
 
@@ -81,25 +115,41 @@ Vuarin, M. _Familiar Instructions on the Holiness and Dignity of the Sacrament o
 
 Walter Jewell. _Tell Her You’re a Catholic_, 1949. http://archive.org/details/TellHerYoureACatholic
 
+Cassidy, N. Cronin. _The Nuptial Mass._ The Paulist Press, 1947.
+
+Coakley, Thomas F. "How Catholics Get Married: The Nuptial Mass Explained." International Catholic Truth Society. https://chrcphila.pastperfectonline.com/library/332EFCD1-1CD6-4F79-9D9E-601132994800
+
+———. The Nuptial Mass : Explanation of the Beautiful Rites and Ceremonies of a Catholic Wedding. Catholic Truth Society, 1939.
+
+Kwasniewski, Peter, "New Liturgical Movement: Problems with Weddings and How We Might Remedy Them," New Liturgical Movement, 2019, http://www.newliturgicalmovement.org/2019/04/problems-with-weddings-and-how-we-might.html.
+
 # The Domestic Realm
 
-“**The Christian Home: A Guide to Happiness in the Home: Chapter I.**” Fish Eaters (blog). https://www.fisheaters.com/home2.html.
+“The Christian Home: A Guide to Happiness in the Home: Chapter I.” Fish Eaters (blog). https://www.fisheaters.com/home2.html.
 
-“**The Domestic Church: The Catholic Home.**” Fish Eaters (blog). https://www.fisheaters.com/domesticchurch.html.
+“The Domestic Church: The Catholic Home.” Fish Eaters (blog). https://www.fisheaters.com/domesticchurch.html.
 
-Ellis, Alice Thomas. **_Home Life_.** Royal National Institute of the Blind, 2004.
+Ellis, Alice Thomas. _Home Life_. Royal National Institute of the Blind, 2004.
 
-Trapp, Maria Augusta von. **Around the Year with the Von Trapp Family**. Sophia Institute Press, 2018. 
+Trapp, Maria Augusta von. _Around the Year with the Von Trapp Family_. Sophia Institute Press, 2018. 
+
+Chesterton, Gilbert Keith. "The Free Family." In _What's Wrong with the World_, 392: Cassell, 1912.
+
+Drouet, F. _Mothers of the Saints_. New York: Paulist Press, 1915.
+
+Gerrard, Thomas J. Schmiedeler Edgar. Marriage and Parenthood: The Catholic Ideal. J.F. Wagner: New York, 1937.
+
+Jarrett, O. P. Bede. "The Catholic Mother." International Catholic Truth Society, 1958. https://lxoa.wordpress.com/2010/09/15/the-catholic-mother/.
+
+Leifeld, Wendy. _Mothers of the Saints : Portraits of Ten Mothers of the Saints and Three Saints Who Were Mothers_. Manila: Paulines, 1991.
+
+Lejeune, P. Ryan Francis A. _Counsels of Perfection for Christian Mothers_. St. Louis: B. Herder, 1913.
 
 # Fertility, Health, & Intimacy
 
-“**Allay Women and Family Resources.**” Accessed June 3, 2019. https://www.facebook.com/allayresources/.
+“Allay Women and Family Resources.” https://www.facebook.com/allayresources/
 
-Miriano, Costanza. **_Marry Her and Die for Her_**. TAN Books, 2017. 
-
-———. **_Marry Him and Be Submissive_**. St. Benedict Press, 2016. 
-
-Weschler, T. **_Taking Charge of Your Fertility: The Definitive Guide to Natural Birth Control and Pregnancy Achievement_**. HarperCollins, 2001.
+Weschler, T. _Taking Charge of Your Fertility: The Definitive Guide to Natural Birth Control and Pregnancy Achievement_. HarperCollins, 2001.
 
 # Philosophy
 
@@ -109,9 +159,23 @@ Pieper, Josef. **_Happiness and Contemplation_**. Regnery, 1966.
 
 Louise Cowan, “**Marriage As a Creative Work**,” Newsletter of the Thomas More College of Liberal Arts 21 (November 2003), http://parousians-lsu.blogspot.com/2006/11/marriage-as-creative-work-by-louise.html.
 
-# Pamphlets 
+# Canon Law 
 
-From the International Catholic Truth Society: https://lxoa.wordpress.com/category/catholic-pamphlets/
+Ayrinhac, H. A., and P. J. Lydon. _Marriage Legislation in the New Code of Canon Law._ New York : Benziger Brothers, 1918. http://archive.org/details/marriagelegislat00ayriiala.
+
+Boyle, David J. _The Juridic Effects of Moral Certitude on Pre‑Nuptial Guarantees._ The Catholic University of America Press, 2014/03/31/, 2014. https://www.amazon.com/Juridic-Effects-Certitude-Pre%E2%80%91Nuptial-Guarantees/dp/0813223393/ref=olp_product_details?_encoding=UTF8&me=.
+
+Viscont, Antonius. _De Matrimonio Rato Et Non Consummato._ Rome, 1928. https://www.worldcat.org/title/de-matrimonio-rato-et-non-consummato/oclc/44946768.
+
+Wells, Samuel Roberts. _Wedlock; or, the Right Relations of the Sexes: Disclosing the Laws of Conjugal Selection, and Showing Who May, and Who May Not Marry._ 1869. 
+
+White, Robert J. _The Legal Effect of Ante-Nuptial Promises in Mixed Marriages._ American Ecclesiastical Review, 1932. 
+
+———. "Canon Ante-Nuptial Promises and the Civil Law." Vol. 91, Wash., D.C.: Catholic University of America Canon Law Studies, 1934. 
+
+Woywod, Stanislaus. _The New Canon Law: A Commentary and Summary of the New Code of Canon Law._ J.F. Wagner, 1918. https://books.google.com/books?id=zTtHAQAAMAAJ.
+
+Wraszczak, Chester Francis. _The Betrothal Contract in the Code of Canon Law (Canon 1017)._ Washington, D.C.: Catholic University of America Press, 1954.
 
 # Mixed Marriages 
 
@@ -119,18 +183,8 @@ A mixed marriage is a marriage between a Catholic and a non-Catholic. Before the
 
 A wonderful example of how grave mixed marriages were considered can be found in Walter Jewell's book (citation below). 
 
-Walter Jewell. **_Tell Her You’re a Catholic_**, 1949. http://archive.org/details/TellHerYoureACatholic.
+Walter Jewell. _Tell Her You’re a Catholic_, 1949. http://archive.org/details/TellHerYoureACatholic.
 
 Fish Eater also includes a discussion of mixed marriages on their "Holy Matrimony" page. 
 
-“**Holy Matrimony**.” Fish Eaters (blog). Accessed June 3, 2019. https://www.fisheaters.com/holymatrimony.html.
-
-# Canon Law 
-
-Ayrinhac, H. A. (Henry Amans), and P. J. (Patrick Joseph) Lydon. **Marriage Legislation in the New Code of Canon Law**. New York : Benziger Brothers, 1918. http://archive.org/details/marriagelegislat00ayriiala.
-
-Boyle, David J. **The Juridic Effects of Moral Certitude on Pre‑Nuptial Guarantees**. The Catholic University of America Press, 2014.
-
-White, Robert J. “**Canonical Ante-Nuptial Promises and the Civil Law: An Historical Synopsis and Commentary**.” Catholic University of America, 1934. 
-
-White, Robert J. **The Legal Effect of Ante-Nuptial Promises in Mixed Marriages**. American Ecclesiastical Review, 1932. 
+“Holy Matrimony.” Fish Eaters (blog). Accessed June 3, 2019. https://www.fisheaters.com/holymatrimony.html.
