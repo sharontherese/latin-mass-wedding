@@ -44,21 +44,26 @@ Married saints in the Church are far from numerous, and even fewer are venerated
 
 # Books on married saints 
 
-O’Malley, V.J. Saintly Companions: A Cross-Reference of Sainted Relationships. Alba House, 1995. 
+Bogle, J., and J. Bogle. _A Heart for Europe: The Lives of Emperor Charles and Empress Zita of Austria-Hungary._ Gracewing Books. Fowler Wright, 1990.
 
-Neill, T.P. They Lived the Faith: Great Lay Leaders of Modern Times, 1951. 
+Burton, Doris. _Great Catholic Mothers of Yesterday and to-Day._ London: Paternoster, 1951.
 
-Burton, Doris. Great Catholic Mothers of Yesterday and To-Day. London: Paternoster, 1951.
+Delany, S.P. _Married Saints._ Longmans, Green, 1935. 
 
-Ferdinand Holböck, S.T.D. Married Saints and Blesseds: Through the Centuries. Ignatius Press, 2017. 
+Ellis, Alice Thomas. _Home Life._ Royal National Institute of the Blind, 2004. 
 
-Ford, David C., Mary S. Ford, and Kallistos. Marriage as a Path to Holiness : Lives of Married Saints. 2013.
+Ferdinand Holböck, S.T.D. _Married Saints and Blesseds: Through the Centuries._ Ignatius Press, 2017. 
 
-Fink, J.F. Married Saints. Alba House, 1999. 
+Fink, J.F. _Married Saints._ Alba House, 1999. 
 
-Delany, S.P. Married Saints. Longmans, Green, 1935.
+Ford, David C., Mary S. Ford, and Kallistos. _Marriage as a Path to Holiness : Lives of Married Saints._ 2013.
 
-Bogle, J., and J. Bogle. A Heart for Europe: The Lives of Emperor Charles and Empress Zita of Austria-Hungary. Gracewing Books. 1990.
+Neill, T. P. _They Lived the Faith: Great Lay Leaders of Modern Times._ Literary Licensing, LLC, 2012. 
 
-Brown, N.C., and D. Ahlquist. The Woman Who Was Chesterton. ACS Books. ACS Books, 2015. 
+O'Malley, V. J. _Saintly Companions: A Cross-Reference of Sainted Relationships._ Alba House, 1995. 
 
+von Hildebrand, D., A. von Hildebrand, and P. Kreeft. _The Art of Living._ Hildebrand Project, 2017. 
+
+# Blog posts on married saints
+
+A Clerk of Oxford, "The Cloud of Witnesses," 2009, https://aclerkofoxford.blogspot.com/2009/11/cloud-of-witnesses.html
