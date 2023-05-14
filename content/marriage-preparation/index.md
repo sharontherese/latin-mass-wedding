@@ -125,6 +125,10 @@ Coakley, Thomas F. "How Catholics Get Married: The Nuptial Mass Explained." Inte
 
 Kwasniewski, Peter, "New Liturgical Movement: Problems with Weddings and How We Might Remedy Them," New Liturgical Movement, 2019, http://www.newliturgicalmovement.org/2019/04/problems-with-weddings-and-how-we-might.html.
 
+A Vincentian Father. Vocations Explained: Matrimony, Virginity, the Religious State and the Priesthood. Benzinger Brothers, 1897. http://www.gutenberg.org/etext/31311.
+
+Cowan, Louise. "Marriage as a Creative Work." Newsletter of the Thomas More College of Liberal Arts 21 (2003/11/). http://parousians-lsu.blogspot.com/2006/11/marriage-as-creative-work-by-louise.html.
+
 # The Domestic Realm
 
 “The Christian Home: A Guide to Happiness in the Home: Chapter I.” Fish Eaters (blog). https://www.fisheaters.com/home2.html.
