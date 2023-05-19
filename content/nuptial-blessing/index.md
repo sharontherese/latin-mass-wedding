@@ -5,7 +5,7 @@ toggle = false
 aliases = [
     "/resources/nuptial-blessing/",
 ]
-draft = true
+
 +++
 
 # About
