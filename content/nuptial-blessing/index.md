@@ -10,17 +10,31 @@ draft = true
 
 # About
 
-The nuptial blessing takes place shortly after the Our Father. Beginning _Deus, qui potestate_, it is an ancient blessing, with a rich history. 
+There are several different kinds of nuptial blessings. This page is about the traditional Nuptial Blessing, beginning _Deus, qui potestate_, and said right after the Our Father. it is an ancient blessing, with a rich history. 
 
-The answers to the FAQs below are taken from the Rubrics for the Roman Breviary and Missal. 
+The answers to the FAQs below are distilled from the rubrics from the 1962 Missale Romanum, and Adrian Fortescue's _The Ceremonies of the Roman Rites Described_.[^1] 
 
 # Who can receive the Nuptial Blessing? 
 
-The Nuptial Blessing can only be given if both the bride and the groom are Catholic, and if they have never received it before. In some places, there is a custom that the groom can receive it more than once. 
+The Nuptial Blessing can only be given to a Catholic bride and groom. The bride can only receive it once. In some places, there is a custom that the groom can receive it more than once. 
+
+# Who can give the Nuptial Blessing? 
+
+The Nuptial Blessing must be given by the priest celebrating the wedding Mass. You may have a different priest witness the rite of marriage. 
+
+# When can the Nuptial Blessing be given?
+
+The Nuptial Blessing must be given during a Mass. It does not have to be during **the** wedding Mass, the _Missa pro sponsis_, but it must be **a** Mass.
+
+The Nuptial Blessing is not permitted during the _tempus clausum_, the closed season: from the first Sunday of Advent to Christmas Day, from Ash Wednesday to Easter Day. You may receive the Blessing after these seasons. 
 
 # Can the Nuptial Blessing be sung? 
 
-The Nuptial Blessing can be read, or chanted. [^1]
+The Nuptial Blessing can be read, or chanted.[^2
+
+# From the 1962 Missale Romanum
+
+Si solemnis benedictio nuptiarum, intra Missam, facienda sit die dominico vel die I classis, dicitur Missa de Officio occurrenti, cum commemoratione sequentis Missae pro sponsis, sub unica conclusione, etiam diebus in quibus commemoratio Missae votivae impeditae prohibetur; et in ea datur benedictio nuptialis more solito. Si autem solemnis benedictio nuptiarum, intra Missam, facienda sit aliis diebus, dicitur sequens Missa votiva pro sponsis. In Commemoratione omnium Fidelium defunctorum et Triduo sacro prohibetur sive Missa votiva, sive eius commemoratio in Missa diei, sive benedictio nuptialis intra Missam. Cum vero tam Missa pro sponsis quam benedictio nuptialis prohibetur, Missa una cum benedictione transferri potest in opportuniorem diem non impeditum, post celebratum matrimonium.
 
 # Latin text of the Nuptial Blessing 
 
@@ -46,22 +60,20 @@ May the God of Abraham, the God of Isaac, and the God of Jacob be with you: and 
 
 R. Amen.
 
-# Read More
+# Learn more about the Nuptial Blessing
 
-“**Nuptial Blessing.**” Catholic Culture. Accessed July 30, 2019. [http://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=770](http://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=770 "http://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=770").
+“Nuptial Blessing.” Catholic Culture.  http://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=770
 
-“**Nuptial Rites Follow Customs of Society.**” _Clarion Herald_, April 30, 1964. [https://thecatholicnewsarchive.org/?a=d&d=cher19640430-01.1.31&srpos=38&e=-------en-20--21-byDA-txt-txIN-%22wedding+tradition%22\~10------](https://thecatholicnewsarchive.org/?a=d&d=cher19640430-01.1.31&srpos=38&e=-------en-20--21-byDA-txt-txIN-%22wedding+tradition%22\~10------ "https://thecatholicnewsarchive.org/?a=d&d=cher19640430-01.1.31&srpos=38&e=-------en-20--21-byDA-txt-txIN-%22wedding+tradition%22~10------").
+Stevenson, Kenneth W. "The Origins of the Nuptial Blessing." _Heythrop Journal_ 21. (1980): 412-416.
 
-Klauder, Alexander Laurence Alphonsus. **_Catholic Practice at Church and at Home. The Parishioner’s Little Rule Book, a Guide for Catholics in the External Practice of Their Holy Religion_**, pp. 114-133. Boston, Mass., Angel guardian press, 1898. [http://archive.org/details/catholicpractice01klau](http://archive.org/details/catholicpractice01klau "http://archive.org/details/catholicpractice01klau").
+Stevenson, Kenneth W. _The Nuptial Blessing: A Study of Christian Marriage Rites_: London. (1982).
 
-Stevenson, Kenneth W. "**The Origins of the Nuptial Blessing.**" _Heythrop Journal_ 21. (1980): 412-416.
-
-Stevenson, Kenneth W. **_The Nuptial Blessing: A Study of Christian Marriage Rites_**: London. (1982).
-
-Stice, Fr. Randy. “**An Introduction to the Sacrament of Matrimony and the Nuptial Blessing.**” _Adoremus_ (blog), November 16, 2015. [https://adoremus.org/2015/11/15/introduction-sacrament-matrimony-nuptial-blessing/](https://adoremus.org/2015/11/15/introduction-sacrament-matrimony-nuptial-blessing/ "https://adoremus.org/2015/11/15/introduction-sacrament-matrimony-nuptial-blessing/").
+"Quaeritur: Nuptial Blessing During a TLM," Fr. Z, December 3, 2010, http://wdtprs.com/blog/2010/12/quaeritur-nuptial-blessing-during-a-tlm/.
 
 # Sources
 
-[^1]: Friel, David. “Chant Notation—Nuptial Blessing (EF).” Corpus Christi Watershed, September 8, 2019. http://www.ccwatershed.org/blog/2019/sep/8/chant-notation-nuptial-blessing-extraordinary-form/.
+[^1]: Fortescue, Adrian. The Ceremonies of the Roman Rite Described. London: Burns, Oates and Washbourne, 1920. https://archive.org/details/ceremoniesofrom00fort/page/408/mode/2up.
+
+[^2]: Friel, David. “Chant Notation—Nuptial Blessing (EF).” Corpus Christi Watershed, September 8, 2019. http://www.ccwatershed.org/blog/2019/sep/8/chant-notation-nuptial-blessing-extraordinary-form/.
 
 
