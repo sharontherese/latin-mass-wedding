@@ -70,6 +70,9 @@ Stevenson, Kenneth W. _The Nuptial Blessing: A Study of Christian Marriage Rites
 
 "Quaeritur: Nuptial Blessing During a TLM," Fr. Z, December 3, 2010, http://wdtprs.com/blog/2010/12/quaeritur-nuptial-blessing-during-a-tlm/.
 
+Stice, Fr Randy. "An Introduction to the Sacrament of Matrimony and the Nuptial Blessing." Adoremus, 2015/11/16. https://web.archive.org/web/20230519014200/https://adoremus.org/2015/11/introduction-sacrament-matrimony-nuptial-blessing/.
+
+
 # Sources
 
 [^1]: Fortescue, Adrian. The Ceremonies of the Roman Rite Described. London: Burns, Oates and Washbourne, 1920. https://archive.org/details/ceremoniesofrom00fort/page/408/mode/2up.
