@@ -32,7 +32,7 @@ The Nuptial Blessing is not permitted during the _tempus clausum_, the closed se
 
 The Nuptial Blessing can be read, or chanted.[^2]
 
-# From the 1962 Missale Romanum
+# Rubrics from the 1962 Missale Romanum
 
 Si solemnis benedictio nuptiarum, intra Missam, facienda sit die dominico vel die I classis, dicitur Missa de Officio occurrenti, cum commemoratione sequentis Missae pro sponsis, sub unica conclusione, etiam diebus in quibus commemoratio Missae votivae impeditae prohibetur; et in ea datur benedictio nuptialis more solito. Si autem solemnis benedictio nuptiarum, intra Missam, facienda sit aliis diebus, dicitur sequens Missa votiva pro sponsis. In Commemoratione omnium Fidelium defunctorum et Triduo sacro prohibetur sive Missa votiva, sive eius commemoratio in Missa diei, sive benedictio nuptialis intra Missam. Cum vero tam Missa pro sponsis quam benedictio nuptialis prohibetur, Missa una cum benedictione transferri potest in opportuniorem diem non impeditum, post celebratum matrimonium.
 
