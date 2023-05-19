@@ -30,7 +30,7 @@ The Nuptial Blessing is not permitted during the _tempus clausum_, the closed se
 
 # Can the Nuptial Blessing be sung? 
 
-The Nuptial Blessing can be read, or chanted.[^2
+The Nuptial Blessing can be read, or chanted.[^2]
 
 # From the 1962 Missale Romanum
 
