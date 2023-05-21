@@ -15,13 +15,11 @@ Betrothal is, "a mutual promise of future marriage, or a contract by which a man
 
 There is no official, standardized Rite of Betrothal in the Roman Catholic Church. The rite does not exist in the _Rituale Romanum_. 
 
-This simply means that throughout history, there have been many different rites of betrothal, a diversity encouraged or tolerated by Rome. 
+This simply means that throughout history, there have been many different rites of betrothal, a diversity encouraged or tolerated by Rome. The rite of betrothal enjoying a renaissance today is the rite found in Father Philip Weller's translation of the _Roman Ritual_.[^2] Currently, you can purchase the Weller rite of betrothal at Angelus Press.[^3]
 
-The rite of betrothal enjoying a bit of a renaissance today is typically the rite found in Father Philip Weller's translation of the _Roman Ritual_.[^2] You can read about the history of this interesting rite [here](https://onepeterfive.com/how-traditional-are-betrothals/)[^3]. I also have a masterpost of resources on betrothals [here.](post/betrothal-masterpost/) You can purchase the Weller rite of betrothal at Angelus Press.[^4]
+Another version of a rite of betrothal can be found at Laudate Dominum.[^4] Yet another version of a rite of betrothal can be found in the 1955 Grailville booklet _Promised In Christ_.[^5] 
 
-Another version of a rite of betrothal can be found at Laudate Dominum.[^5]
-
-Yet another version of a rite of betrothal can be found in the 1955 Grailville booklet _Promised In Christ_.[^6] 
+To learn more about the history of betrothals, see my articles here[^6] and here[^7].
 
 # The Rite of Betrothal as found in Father Philip Weller's translation of the Roman Ritual
 
@@ -115,16 +113,12 @@ John 15.4-12
 
 [^2]: Weller, Philip T. Roman Ritual. The Bruce Publishing Company, 1964. https://www.ewtn.com/catholicism/library/roman-ritual-part-i-11882
 
-[^3]: Kabel, Sharon. "How traditional are betrothals?" _OnePeterFive_. March 1, 2022. https://onepeterfive.com/how-traditional-are-betrothals/
+[^3]: https://angeluspress.org/products/rite-of-betrothal
 
-[^4]: https://angeluspress.org/products/rite-of-betrothal
+[^4]: “Solemn Rite of Betrothal.” Laudate Dominum, n.d. http://laudatedominum.net/files/bet.pdf.
 
-[^5]: “Solemn Rite of Betrothal.” Laudate Dominum, n.d. http://laudatedominum.net/files/bet.pdf.
+[^5]: "Promised in Christ." Grailville, 1955. https://archive.org/details/grailville-promised-in-christ/page/12/mode/2up
 
-[^6]: "Promised in Christ." Grailville, 1955. https://archive.org/details/grailville-promised-in-christ/page/12/mode/2up
+[^6]: Kabel, Sharon. "How traditional are betrothals?" _OnePeterFive_. March 1, 2022. https://onepeterfive.com/how-traditional-are-betrothals/
 
-[^6]: Kwasniewski, Peter. “NProblems with Weddings and How We Might Remedy Them.” New Liturgical Movement (blog), April 29, 2019. http://www.newliturgicalmovement.org/2019/04/problems-with-weddings-and-how-we-might.html#.XVHX6G9Ki70.
-
-[^7]: DiPippo, Gregory. “A Liturgical Rite of Betrothal.” New Liturgical Movement (blog). October 26, 2019. http://www.newliturgicalmovement.org/2019/10/a-liturgical-rite-of-betrothal.html#.Xbhzf0ZKi70.
-
-[^7]: Wrzaszczak, Chester. “Engagements: In Church.” Catholic Culture. Accessed August 29, 2019. http://www.catholicculture.org/culture/library/view.cfm?recnum=2978.
+[^7]: Kabel, Sharon. "A Masterpost of Resources on the Traditional Catholic Rite of Betrothal." Latin Mass Wedding, January 9, 2022. https://www.latinmasswedding.com/post/betrothal-masterpost/
