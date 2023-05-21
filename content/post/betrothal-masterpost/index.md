@@ -60,6 +60,8 @@ Witte, John Westminster John Knox Press. From Sacrament to Contract : Marriage, 
 
 Foley, Michael P. . "Betrothals: Their Past, Present, and Future." Studia Liturgica 33 (2003): 37-61.
 
+"A Liturgical Rite of Betrothal," New Liturgical Movement, 2019, http://www.newliturgicalmovement.org/2019/10/a-liturgical-rite-of-betrothal.html#.Xbhzf0ZKi70.
+
 Lawler, Michael G. , and Gail S.  Risch. "A Betrothal." U.S. Catholic  (June 2007): 18-22.
 
 Szabó, András Péter, and Matthew Caples. "Betrothal and Wedding, Church Wedding and Nuptials: Reflections on the System of Marriages in Sixteenth- and Seventeenth-Century Hungary." The Hungarian Historical Review 3, no. 1 (2014): 3-31. http://www.jstor.org/stable/43265189.
