@@ -10,17 +10,15 @@ toggle = false
 
 The Rite of Marriage is, "The form for the celebration of the Sacrament of Matrimony, as it stands in the 'Rituale Romanum'". [^1]
 
-This is the essential part of getting married in the Catholic Church - a Mass is not required.
+This is the essential part of getting married in the Catholic Church - a Mass is not required, but it is strongly encouraged.
 
 The _Rituale Romanum_ says, "Wherever other praiseworthy customs and ceremonies are used in the celebration of the sacrament of matrimony, it is fitting that they be retained." [^2]
 
-Perhaps because the marriage texts were not codified until fairly late, there is some variation when it comes to the specific words in the Rite of Marriage. [^3] [^4]
+> Matrimony has always been celebrated with greater leeway for adaptation than other Sacraments, largely on account of its pre-Christian history as a purely domestic and civil affair. For certain, Trent decreed that marriage is a Sacrament and that it must be celebrated in church, in the presence of a priest. But Trent also left room for local adaptation (“earnestly” so). The marriage formula contained in the _Missale Romanum_ of 1570 is so bare that the austerity, itself, almost implies that it was meant to be the bare minimum to which local customs would be added. Notably, the _Rituale Romanum_ was not published until 1614, nearly half a century after the _Missale Romanum_ of the same council had been promulgated. During those intervening years, all that was provided was a Mass formulary in the 1570 missal. Even after the publication of the _Rituale_, “one must doubt that it was ever intended to be used as it stood.” Evidence shows, in fact, that local customs continued to be used in the period before the _Rituale_ was published and even afterward, up until the late nineteenth century. [^3]
 
-> Matrimony has always been celebrated with greater leeway for adaptation than other Sacraments, largely on account of its pre-Christian history as a purely domestic and civil affair. For certain, Trent decreed that marriage is a Sacrament and that it must be celebrated in church, in the presence of a priest. But Trent also left room for local adaptation (“earnestly” so). The marriage formula contained in the _Missale Romanum_ of 1570 is so bare that the austerity, itself, almost implies that it was meant to be the bare minimum to which local customs would be added. Notably, the _Rituale Romanum_ was not published until 1614, nearly half a century after the _Missale Romanum_ of the same council had been promulgated. During those intervening years, all that was provided was a Mass formulary in the 1570 missal. Even after the publication of the _Rituale_, “one must doubt that it was ever intended to be used as it stood.” Evidence shows, in fact, that local customs continued to be used in the period before the _Rituale_ was published and even afterward, up until the late nineteenth century. [^5]
+Below is the text for the Rite of Marriage, as found in the 1962 _Rituale Romanum._ 
 
-Below is the text for the Rite of Marriage, as found in the 1962 _Rituale Romanum._ This is to give you a starting point, an idea of what to expect. You can peruse plenty of _Rituales_ online from earlier years and find slight variations in the text (like a _Rituale_ from 1873 with English, Gallic, and German vows) [^6]. What remains the same is that there is an exchange of consent.
-
-* To view the Latin and English side by side, {{% staticref "uploads/1962_Rite_of_Marriage.pdf" "newtab" %}} click here {{% /staticref %}}
+To view the Latin and English side by side, {{% staticref "uploads/1962_Rite_of_Marriage.pdf" "newtab" %}} click here. {{% /staticref %}}
 
 # Rite of Marriage (1962)
 
@@ -28,17 +26,17 @@ Below is the text for the Rite of Marriage, as found in the 1962 _Rituale Romanu
 
 1\. Parochus Matrimonio adfuturus, publicationibus factis ut dictum est, si nullum obstet legitimum impedimentum in ecclesia, superpelliceo et stola alba indutus, adhibito uno saltem Clerico superpelliceo pariter induto, qui librum et vas aquæ benedictæ cum aspersorio deferat, coram duobus saltem testibus, virum et mulierem ante altare genuflexos, quos parentum vel propinquorum suorum præsentia cohonestari decet, de consensu in Matrimonium interroget, utrumque singillatim in hunc modum vulgari sermone:
 
-Et primo quidem sponsum interroget: N. Vis accípere N. hic præséntem in tuam legítimam uxórem juxta ritum sanctæ matris Ecclesiae?
+Et primo quidem sponsum interroget: N. Vis accipere N. hic praesentem in tuam legitimam uxorem juxta ritum sanctae matris Ecclesiae?
 
 Respondeat sponsus:  Volo.
 
-2\. Mox Sacerdos sponsam interroget: N. Vis accípere N. hic præséntem in tuum legítimum marítum juxta ritum sanctæ matris Ecclesiae?
+2\. Mox Sacerdos sponsam interroget: N. Vis accipere N. hic praesentem in tuum legitimum maritum juxta ritum sanctae matris Ecclesiae?
 
 Respondeat sponsa: Volo.
 
-Nec sufficit consensus unius, sed debet esse amborum, et expressus verbis, si loqui possint, aut secus æquipollentibus signis, sive fiat per se, sive per procuratorem.
+Nec sufficit consensus unius, sed debet esse amborum, et expressus verbis, si loqui possint, aut secus aequipollentibus signis, sive fiat per se, sive per procuratorem.
 
-Mutuo autem contrahentium consensu intellecto, Sacerdos jubeat eos invicem jungere dexteras, et dicat: Ego conjúngo vos in matrimónium. In nómine Patris, et Fílii, X et Spíritus Sancti. Amen.
+Mutuo autem contrahentium consensu intellecto, Sacerdos jubeat eos invicem jungere dexteras, et dicat: Ego conjungo vos in matrimonium. In nomine Patris, et Filii, et Spiritus Sancti. Amen.
 
 Vel aliis utatur verbis juxta receptum uniuscujusque loci ritum.
 
@@ -46,73 +44,73 @@ Postea eos aspergat aqua benedicta.
 
 Mox benedicat anulum, dicens:
 
-V. Adjutórium nostrum in nómine Dómini.
+V. Adjutorium nostrum in nomine Domini.
 
-R. Qui fecit cælum et terram.
+R. Qui fecit caelum et terram.
 
-V. Dómine, exáudi oratiónem meam.
+V. Domine, exaudi orationem meam.
 
-R. Et clamor meus ad te véniat.
+R. Et clamor meus ad te veniat.
 
-V. Dóminus vobíscum.
+V. Dominus vobiscum.
 
-R. Et cum spíritu tuo.
+R. Et cum spiritu tuo.
 
 Oremus. Oratio
 
-Bénedic, Dómine, ánulum hunc, quem nos in tuo nómine benedícimus: ut, quæ eum gestáverit, fidelitátem íntegram suo sponso tenens, in pace et voluntáte tua permáneat, atque in mútua caritáte semper vivat. Per Christum Dóminum nostrum. 
+Benedic, Domine, anulum hunc, quem nos in tuo nomine benedicimus: ut, quae eum gestaverit, fidelitatem íntegram suo sponso tenens, in pace et voluntate tua permaneat, atque in mutua caritate semper vivat. Per Christum Dominum nostrum. 
 
 R. Amen.
 
-3\. Deinde Sacerdos aspergat anulum aqua benedicta; et sponsus acceptum anulum de manu Sacerdotis imponat in digito anulari sinistræ manus sponsae, Sacerdote dicente:
+3\. Deinde Sacerdos aspergat anulum aqua benedicta; et sponsus acceptum anulum de manu Sacerdotis imponat in digito anulari sinistrae manus sponsae, Sacerdote dicente:
 
-In nómine Patris, et Fílii, et Spíritus Sancti. Amen.
+In nomine Patris, et Filii, et Spiritus Sancti. Amen.
 
 Mox Sacerdos subjungat:
 
-V. Confírma hoc, Deus, quod operátus es in nobis.
+V. Confírma hoc, Deus, quod operatus es in nobis.
 
-R. A templo sancto tuo, quod est in Jerúsalem.
+R. A templo sancto tuo, quod est in Jerusalem.
 
-Kýrie, eléison. Christe, eléison. Kýrie, eléison.
+Kyrie, eleison. Christe, eleison. Kyrie, eleison.
 
 Pater noster secreto usque ad:
 
-V. Et ne nos indúcas in tentatiónem.
+V. Et ne nos inducas in tentationem.
 
-R. Sed líbera nos a malo.
+R. Sed libera nos a malo.
 
 V. Salvos fac servos tuos.
 
-R. Deus meus, sperántes in te.
+R. Deus meus, sperantes in te.
 
-V. Mitte eis, Dómine, auxílium de sancto.
+V. Mitte eis, Domine, auxilium de sancto.
 
-R. Et de Sion tuére eos.
+R. Et de Sion tuere eos.
 
-V. Esto eis, Dómine, turris fortitúdinis.
+V. Esto eis, Domine, turris fortitudinis.
 
-R. A fácie inimíci.
+R. A facie inimici.
 
-V. Dómine, exáudi oratiónem meam.
+V. Domine, exaudi orationem meam.
 
-R. Et clamor meus ad te véniat.
+R. Et clamor meus ad te veniat.
 
-V. Dóminus vobíscum.
+V. Dominus vobiscum.
 
-R. Et cum spíritu tuo.
+R. Et cum spiritu tuo.
 
-Orémus. Oratio
+Oremus. Oratio
 
-Réspice, quæsumus, Dómine, super hos fámulos tuos: et institútis tuis, quibus propagatiónem humáni géneris ordinásti, benígnus assíste; ut qui te auctóre jungúntur, te auxiliánte servéntur. Per Christum Dóminum nostrum. R. Amen.
+Respice, quaesumus, Domine, super hos famulos tuos: et institutis tuis, quibus propagationem humani generis ordinasti, benignus assiste; ut qui te auctore junguntur, te auxiliante serventur. Per Christum Dominum nostrum. R. Amen.
 
-4\. His expletis, si benedicendæ sint nuptiæ, Parochus Missam pro Sponso et Sponsa, ut in Missali Romano, celebret, servatis omnibus quæ ibi præscribuntur.
+4\. His expletis, si benedicendae sint nuptiae, Parochus Missam pro Sponso et Sponsa, ut in Missali Romano, celebret, servatis omnibus quae ibi praescribuntur.
 
-5\. Quando plures simul copulantur, accepto primum singulorum consensu, et rite celebratis singulis Matrimoniis, dictoque pro singulis a Parocho Ego conjúngo vos in matrimónium, etc., benedictiones anulorum et reliquæ benedictiones plurali numero semel fiunt.
+5\. Quando plures simul copulantur, accepto primum singulorum consensu, et rite celebratis singulis Matrimoniis, dictoque pro singulis a Parocho Ego conjungo vos in matrimonium, etc., benedictiones anulorum et reliquae benedictiones plurali numero semel fiunt.
 
-6\. Ceterum, sicubi aliæ laudabiles consuetudines et cæremoniæ in celebrando Matrimonii Sacramento adhibentur, eas convenit retineri.
+6\. Ceterum, sicubi aliae laudabiles consuetudines et caeremoniae in celebrando Matrimonii Sacramento adhibentur, eas convenit retineri.
 
-7\. Celebrato Matrimonio, Parochus vel qui ejus vices gerit, quamprimum describat in libro Matrimoniorum nomina conjugum ac testium, locum et diem celebrati Matrimonii, atque alia juxta formulam præscriptam; idque licet alius Sacerdos vel a se vel ab Ordinario delegatus Matrimonio adstiterit.
+7\. Celebrato Matrimonio, Parochus vel qui ejus vices gerit, quamprimum describat in libro Matrimoniorum nomina conjugum ac testium, locum et diem celebrati Matrimonii, atque alia juxta formulam praescriptam; idque licet alius Sacerdos vel a se vel ab Ordinario delegatus Matrimonio adstiterit.
 
 Præterea Parochus in libro quoque Baptizatorum adnotet conjugem tali die in sua parœcia Matrimonium contraxisse. Quod si conjux alibi baptizatus fuerit, Matrimonii Parochus notitiam initi contractus ad Parochum Baptismi sive per se sive per Curiam episcopalem transmittat, ut Matrimonium in Baptizatorum librum referatur.
 
@@ -214,10 +212,4 @@ Moreover, the pastor should note in the Book of Baptisms that the party has cont
 
 [^2]: Catholic Church. “Rite for Celebrating Marriage.” _Rituale Romanum_, 1962, https://web.archive.org/web/20191024134650/https://www.sanctamissa.org/en/resources/books-1962/rituale-romanum/67-matrimony-rite.html
 
-[^3]: Searle, M., and K. W. Stevenson. _Documents of the Marriage Liturgy_. Liturgical Press, 1992,https://books.google.com/books?id=OhZ_QgAACAAJ.
-
-[^4]: Holy Mass And More. “The Seven Sacraments and Their Liturgies, Part 7: Marriage,” August 23, 2018. https://www.holymassandmore.org/2018/08/the-seven-sacraments-and-their_23.html.
-
-[^5]: Friel, David. “The Historic Adaptability of the Marriage Rite.” _Corpus Christi Watershed_, 2016, http://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/
-
-[^6]: Catholic Church. _Rituale romanum_. 1873. Internet Archive, http://archive.org/details/ritualeromanum00cath_0
+[^3]: Friel, David. “The Historic Adaptability of the Marriage Rite.” _Corpus Christi Watershed_, 2016, http://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/
