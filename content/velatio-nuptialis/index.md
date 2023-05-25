@@ -19,25 +19,31 @@ _Photo: Allison Girone, 2022_
 
 The _velatio nuptialis_, or nuptial veil, is an ancient wedding custom. It may also be called a care cloth or wedding canopy. Like all wedding customs and texts, it has a complicated and rich history. 
 
-In practice, it's quite simple: during the [Nuptial Blessing](https://www.latinmasswedding.com/nuptial-blessing/), a cloth is held over the heads of the bride and groom. 
+In practice, it's quite simple: during the [Nuptial Blessing](/nuptial-blessing/), a cloth is held over the heads of the bride and groom. 
 
 Below is a collection of photos and histories of this beautiful custom. 
 
-# Photos
+# Photos from Allison Girone
 
 ![](/uploads/velatio1.JPG)
+
 ![](/uploads/velatio2.JPG)
+
 ![](/uploads/velatio3.JPG)
+
 ![](/uploads/velatio4.JPG)
+
 ![](/uploads/velatio5.JPG)
+
 ![](/uploads/velatio6.JPG)
-_Photo: Allisone Girone, 2022_
 
-![](/uploads/35989.JPG)
-"Cover." Linen, cutwork. Gift of Mrs. Laurent Oppenheim, 1917. Metropolitan Museum of Art, 17th century. https://www.metmuseum.org/art/collection/search/219922. Read more: "Recent Accessions." The Metropolitan Museum of Art Bulletin 12, no. 7 (1917): 157-61. https://doi.org/10.2307/3253810. http://www.jstor.org/stable/3253810.
+# Photos from museums
 
-![](/uploads/auxerre_velatio.JPG)
-Mariage religieux (France, Auxerre, Trésor de la Cathédrale, Ms. 8 f. 121) https://bvmm.irht.cnrs.fr/consult/consult.php?VUE_ID=1416016
+![](/uploads/35989.JPG "Cover. Linen, cutwork. Gift of Mrs. Laurent Oppenheim, 1917. Metropolitan Museum of Art, 17th century. https://www.metmuseum.org/art/collection/search/219922. ")
+
+Read more: "Recent Accessions." The Metropolitan Museum of Art Bulletin 12, no. 7 (1917): 157-61. https://doi.org/10.2307/3253810. http://www.jstor.org/stable/3253810.
+
+![](/uploads/auxerre_velatio.JPG "Mariage religieux (France, Auxerre, Trésor de la Cathédrale, Ms. 8 f. 121) https://bvmm.irht.cnrs.fr/consult/consult.php?VUE_ID=1416016")
 
 # Sources
 
