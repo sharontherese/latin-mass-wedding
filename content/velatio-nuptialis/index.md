@@ -1,10 +1,10 @@
 +++
-text: ''
-title: Velatio Nuptialis
-toggle: false
+text = ""
+title = "Velatio Nuptialis"
+toggle = false
 
-header:
-  caption: "Photograph by Allison Girone, 2022"
+[header]
+caption = "Photograph by Allison Girone, 2022"
 
 +++
 
