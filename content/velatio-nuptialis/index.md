@@ -1,12 +1,12 @@
 +++
-text = ""
-title = "Velatio Nuptialis"
-toggle = false
+text: ''
+title: Velatio Nuptialis
+toggle: false
+
+header:
+  caption: "Photograph by Allison Girone, 2022"
 
 +++
-
-_Photo: Allison Girone, 2022_
-
 
 > "Ille jugans capita amborum sub pace jugali, velat eos dextra, quos prece sanctificat.”
 > 
