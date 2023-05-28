@@ -61,7 +61,7 @@ In 2016, the ICEL's English translation of the second typical edition (of 1991) 
 
 # Brief timeline
 
-* **4th century**: In his _Vulgate_, St. Jerome translates the Greek _mysterion_ into the Latin _sacramentum_, thus affirming Marriage as one of the seven Sacraments of the Catholic Church [^1] [^2]. Paulinus, bishop of Nola, provides us with the earliest documented instance of a Catholic wedding Mass in the West. Notably, there is no exchange of rings or vows (which scholars suggest likely took place earlier, in the home), and no celebration of the Eucharist. [^3]
+* **4th century**: In his _Vulgate_, St. Jerome translates the Greek _mysterion_ into the Latin _sacramentum_, thus affirming Marriage as one of the seven Sacraments of the Catholic Church. Paulinus, bishop of Nola, provides us with the earliest documented instance of a Catholic wedding Mass in the West. Notably, there is no exchange of rings or vows (which scholars suggest likely took place earlier, in the home), and no celebration of the Eucharist.
 
 * **High Middle Ages**: The Middle Ages produces the greatest flowering of artistic and musical beauty within the Mass, leading to (among other things) enormous local and regional differences in celebrations of the Mass, and Masses overflowing, perhaps overburdened, with artistic zeal. Throughout this time, marriages are mostly private affairs, generally not requiring witnesses - consent of the two parties was valued above all else. Weddings usually did not take place in a Mass, or even in a church. This could reflect the Church's love of the local, despite her desire for universality.
 
@@ -83,7 +83,9 @@ In 2016, the ICEL's English translation of the second typical edition (of 1991) 
 
 * **2016**: The ICEL publishes a new English translation of the second typical edition of the Rite of Marriage.
 
-# More sources on the history of weddings 
+# Assorted sources on the history of Catholic weddings 
+
+"The Nuptial Mass." The Monitor, June 17 1880. https://thecatholicnewsarchive.org/?a=d&d=tmon18800617-01.2.24&srpos=1.
 
 Andrus, Maryanne, and Donna L. Whitson. "Weddings in the Pioneer West." Points West  (Fall 2005). https://centerofthewest.org/2018/03/09/points-west-frontier-weddings/.
 
@@ -97,16 +99,14 @@ Cuthbert Johnson, Anthony Ward, at al. Le Liber Ordinum En Usage Dans Léglise W
 
 Forest, Maggie. "Pro Sponso Et Sponsa: A Background on Christian Marriage Rituals in Northern Europe During the High Middle Ages." https://web.archive.org/web/20230124034416/http://www.forest.gen.nz/Medieval/articles/wedding/Pro_sponso.html
 
+Gregory, Br, "A Look at an Early 16th Century Bragan Nuptial Rite," Alma Bracarense, 2018, https://web.archive.org/web/20230528021006/https://almabracarense.wordpress.com/2018/12/09/a-look-at-an-early-16th-century-bragan-nuptial-rite/.
+
 Penner, Barbara. "“A Vision of Love and Luxury:” the Commercialization of Nineteenth‐Century American Weddings." Winterthur Portfolio 39, no. 1 (2004/03/01 2004): 1-20. https://doi.org/10.1086/431007
 
-S. L. T. "Votive Masses, Part II." American Ecclesiastical Review  (1903): 557-60. https://books.google.com/books?id=PipHAQAAMAAJ.
+Ranger, Arden. "A History of Anglo-Saxon Wedding Customs." Teemings, no. 6. https://web.archive.org/web/20221101140851/http://web.cs.ucla.edu/classes/winter04/cs240A/notes/temporal/Teemings%20-%20Issue%206%20-%20A%20History%20of%20Anglo-Saxon%20Wedding%20Customs%20by%20Arden%20Ranger.htm.
+
+S. L. T. "Votive Masses, Part II." American Ecclesiastical Review  (1903): 557-60. https://books.google.com/books?id=PipHAQAAMAAJ
+
+San Pedro, Maricar Cinco. "Marrying in Ancient, Sacred Catholic Rites." Philippine Daily Inquirer, 2013/10/17/ 2013. https://web.archive.org/web/20221208071757/https://www.pressreader.com/philippines/philippine-daily-inquirer-1109/20131017/281672547673113
 
 Veblen, Thorstein. Theory of the Leisure Class: An Economic Study of Institutions. New York: B. W. Huebsch, 1899.
-
-# Sources
-
-[^1]: Catholic Church. “The Church in God’s Plan.” Catechism of the Catholic Church, 1993, #774.
-
-[^2]: Just, Felix. “The Seven Sacraments.” Electronic New Testament Educational Resources, https://catholic-resources.org/ChurchDocs/Sacraments.htm. Accessed 3 June 2019.
-
-[^3]: Searle, M., and K. W. Stevenson. Documents of the Marriage Liturgy. Liturgical Press, 1992.
