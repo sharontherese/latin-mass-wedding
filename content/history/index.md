@@ -17,6 +17,10 @@ Both the Rite of Marriage and the Wedding Mass have complex histories, which are
 
 None of this information is comprehensive, and I welcome suggestions or corrections. 
 
+# Nuptial Blessing Comparisons
+
+{{% staticref "files/1962_2016_NuptialBlessing.pdf" %}}English: Compare the 1962 vs. 2016 Nuptial Blessing **with differences highlighted** (PDF){{% /staticref %}}
+
 # Ritual Comparisons 
 
 My starting point is the _Rituale Romanum_ promulgated after the Council of Trent in 1615. The 1615 _Rite of Marriage_ is identical to the 1962 Rite. Using the 1962 Rite as a starting point, let us compare it with the 1964, 1969, 1991, and 2016. 
