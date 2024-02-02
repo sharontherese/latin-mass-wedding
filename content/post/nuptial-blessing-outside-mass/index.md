@@ -2,8 +2,8 @@
 title: The full text of the nuptial blessing outside of Mass
 date: 2024-02-01
 view: "2"
-# header:
-#  caption: 'The St. Louis Register, Volume 15, Number 33, 12 August 1955'
+ header:
+  caption: 'Abruzzo wedding, by Pasquale Celommi, 19th century'
 #  image: SLR19550812.jpg
 
 ---
