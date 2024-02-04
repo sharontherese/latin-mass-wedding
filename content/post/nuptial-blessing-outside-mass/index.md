@@ -31,60 +31,54 @@ tags:
  - weddings
 ---
 
-The blessing below is taken from the 1954 _Collectio Rituum ad instar appendicis Rituali Romani pro dioecesibus statuum foederatorum Americae septentrionalis_. This blessing is intended for couples marrying with the traditional Rite of Marriage, without a wedding Mass. 
+The blessing outside of a Mass, or the _Benedictio Nuptialis extra Missam_ is taken from the appendix "De Matrimonio" of the _Rituale Romanum_. 
 
-After the exchange of rings, the priest reads Psalm 127, and then says a short prayer. 
+# Benedictio nuptialis extra Missam danda ex Apostolico induito quando Missa non dicitur
 
-# Latin
+_Expleto ritu celebrandi Matrimonii sacramentum (Ritual. Rom., tit. VII, cap. II), post Orationem Respice, etc., si permittatur benedictio nuptialis, sed non dicatur Missa, sacerdos qui speciale indultum a Sancta Sede obtinuerit, ad neo-conjugatos conversus, dicit Psalmum sequentem:_
 
 ## Psalmus 127
 
-Beatus, quicumque times Dominum, qui ambulas in viis ejus! 
+Beati omnes, qui timent Dominum, qui ambulant in viis ejus.
 
-Nam laborem manuum tuarum manducabis, beatus eris et bene tibi erit. 
+Labores manuum tuarum quia manducais: beatus es, et bene tibi erit.
 
-Uxor tua sicut vitis fructifera in penetralibus domus tuae, 
+Uxor tua sicut vitis abundans, in lateribus domus tuae.
 
-Filii tui ut surculi olivarum circa mensam tuam. 
+Filii tui sicut novellae olivarum, in circuitu mensae tuae.
 
-Ecce sic benedictur vir, qui timet Dominum! 
+Ecce sic benedicetur homo, qui timet Dominum.
 
-Benedicat tibi Dominus ex Sion, ut videas prosperitatem Jerusalem onmibus diebus vitae tuae. 
+Benedicat tibi Dominus ex Sion: et videas bona Jerusalem omnibus diebus vitae tuae.
 
-Ut videas filios filiorum tuorum: pas super Israel! 
+Et videas filios filiorum tuorum, pacem super Israel.
 
-Gloria patri, et Filio, et Spiritui Sancto. Sicut erit in principio, et nunc, et semper, et in saecula saeculorum. Amen. 
+Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc et semper, et in saecula saeculorum. Amen.
 
-## Blessing
+Kyrie, eleison. Christe, eleison. Kyrie, eleison.
 
-_Si nuptie non sint benedicenda, post Psalmum 127 cum Versiculis, ut supra n. 7, Sacerdos dicat sequentem tantum orationem:_
+Pater noster _secreto usque ad_
 
-Oremus. Praetende, quaesumus, Domine, fidelibus tuis dexteram caelestis auxilii, ut te toto corde perquirant, et quae digne postulant assequantur. Per Christum Dominum nostrum. 
+V. Et ne nos inducas in tentationem.
+
+R. Sed libera nos a malo.
+
+y. Domine, exaudi orationem meam.
+
+R. Et clamor meus ad te veniat.
+
+V. Dominus vobiscum.
+
+R. Et cum spiritu tuo.
+
+Oremus.
+
+Benedic, Domine, et respice de caelis super hanc conjunctionem: et sicut misisti sanctum Angelum tuum Raphaelem pacificum ad Tobiam et Saram, filiam Raguelis; ita digneris, Domine, mittere benedictionem tuam super hos conjuges, ut in tua benedictione permaneant, in tua voluntate persistant, et in tuo amore vivant. Per Christum Dominum nostrum. 
 
 R. Amen.
 
-# English
+_Deinde elevatis manibus et extensis super capita eorum, ministro librum tenente, dicit:_
 
-## Psalm 127
+Dominus Deus omnipotens benedicat vos, impleatque benedictionem in vobis, et videatis filios filiorum vestrorum usque in tertiam et quartam generationem et progeniem, et ad optatam perveniatis senectutem. Per Christum Dominum nostrum. 
 
-Happy are you who fear the Lord, who walk in his ways!
-
-For you shall eat the fruit of your handiwork; happy shall you be, and favored. 
-
-Your wife shall be like a fruitful vine in the recesses of your home; 
-
-Your children like olive plants around your table. 
-
-Behold, thus is the man blessed who fears the Lord. 
-
-The Lord bless you from Sion: May you see the prosperity of Jerusalem all the days of your life; 
-
-May you see your children's children. Peace be upon Israel! 
-
-Glory be to the Father, and to the Son, and to the Holy Spirit. As it was in the beginning, is now, and ever shall be, world without end. Amen.
-
-## Blessing
-
-Let us pray. O Lord, we implore Thee, extend to Thy faithful servants the right hand of Thy divine assistance, so that they may seek Thee with their whole hearts and receive from Thee whatever they ask for that is right. Through Christ our Lord. 
-
-R. Amen. 
+R. Amen.
